@@ -16588,5 +16588,2217 @@ const TOPICS = [
         "tier": 5
       }
     ]
+  },
+  {
+    "id": "aviation",
+    "name": "Aviation",
+    "questions": [
+      {
+        "q": "What do we call a person licensed to fly an airplane?",
+        "opts": [
+          "A pilot",
+          "A navigator",
+          "A dispatcher",
+          "A steward"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What do we call the place where aircraft take off, land, and are serviced?",
+        "opts": [
+          "A seaport",
+          "An airport",
+          "A rail depot",
+          "A shipping terminal"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "What do an airplane's wings produce to keep it in the air?",
+        "opts": [
+          "Lift",
+          "Thrust",
+          "Drag",
+          "Weight"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Who is credited with the first sustained, powered airplane flight?",
+        "opts": [
+          "Charles Lindbergh",
+          "The Wright brothers",
+          "Alberto Santos-Dumont",
+          "Otto Lilienthal"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "What kind of aircraft has no engine and rides on air currents?",
+        "opts": [
+          "A glider",
+          "A jet",
+          "A blimp",
+          "A helicopter"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the device that records flight data, nicknamed the 'black box'?",
+        "opts": [
+          "The cockpit voice recorder",
+          "The flight data recorder",
+          "The altimeter",
+          "The transponder"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "What is the section at the front of a plane where the pilot sits called?",
+        "opts": [
+          "The galley",
+          "The cockpit",
+          "The fuselage",
+          "The cargo hold"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "What are the spinning blades on top of a helicopter called?",
+        "opts": [
+          "The tail boom",
+          "The main rotor",
+          "The landing skid",
+          "The turbine"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "What do we call a crew member who serves and assists passengers in the cabin?",
+        "opts": [
+          "A flight attendant",
+          "A ground crew chief",
+          "A baggage handler",
+          "An air traffic controller"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the long paved strip used for aircraft takeoff and landing called?",
+        "opts": [
+          "A taxiway",
+          "A runway",
+          "A hangar",
+          "An apron"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "What causes a hot air balloon to rise?",
+        "opts": [
+          "Heated air",
+          "Compressed nitrogen",
+          "Helium gas",
+          "A spinning fan"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which supersonic passenger jet was retired from service in 2003?",
+        "opts": [
+          "The Boeing 747",
+          "Concorde",
+          "The Airbus A320",
+          "The Spruce Goose"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "What term describes an unmanned aircraft flown remotely or by computer?",
+        "opts": [
+          "A drone",
+          "A zeppelin",
+          "A biplane",
+          "A seaplane"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What color is a 'black box' flight recorder actually painted?",
+        "opts": [
+          "Black",
+          "Orange",
+          "Silver",
+          "Green"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "What is the rear section of an aircraft, including the tail fin, called?",
+        "opts": [
+          "The fuselage",
+          "The empennage",
+          "The nacelle",
+          "The undercarriage"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "What gas is commonly used to keep modern airships and blimps afloat?",
+        "opts": [
+          "Hydrogen",
+          "Helium",
+          "Oxygen",
+          "Nitrogen"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "What is the curved cross-section shape of a wing called?",
+        "opts": [
+          "An airfoil",
+          "A wing chord",
+          "A leading edge",
+          "A control surface"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What rank is given to the pilot in overall command of a commercial flight?",
+        "opts": [
+          "First officer",
+          "Captain",
+          "Purser",
+          "Dispatcher"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "What term describes an airline that offers cheap fares with minimal extra services?",
+        "opts": [
+          "A charter carrier",
+          "A budget airline",
+          "A cargo airline",
+          "A regional shuttle"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "Which aircraft is the world's largest passenger airliner by size?",
+        "opts": [
+          "The Boeing 787",
+          "The Airbus A380",
+          "The Boeing 737",
+          "The Concorde"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "What force acts opposite to thrust and slows an aircraft down as it moves through air?",
+        "opts": [
+          "Lift",
+          "Drag",
+          "Gravity",
+          "Torque"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "What is the name for the wheels and struts an aircraft lands on?",
+        "opts": [
+          "The landing gear",
+          "The flap system",
+          "The pylon mount",
+          "The stabilizer"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What instrument shows a pilot the aircraft's height above sea level?",
+        "opts": [
+          "The airspeed indicator",
+          "The altimeter",
+          "The compass",
+          "The artificial horizon"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "Which airline was the launch customer for the Boeing 747 in 1970?",
+        "opts": [
+          "Pan Am",
+          "Delta Air Lines",
+          "British Airways",
+          "Qantas"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What do we call the maximum speed at which a plane must lift off during takeoff?",
+        "opts": [
+          "Stall speed",
+          "Rotation speed",
+          "Cruise speed",
+          "Approach speed"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "What is the hinged control surface on the trailing edge of a wing, used to bank an aircraft, called?",
+        "opts": [
+          "The rudder",
+          "The aileron",
+          "The elevator",
+          "The slat"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "Which country's air force operated the Spitfire during the Battle of Britain?",
+        "opts": [
+          "The United States",
+          "The United Kingdom",
+          "France",
+          "Canada"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "What is the term for the loss of lift that occurs when a wing exceeds its critical angle of attack?",
+        "opts": [
+          "A spin",
+          "A stall",
+          "A flutter",
+          "A stagnation"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "What do pilots call the standardized alphabet used to spell words over radio, such as 'Alpha, Bravo, Charlie'?",
+        "opts": [
+          "The international Morse code alphabet",
+          "The NATO phonetic alphabet",
+          "The Q-code system",
+          "The call sign registry"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "Which US space agency oversees civilian aeronautics research alongside its space missions?",
+        "opts": [
+          "NASA",
+          "NOAA",
+          "The FAA",
+          "DARPA"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What do we call the system of ground-based controllers who direct aircraft movement in the sky?",
+        "opts": [
+          "Flight dispatch",
+          "Air traffic control",
+          "Ground handling",
+          "Airport operations"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "What is the name of the German airship that caught fire while landing in New Jersey in 1937?",
+        "opts": [
+          "The Graf Zeppelin",
+          "The Hindenburg",
+          "The R101",
+          "The Akron"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "What jet engine type is most commonly used on modern airliners for its fuel efficiency?",
+        "opts": [
+          "The turbojet",
+          "The turbofan",
+          "The ramjet",
+          "The pulsejet"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "What was the world's first commercial jet airliner, entering service in 1952?",
+        "opts": [
+          "The Boeing 707",
+          "The de Havilland Comet",
+          "The Douglas DC-8",
+          "The Sud Aviation Caravelle"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "What do we call a flight that stops at an intermediate airport before reaching its final destination?",
+        "opts": [
+          "A direct flight",
+          "A layover flight",
+          "A charter flight",
+          "A ferry flight"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "What is the name for extreme turbulence encountered in clear skies with no visible clouds?",
+        "opts": [
+          "Wind shear",
+          "Clear-air turbulence",
+          "Mountain wave turbulence",
+          "Microburst"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "Which aircraft type has a rotor on top and no fixed wings, allowing it to hover?",
+        "opts": [
+          "An autogyro",
+          "A helicopter",
+          "A glider",
+          "A biplane"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "What is the international radio distress call used by aircraft in an emergency?",
+        "opts": [
+          "SOS",
+          "Mayday",
+          "Pan-pan",
+          "Roger"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "What do we call the downward-angled surfaces on the trailing edge of a wing used to increase lift at low speed?",
+        "opts": [
+          "Slats",
+          "Flaps",
+          "Spoilers",
+          "Winglets"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "Which US aviator became famous for her disappearance over the Pacific Ocean in 1937?",
+        "opts": [
+          "Bessie Coleman",
+          "Amelia Earhart",
+          "Jacqueline Cochran",
+          "Harriet Quimby"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "What aerodynamic principle explains the pressure difference that helps generate lift over a wing?",
+        "opts": [
+          "Newton's third law only",
+          "Bernoulli's principle",
+          "The Doppler effect",
+          "Boyle's law"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "What is the name of the sound barrier-breaking research aircraft flown by Chuck Yeager in 1947?",
+        "opts": [
+          "The X-1",
+          "The X-15",
+          "The SR-71",
+          "The North American F-86"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What term describes an aircraft's tendency to return to stable, level flight after a disturbance without pilot input?",
+        "opts": [
+          "Static instability",
+          "Inherent stability",
+          "Adverse yaw",
+          "Dutch roll"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "Which reconnaissance aircraft, nicknamed 'Blackbird,' still holds speed records for a manned air-breathing jet?",
+        "opts": [
+          "The U-2",
+          "The SR-71",
+          "The F-117",
+          "The B-2"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "What 1944 agreement established the framework for international civil aviation and created ICAO?",
+        "opts": [
+          "The Warsaw Convention",
+          "The Chicago Convention",
+          "The Montreal Protocol",
+          "The Paris Agreement"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "What is the term for the invisible turbulent air disturbance trailing behind an aircraft's wingtips?",
+        "opts": [
+          "Wake turbulence",
+          "Wind shear",
+          "Ground effect",
+          "Boundary layer separation"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which airline disaster in 1977, involving two 747s on a runway, remains the deadliest in aviation history?",
+        "opts": [
+          "The Lockerbie bombing",
+          "The Tenerife airport disaster",
+          "The Tenerife volcanic eruption incident",
+          "The Nagoya crash"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "What onboard device broadcasts an aircraft's identity and altitude to air traffic control radar?",
+        "opts": [
+          "A transponder",
+          "An ADF receiver",
+          "A DME unit",
+          "An ELT beacon"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What do we call the phenomenon where a wing generates extra lift very close to the ground?",
+        "opts": [
+          "Ground effect",
+          "Vortex ring state",
+          "Coriolis drift",
+          "Adverse yaw"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which fighter aircraft, developed in the Soviet Union, became one of the most widely produced jet fighters ever built?",
+        "opts": [
+          "The Sukhoi Su-27",
+          "The MiG-21",
+          "The Yakovlev Yak-9",
+          "The Tupolev Tu-16"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "What instrument approach system guides pilots to the runway using radio beams during low visibility?",
+        "opts": [
+          "VOR",
+          "ILS",
+          "GPS",
+          "NDB"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "What was the name of the first aircraft to fly nonstop around the world without refueling, in 1986?",
+        "opts": [
+          "Voyager",
+          "SpaceShipOne",
+          "The Spirit of St. Louis",
+          "Solar Impulse"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which term describes the oscillating yaw-roll coupling that can affect swept-wing jets?",
+        "opts": [
+          "Mach tuck",
+          "Dutch roll",
+          "Wing flutter",
+          "Adverse yaw"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "What do we call the maximum altitude at which an aircraft can maintain level flight?",
+        "opts": [
+          "Service ceiling",
+          "Cruise altitude",
+          "Transition level",
+          "Flight envelope"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which French aviator and writer disappeared while flying a reconnaissance mission in 1944?",
+        "opts": [
+          "Louis Blériot",
+          "Antoine de Saint-Exupéry",
+          "Jean Mermoz of Aéropostale",
+          "Roland Garros"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "What is the name for a sudden, localized downdraft that can be extremely hazardous during takeoff or landing?",
+        "opts": [
+          "A microburst",
+          "A jet stream",
+          "A thermal",
+          "A katabatic wind"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which US aircraft manufacturer built the B-52 Stratofortress bomber still in service today?",
+        "opts": [
+          "Lockheed",
+          "Boeing",
+          "Northrop Grumman",
+          "McDonnell Douglas"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "What do we call the region of disturbed air behind a wing where the airflow separates during a stall?",
+        "opts": [
+          "Turbulent wake",
+          "Boundary layer separation",
+          "Vortex shedding",
+          "Adverse pressure gradient region"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "Which historic flight in 1919 made the first nonstop transatlantic crossing by air?",
+        "opts": [
+          "Lindbergh's solo flight",
+          "Alcock and Brown's flight",
+          "The R34 airship crossing",
+          "Earhart's transatlantic flight"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "What navigational aid uses ground radio stations to give pilots bearing information toward or away from a station?",
+        "opts": [
+          "ADF",
+          "VOR",
+          "ILS",
+          "DME only"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "What theorem relates the circulation around an airfoil to the lift it generates in ideal fluid flow?",
+        "opts": [
+          "The Bernoulli theorem",
+          "The Kutta-Joukowski theorem",
+          "The Navier-Stokes theorem",
+          "The Reynolds theorem"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "Which dimensionless number characterizes the ratio of inertial to viscous forces in airflow over a wing?",
+        "opts": [
+          "The Mach number",
+          "The Reynolds number",
+          "The Froude number",
+          "The Strouhal number"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "What phenomenon causes a swept-wing aircraft's nose to pitch down uncommanded as it approaches the speed of sound?",
+        "opts": [
+          "Mach tuck",
+          "Dutch roll",
+          "Adverse yaw",
+          "Wing flutter"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which 1935 US aircraft crash led directly to the creation of the modern preflight checklist?",
+        "opts": [
+          "The Ford Trimotor crash",
+          "The Boeing Model 299 crash",
+          "The Douglas DC-2 airliner crash",
+          "The Lockheed Vega crash"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "What term describes the self-excited, potentially destructive oscillation of a wing or control surface at certain airspeeds?",
+        "opts": [
+          "Buffeting",
+          "Flutter",
+          "Resonance drift",
+          "Divergence stall"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "Which aerodynamicist's boundary layer theory, published in 1904, laid the foundation for modern fluid dynamics?",
+        "opts": [
+          "Daniel Bernoulli",
+          "Ludwig Prandtl",
+          "Theodore von Karman",
+          "Osborne Reynolds"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "What is the term for the critical Mach number beyond which shock-induced drag rises sharply on a wing?",
+        "opts": [
+          "The stall speed",
+          "Drag divergence Mach number",
+          "The critical angle of attack",
+          "The service ceiling"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "Which 1988 structural failure incident saw a Boeing 737 lose a large section of its fuselage roof in flight, yet land safely?",
+        "opts": [
+          "The Aloha Airlines Flight 243 incident",
+          "The United Airlines Flight 811 incident",
+          "The Japan Airlines Flight 123 crash",
+          "The TWA Flight 800 explosion"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What control law philosophy, pioneered on the Airbus A320, uses computers to interpret pilot input rather than direct mechanical linkage?",
+        "opts": [
+          "Direct law",
+          "Fly-by-wire",
+          "Cable-actuated control",
+          "Hydro-mechanical control"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "Which propulsion cycle, used in ramjets and scramjets, compresses incoming air using only the vehicle's forward motion?",
+        "opts": [
+          "The Brayton cycle with a compressor",
+          "Ram compression without rotating parts",
+          "The Otto cycle",
+          "The Rankine cycle"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "What do engineers call the point along an airfoil where the resultant aerodynamic force is considered to act?",
+        "opts": [
+          "The center of gravity",
+          "The center of pressure",
+          "The neutral point",
+          "The stagnation point"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "Which 1974 crash of a Turkish Airlines DC-10 near Paris was traced to a faulty cargo door latch design?",
+        "opts": [
+          "Turkish Airlines Flight 981",
+          "American Airlines Flight 191",
+          "United Airlines Flight 232",
+          "Air France Flight 4590"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What structural design philosophy assumes that cracks will inevitably form and designs parts to tolerate them safely?",
+        "opts": [
+          "Fail-safe design",
+          "Damage tolerance design",
+          "Safe-life design",
+          "Redundant load design"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "Which wind tunnel testing regime studies airflow at speeds between roughly Mach 0.8 and Mach 1.2?",
+        "opts": [
+          "Subsonic regime",
+          "Transonic regime",
+          "Hypersonic regime",
+          "Supersonic cruise regime"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "What do we call the vortex generated at a wingtip due to the pressure difference between upper and lower wing surfaces?",
+        "opts": [
+          "A wingtip vortex",
+          "A boundary eddy",
+          "A wake shear line",
+          "A trailing thermal"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which engineer designed the area rule, a fuselage-shaping technique that reduced transonic drag on jets like the F-102?",
+        "opts": [
+          "Clarence 'Kelly' Johnson",
+          "Richard Whitcomb",
+          "Jack Northrop",
+          "Burt Rutan"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "What term describes an aircraft engine failure mode in which a compressor's airflow reverses violently, often with a loud bang?",
+        "opts": [
+          "Flameout",
+          "Compressor surge",
+          "Turbine seizure",
+          "Fuel starvation"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "Which 1996 crash was ultimately attributed to a short circuit igniting vapors in a center fuel tank over the Atlantic?",
+        "opts": [
+          "ValuJet Flight 592",
+          "TWA Flight 800",
+          "Swissair Flight 111",
+          "EgyptAir Flight 990"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "What do aerospace engineers call the load factor limit an airframe is certified to withstand without permanent deformation?",
+        "opts": [
+          "The ultimate load limit",
+          "The limit load factor",
+          "The fatigue threshold",
+          "The yield envelope"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "Which composite material, made of carbon fiber reinforced with epoxy resin, makes up over half the structure of the Boeing 787?",
+        "opts": [
+          "Fiberglass-reinforced laminate panels",
+          "Carbon fiber reinforced polymer",
+          "Aluminum-lithium alloy",
+          "Titanium matrix composite"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "Which 1935 report by Boeing test pilots, after the Model 299 crash, coined the phrase describing an aircraft as 'too much airplane for one man to fly'?",
+        "opts": [
+          "A congressional inquiry summary",
+          "A newspaper report on the crash",
+          "An internal Army Air Corps memo",
+          "A Boeing shareholder letter"
+        ],
+        "a": 1,
+        "tier": 5
+      },
+      {
+        "q": "What obscure 1930s British research program developed the radar technology later credited with helping win the Battle of Britain?",
+        "opts": [
+          "The Ultra codebreaking program",
+          "The Chain Home radar network",
+          "The Tizard Mission delegation",
+          "Operation Whirlwind fighter sweeps"
+        ],
+        "a": 1,
+        "tier": 5
+      },
+      {
+        "q": "Which theoretical aerodynamicist's 1918 lifting-line theory first modeled finite wing lift distribution mathematically?",
+        "opts": [
+          "Ludwig Prandtl",
+          "Theodore von Karman",
+          "Max Munk",
+          "Hermann Glauert"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What is the name of the obscure Soviet ekranoplan, a massive ground-effect vehicle nicknamed the 'Caspian Sea Monster'?",
+        "opts": [
+          "The Lun-class ekranoplor",
+          "The KM ekranoplan",
+          "The A-90 Orlyonok",
+          "The Bartini Beriev VVA-14"
+        ],
+        "a": 1,
+        "tier": 5
+      },
+      {
+        "q": "Which 1956 midair collision over the Grand Canyon directly led to the creation of the modern US air traffic control system?",
+        "opts": [
+          "The New York midair collision of 1960",
+          "The Grand Canyon collision of 1956",
+          "The San Diego collision of 1978",
+          "The Cerritos midair collision of 1986"
+        ],
+        "a": 1,
+        "tier": 5
+      },
+      {
+        "q": "What obscure aerodynamic effect, named after a German engineer, describes lift generated by a spinning cylinder in an airstream?",
+        "opts": [
+          "The Coanda effect",
+          "The Magnus effect",
+          "The Venturi effect",
+          "The Kutta condition"
+        ],
+        "a": 1,
+        "tier": 5
+      },
+      {
+        "q": "Which early 20th-century aviation pioneer built the first practical helicopter to achieve sustained, controllable flight in 1939?",
+        "opts": [
+          "Paul Cornu",
+          "Igor Sikorsky",
+          "Juan de la Cierva",
+          "Raoul Hafner"
+        ],
+        "a": 1,
+        "tier": 5
+      },
+      {
+        "q": "What was the codename for the secretive US program that developed the stealthy F-117 Nighthawk at Lockheed's Skunk Works?",
+        "opts": [
+          "Have Blue",
+          "Aurora",
+          "Senior Trend",
+          "Constant Peg"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which obscure 1920s aviation figure, a US Army officer, was court-martialed for publicly criticizing military leadership over air power?",
+        "opts": [
+          "Jimmy Doolittle",
+          "Billy Mitchell",
+          "Hap Arnold",
+          "Frank Andrews"
+        ],
+        "a": 1,
+        "tier": 5
+      },
+      {
+        "q": "What is the name of the experimental NASA aircraft that first achieved sustained hypersonic flight above Mach 9 in 2004?",
+        "opts": [
+          "The X-15",
+          "The X-43A",
+          "The SR-72 concept",
+          "The Boeing X-51"
+        ],
+        "a": 1,
+        "tier": 5
+      },
+      {
+        "q": "Which little-known British aircraft designer created the Spitfire's elliptical wing to minimize induced drag?",
+        "opts": [
+          "Sydney Camm",
+          "R.J. Mitchell",
+          "Roy Chadwick",
+          "Geoffrey de Havilland"
+        ],
+        "a": 1,
+        "tier": 5
+      },
+      {
+        "q": "What obscure clause in aviation insurance and law is invoked when an airline denies liability due to an 'act of God' weather event?",
+        "opts": [
+          "Force majeure",
+          "The Warsaw limitation clause",
+          "Res ipsa loquitur",
+          "The frustration doctrine"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which German aerospace engineer, later working for NASA, pioneered the V-2 rocket before contributing to hypersonic research?",
+        "opts": [
+          "Wernher von Braun",
+          "Willy Messerschmitt",
+          "Ernst Heinkel",
+          "Kurt Tank"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What obscure early jet engine concept, patented by Frank Whittle in 1930, used a centrifugal compressor design?",
+        "opts": [
+          "An axial-flow turbojet design",
+          "A centrifugal-flow turbojet design",
+          "A pulsejet resonance chamber design",
+          "A ramjet inlet diffuser"
+        ],
+        "a": 1,
+        "tier": 5
+      },
+      {
+        "q": "Which obscure WWII aircraft, the Horten Ho 229, is considered an early precursor to modern stealth flying-wing designs?",
+        "opts": [
+          "The Horten Ho 229 flying wing",
+          "The Messerschmitt Me 163 rocket fighter",
+          "The Arado Ar 234 jet bomber",
+          "The Junkers Ju 287 forward-swept jet"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What obscure term describes the vertical instability in a helicopter's rotor causing it to descend into its own downwash uncontrollably?",
+        "opts": [
+          "Retreating blade stall",
+          "Vortex ring state",
+          "Ground resonance",
+          "Dynamic rollover"
+        ],
+        "a": 1,
+        "tier": 5
+      },
+      {
+        "q": "Which obscure 1930s transatlantic seaplane, operated by Pan Am, was known as a 'flying boat' Clipper?",
+        "opts": [
+          "The Boeing 314 Clipper",
+          "The Short Empire flying boat",
+          "The Sikorsky S-42",
+          "The Dornier Do X"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What obscure aviation regulation body preceded the FAA, established in 1938 to regulate US civil aviation?",
+        "opts": [
+          "The Civil Aeronautics Authority",
+          "The Air Commerce Bureau",
+          "The National Advisory Committee for Aeronautics",
+          "The Bureau of Air Commerce"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which obscure test pilot became the first to eject from an aircraft at supersonic speed and survive, in 1966?",
+        "opts": [
+          "Bill Weaver",
+          "Neil Armstrong",
+          "Scott Crossfield",
+          "Milt Thompson"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What obscure principle explains why a rearward-swept wing delays the onset of compressibility drag near the speed of sound?",
+        "opts": [
+          "It reduces the wing's total lift coefficient permanently across the entire flight envelope",
+          "It reduces the airflow component perpendicular to the leading edge",
+          "It increases the wing's overall structural weight substantially",
+          "It increases the angle of attack automatically at high speed"
+        ],
+        "a": 1,
+        "tier": 5
+      }
+    ]
+  },
+  {
+    "id": "psychology",
+    "name": "Psychology",
+    "questions": [
+      {
+        "q": "What do we call the field of study concerned with the mind and behavior?",
+        "opts": [
+          "Sociology",
+          "Psychology",
+          "Anthropology",
+          "Philosophy"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "Who developed the theory of psychoanalysis and the concept of the unconscious mind?",
+        "opts": [
+          "Carl Jung",
+          "Sigmund Freud",
+          "B.F. Skinner",
+          "Ivan Pavlov"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "What term describes learning a behavior through rewards and punishments?",
+        "opts": [
+          "Classical conditioning",
+          "Operant conditioning",
+          "Observational learning",
+          "Cognitive mapping"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "Which scientist is famous for conditioning dogs to salivate at the sound of a bell?",
+        "opts": [
+          "Ivan Pavlov",
+          "B.F. Skinner",
+          "John Watson",
+          "Wolfgang Kohler"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What do psychologists call the study of how people think, learn, and remember?",
+        "opts": [
+          "Behaviorism",
+          "Cognitive psychology",
+          "Psychoanalysis",
+          "Humanistic psychology"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "What is the term for a lasting change in behavior resulting from experience?",
+        "opts": [
+          "Learning",
+          "Instinct",
+          "Reflex",
+          "Maturation"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which part of the brain is primarily associated with memory formation?",
+        "opts": [
+          "The cerebellum",
+          "The hippocampus",
+          "The medulla",
+          "The occipital lobe"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "What do we call a mental shortcut that helps people make quick decisions?",
+        "opts": [
+          "A heuristic",
+          "A syllogism",
+          "A schema only",
+          "An algorithm"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the term for feelings of worry, nervousness, or unease about something?",
+        "opts": [
+          "Depression",
+          "Anxiety",
+          "Mania",
+          "Apathy"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "Which famous experiment involved a child, a white rat, and a loud noise to study fear conditioning?",
+        "opts": [
+          "The Little Albert experiment",
+          "The Bobo doll experiment",
+          "The Milgram experiment",
+          "The Stanford prison experiment"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What do we call one's overall sense of self-worth or personal value?",
+        "opts": [
+          "Self-esteem",
+          "Self-efficacy",
+          "Ego identity",
+          "Self-actualization"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What term describes the five senses gathering information from the environment?",
+        "opts": [
+          "Perception",
+          "Sensation",
+          "Cognition",
+          "Attention"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "Which psychologist created a famous hierarchy of human needs shaped like a pyramid?",
+        "opts": [
+          "Carl Gustav Jung",
+          "Abraham Maslow",
+          "Erik Erikson",
+          "Jean Piaget"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "What is the term for the loss of memory, often due to injury or trauma?",
+        "opts": [
+          "Amnesia",
+          "Dementia",
+          "Delirium",
+          "Dissociation"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What do we call a repeated pattern of thought or behavior a person struggles to stop?",
+        "opts": [
+          "A phobia",
+          "A habit",
+          "A delusion",
+          "A hallucination"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "Which term describes an intense, irrational fear of a specific object or situation?",
+        "opts": [
+          "A phobia",
+          "An obsession",
+          "A compulsion",
+          "A neurosis"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What do psychologists call the process of storing information in the brain for later use?",
+        "opts": [
+          "Memory",
+          "Perception",
+          "Motivation",
+          "Cognition only"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the term for a psychologist who treats mental disorders through talk therapy?",
+        "opts": [
+          "A psychiatrist",
+          "A therapist",
+          "A neurologist",
+          "A sociologist"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "Which basic emotion is typically shown by a downturned mouth and tears?",
+        "opts": [
+          "Anger",
+          "Sadness",
+          "Disgust",
+          "Surprise"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "What do we call the scientific method of observing and recording behavior without interference?",
+        "opts": [
+          "A controlled laboratory experiment",
+          "Naturalistic observation",
+          "A longitudinal survey study",
+          "An in-depth case study analysis"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "Who proposed the stages of psychosocial development spanning infancy to old age?",
+        "opts": [
+          "Erik Erikson",
+          "Jean Piaget",
+          "Lawrence Kohlberg",
+          "Sigmund Freud"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What term describes changing one's behavior to match a group, even without direct pressure?",
+        "opts": [
+          "Obedience",
+          "Conformity",
+          "Compliance",
+          "Groupthink"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "Which famous study had participants deliver what they believed were painful electric shocks to another person?",
+        "opts": [
+          "The Stanford prison experiment",
+          "The Milgram obedience experiment",
+          "The Asch conformity experiment",
+          "The Harlow monkey experiment"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "What is the cognitive bias where people favor information that confirms their existing beliefs?",
+        "opts": [
+          "Hindsight bias",
+          "Confirmation bias",
+          "Anchoring bias",
+          "Availability heuristic"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "Which psychologist studied moral development using dilemmas like the Heinz story?",
+        "opts": [
+          "Erik Erikson",
+          "Lawrence Kohlberg",
+          "Urie Bronfenbrenner",
+          "Albert Bandura"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "What do we call the tendency to judge the frequency of events by how easily examples come to mind?",
+        "opts": [
+          "The anchoring heuristic",
+          "The availability heuristic",
+          "The representativeness heuristic",
+          "The affect heuristic"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "Which theorist proposed stages of cognitive development including the sensorimotor and formal operational stages?",
+        "opts": [
+          "Jean Piaget",
+          "Lev Vygotsky",
+          "John Bowlby",
+          "Mary Ainsworth"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is the term for the emotional bond formed between an infant and a primary caregiver?",
+        "opts": [
+          "Bonding only",
+          "Attachment",
+          "Imprinting",
+          "Symbiosis"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "Which researcher conducted the Bobo doll experiment demonstrating observational learning of aggression?",
+        "opts": [
+          "Wolfgang Kohler",
+          "Albert Bandura",
+          "John B. Watson",
+          "Harry Harlow"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "What term describes a state of reduced awareness of self, often occurring within large groups?",
+        "opts": [
+          "Groupthink",
+          "Deindividuation",
+          "Social loafing",
+          "Diffusion of responsibility"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "Which personality theory organizes traits into openness, conscientiousness, extraversion, agreeableness, and neuroticism?",
+        "opts": [
+          "The Big Five model",
+          "The Myers-Briggs typology",
+          "Freud's psychosexual stages",
+          "Eysenck's PEN model"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is the term for reduced individual effort when working in a group compared to alone?",
+        "opts": [
+          "Social facilitation",
+          "Social loafing",
+          "Groupthink",
+          "Bystander effect"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "Which phenomenon describes bystanders being less likely to help a victim when other people are present?",
+        "opts": [
+          "Social loafing",
+          "The bystander effect",
+          "Diffusion of responsibility",
+          "Conformity"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "What do we call therapy that focuses on changing distorted thought patterns to change behavior?",
+        "opts": [
+          "Classical psychoanalytic therapy",
+          "Cognitive behavioral therapy",
+          "Humanistic therapy",
+          "Gestalt therapy"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "Which psychologist is best known for founding humanistic psychology and person-centered therapy?",
+        "opts": [
+          "Carl Rogers",
+          "Abraham Maslow",
+          "Rollo May",
+          "Fritz Perls"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What term describes a mental framework that helps organize and interpret information?",
+        "opts": [
+          "A schema",
+          "A heuristic",
+          "An archetype",
+          "A construct"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which disorder is characterized by alternating periods of depression and mania?",
+        "opts": [
+          "Major depressive disorder",
+          "Bipolar disorder",
+          "Schizophrenia",
+          "Generalized anxiety disorder"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "What do we call the psychological defense mechanism of attributing one's own unacceptable feelings to others?",
+        "opts": [
+          "Repression",
+          "Projection",
+          "Sublimation",
+          "Displacement"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "Which memory system holds information temporarily while it is being actively processed?",
+        "opts": [
+          "Long-term memory",
+          "Working memory",
+          "Sensory memory",
+          "Procedural memory"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "What term describes an involuntary physiological response, such as salivating at the sight of food?",
+        "opts": [
+          "An operant response",
+          "An unconditioned response",
+          "A conditioned stimulus",
+          "A reinforcement schedule"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "Which controversial study placed college students into roles of guards and prisoners in a mock prison?",
+        "opts": [
+          "The Milgram experiment",
+          "The Stanford prison experiment",
+          "The Robbers Cave experiment",
+          "The Little Albert experiment"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "What term describes the discomfort felt when holding two contradictory beliefs at once?",
+        "opts": [
+          "Cognitive dissonance",
+          "Confirmation bias",
+          "Learned helplessness",
+          "Reactance"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which researcher's attachment styles, including secure and insecure-avoidant, came from the Strange Situation experiment?",
+        "opts": [
+          "Mary Ainsworth",
+          "John Bowlby",
+          "Harry Harlow",
+          "Diana Baumrind"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is the name for the phenomenon where a person gives up trying after repeated failure to control an outcome?",
+        "opts": [
+          "Cognitive dissonance",
+          "Learned helplessness",
+          "Self-handicapping",
+          "Locus of control shift"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "Which classic conformity study used lines of differing lengths to test group pressure on judgments?",
+        "opts": [
+          "The Milgram experiment",
+          "The Asch conformity experiment",
+          "The Sherif autokinetic experiment",
+          "The Zimbardo experiment"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "What do we call the tendency to attribute others' behavior to their character rather than their situation?",
+        "opts": [
+          "The self-serving attribution bias",
+          "The fundamental attribution error",
+          "The halo effect",
+          "The just-world hypothesis"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "Which brain structure, part of the limbic system, plays a central role in processing fear?",
+        "opts": [
+          "The amygdala",
+          "The thalamus",
+          "The hypothalamus",
+          "The corpus callosum"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is the term for a disorder marked by persistent, intrusive memories and hypervigilance after trauma?",
+        "opts": [
+          "Generalized anxiety disorder",
+          "Post-traumatic stress disorder",
+          "Obsessive-compulsive disorder",
+          "Dissociative identity disorder"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "Which theorist introduced the concept of the 'shadow' and 'collective unconscious' in analytical psychology?",
+        "opts": [
+          "Carl Jung",
+          "Alfred Adler",
+          "Karen Horney",
+          "Erich Fromm"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What do we call the gradual decrease in response to a stimulus after repeated exposure?",
+        "opts": [
+          "Habituation",
+          "Sensitization",
+          "Extinction",
+          "Generalization"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which experiment involving infant monkeys and wire versus cloth 'mothers' studied the nature of attachment?",
+        "opts": [
+          "The Harlow monkey experiments",
+          "The Ainsworth Strange Situation",
+          "The Bandura Bobo doll study",
+          "The Rosenhan experiment"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What term describes reverting to childlike behavior when facing stress, according to Freudian theory?",
+        "opts": [
+          "Sublimation",
+          "Regression",
+          "Reaction formation",
+          "Rationalization"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "Which psychologist proposed that intelligence includes multiple distinct types, such as musical and interpersonal?",
+        "opts": [
+          "Howard Gardner",
+          "Robert Sternberg",
+          "Charles Spearman",
+          "Raymond Cattell"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is the name for the effect where physically attractive people are also assumed to have positive traits?",
+        "opts": [
+          "The Pygmalion effect",
+          "The halo effect",
+          "The Barnum effect",
+          "The mere exposure effect"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "Which disorder involves the presence of two or more distinct personality states within one individual?",
+        "opts": [
+          "Schizophrenia",
+          "Dissociative identity disorder",
+          "Borderline personality disorder",
+          "Bipolar disorder"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "What do we call the phenomenon where expectations about a person cause them to act in ways that confirm those expectations?",
+        "opts": [
+          "Confirmation bias",
+          "Self-fulfilling prophecy",
+          "Cognitive dissonance theory",
+          "The Barnum effect"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "Which experiment exposed participants to fake patients being wrongly diagnosed as sane once admitted to a hospital?",
+        "opts": [
+          "The Rosenhan experiment",
+          "The Milgram experiment",
+          "The Zimbardo experiment",
+          "The Asch experiment"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What term describes the sense of vague, general statements as uniquely applicable to oneself, as in horoscopes?",
+        "opts": [
+          "The halo effect",
+          "The Barnum effect",
+          "The false consensus effect",
+          "The spotlight effect"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "Which neurotransmitter is most closely associated with mood regulation and is targeted by many antidepressants?",
+        "opts": [
+          "Dopamine",
+          "Serotonin",
+          "Acetylcholine",
+          "GABA"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "What is the name of Piaget's stage during which children develop object permanence, roughly birth to age two?",
+        "opts": [
+          "The preoperational stage",
+          "The sensorimotor stage",
+          "The concrete operational stage",
+          "The formal operational stage"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "Which psychologist's triarchic theory of intelligence proposed analytical, creative, and practical components?",
+        "opts": [
+          "Robert Sternberg",
+          "Howard Gardner",
+          "Raymond Cattell",
+          "Charles Spearman"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What term describes the diathesis-stress model's explanation for how mental disorders develop?",
+        "opts": [
+          "Only inherited genetic vulnerability determines the onset",
+          "Inherited vulnerability combined with life stress triggers onset",
+          "Only environmental stress determines the onset, regardless of genes",
+          "Only early childhood trauma determines adult onset"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "Which obscure conformity researcher, working before Asch, studied group norms using an ambiguous moving light illusion?",
+        "opts": [
+          "Muzafer Sherif",
+          "Solomon Asch",
+          "Stanley Milgram",
+          "Leon Festinger"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is the term for a research design that studies the same group of individuals repeatedly over many years?",
+        "opts": [
+          "A cross-sectional study",
+          "A longitudinal study",
+          "A case-control study",
+          "A twin study"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "Which theorist's concept of 'flow' describes complete absorption in an activity as a source of optimal experience?",
+        "opts": [
+          "Martin Seligman",
+          "Mihaly Csikszentmihalyi",
+          "Abraham Harold Maslow",
+          "Carl Ransom Rogers"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "What do we call the statistical concept representing how much variance in an outcome is explained by a given factor?",
+        "opts": [
+          "Effect size",
+          "Standard deviation",
+          "Correlation coefficient",
+          "Confidence interval"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which obscure Gestalt principle describes the tendency to perceive incomplete figures as whole, complete forms?",
+        "opts": [
+          "The law of proximity",
+          "The law of closure",
+          "The law of similarity",
+          "The law of continuity"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "What is the name for Seligman's positive psychology model outlining well-being through five pillars, including meaning and accomplishment?",
+        "opts": [
+          "The PERMA model",
+          "The hierarchy of needs model",
+          "The self-determination theory model",
+          "The broaden-and-build model"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which obscure researcher's twin studies at the University of Minnesota examined the heritability of personality traits?",
+        "opts": [
+          "Thomas Bouchard",
+          "Robert Plomin",
+          "Sandra Scarr",
+          "Eric Turkheimer"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What term describes the process by which short-term memories become stable, long-term memories over time?",
+        "opts": [
+          "Encoding of new sensory input",
+          "Consolidation",
+          "Retrieval from storage",
+          "Chunking related items"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "Which obscure theory holds that emotions arise from perceiving physiological arousal and then labeling it based on context?",
+        "opts": [
+          "The James-Lange theory, where bodily reactions precede emotion",
+          "The Schachter-Singer two-factor theory",
+          "The Cannon-Bard theory, where arousal and emotion occur together",
+          "The facial feedback theory, where expressions trigger feelings"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "What is the name for the defense mechanism of converting unacceptable impulses into socially acceptable actions?",
+        "opts": [
+          "Sublimation",
+          "Reaction formation",
+          "Displacement",
+          "Rationalization"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which obscure phenomenon describes decision-making groups suppressing dissent to preserve harmony, coined by Irving Janis?",
+        "opts": [
+          "Social loafing",
+          "Groupthink",
+          "Pluralistic ignorance",
+          "Deindividuation"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "What term describes an individual's general belief about whether outcomes are controlled internally or by outside forces?",
+        "opts": [
+          "Self-efficacy",
+          "Locus of control",
+          "Attribution style",
+          "Explanatory style"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "Which obscure clinical instrument, developed by Hathaway and McKinley, is widely used to assess personality and psychopathology?",
+        "opts": [
+          "The Rorschach test",
+          "The MMPI",
+          "The Thematic Apperception Test",
+          "The Beck Depression Inventory"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "What is the term for the tendency of people to rate ambiguous, universally applicable descriptions as personally accurate?",
+        "opts": [
+          "The false consensus effect",
+          "The Barnum effect",
+          "The Dunning-Kruger effect",
+          "The spotlight effect"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "Which obscure researcher proposed the 'triangular theory of love,' involving intimacy, passion, and commitment?",
+        "opts": [
+          "Robert Sternberg",
+          "Elaine Hatfield",
+          "Zick Rubin",
+          "John Gottman"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What term describes overconfidence in one's abilities that is most pronounced among low performers, per Dunning and Kruger?",
+        "opts": [
+          "The Dunning-Kruger effect",
+          "The false consensus effect",
+          "The overjustification effect",
+          "The impostor phenomenon"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which obscure model of persuasion distinguishes a deep 'central route' from a superficial 'peripheral route'?",
+        "opts": [
+          "The elaboration likelihood model",
+          "The heuristic-systematic model",
+          "The cognitive dissonance model",
+          "The social judgment model"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is the name for the decline in intrinsic motivation for an activity once external rewards are introduced?",
+        "opts": [
+          "Learned helplessness, from giving up control after failure",
+          "The overjustification effect",
+          "Cognitive dissonance, from conflicting beliefs",
+          "Reactance to a perceived loss of freedom"
+        ],
+        "a": 1,
+        "tier": 4
+      },
+      {
+        "q": "Which obscure 1950s study by Solomon Asch specifically varied group size to find conformity peaked around three to five confederates?",
+        "opts": [
+          "The Asch line-judgment study on group size effects",
+          "The Sherif autokinetic norm study, using a stationary point of light",
+          "The Milgram obedience proximity variation study",
+          "The Festinger cognitive dissonance study on forced compliance"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What obscure term, coined by Martin Seligman, describes explanatory style marked by internal, stable, global causes for failure?",
+        "opts": [
+          "Learned optimism",
+          "Pessimistic explanatory style",
+          "Depressive realism",
+          "Negative attributional bias"
+        ],
+        "a": 1,
+        "tier": 5
+      },
+      {
+        "q": "Which little-known early behaviorist argued psychology should study only observable behavior, rejecting introspection entirely?",
+        "opts": [
+          "John B. Watson",
+          "Edward Titchener",
+          "William James",
+          "Wilhelm Wundt"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What obscure statistical artifact describes scores appearing to improve on retesting purely due to natural variation, not treatment?",
+        "opts": [
+          "Regression to the mean",
+          "The placebo effect",
+          "The Hawthorne effect",
+          "Practice effects only"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which obscure 1960s study by Latane and Darley formally established the diffusion of responsibility in emergencies?",
+        "opts": [
+          "The smoke-filled room bystander experiments",
+          "The Milgram obedience variations testing shock proximity",
+          "The Asch conformity variations testing group size",
+          "The Zimbardo prison study on assigned social roles"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What obscure Freudian term describes anxiety arising from a conflict between the id's impulses and the superego's demands?",
+        "opts": [
+          "Neurotic anxiety",
+          "Moral anxiety",
+          "Realistic anxiety",
+          "Existential anxiety"
+        ],
+        "a": 1,
+        "tier": 5
+      },
+      {
+        "q": "Which obscure researcher's 'strange situation' variant identified a fourth attachment style called disorganized attachment?",
+        "opts": [
+          "Mary Main",
+          "Mary Ainsworth",
+          "John Bowlby",
+          "Alan Sroufe"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What obscure phenomenon describes people rating themselves as less biased than the average person, despite equal actual bias?",
+        "opts": [
+          "The bias blind spot",
+          "The false consensus effect",
+          "The illusory superiority effect",
+          "The actor-observer bias"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which little-known early Gestalt psychologist studied insight learning in chimpanzees on the island of Tenerife?",
+        "opts": [
+          "Wolfgang Kohler",
+          "Max Wertheimer",
+          "Kurt Koffka",
+          "Kurt Lewin"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What obscure clinical term describes a patient's unconscious redirection of feelings about a past figure onto the therapist?",
+        "opts": [
+          "Countertransference",
+          "Transference",
+          "Projective identification",
+          "Resistance"
+        ],
+        "a": 1,
+        "tier": 5
+      },
+      {
+        "q": "Which obscure 1970s study found that seminary students in a hurry were less likely to help a person in distress, testing situational versus dispositional causes of helping?",
+        "opts": [
+          "The Good Samaritan study by Darley and Batson",
+          "The Robbers Cave experiment on intergroup conflict",
+          "The Milgram obedience study on shock compliance",
+          "The Asch conformity study on group judgment pressure"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What obscure term describes therapy's tendency to improve outcomes through the client's expectation of improvement, apart from technique?",
+        "opts": [
+          "The placebo effect, from expecting relief alone",
+          "Common factors in therapy outcome",
+          "The Hawthorne effect, from simply being observed",
+          "The Rosenthal effect, from an examiner's expectations"
+        ],
+        "a": 1,
+        "tier": 5
+      },
+      {
+        "q": "Which obscure researcher proposed the polyvagal theory linking the vagus nerve to social engagement and threat response?",
+        "opts": [
+          "Stephen Porges",
+          "Antonio Damasio",
+          "Joseph LeDoux",
+          "Paul Ekman"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What obscure term describes a culture-bound syndrome once documented in Malaysia involving a sudden, dissociative violent outburst?",
+        "opts": [
+          "Amok",
+          "Koro",
+          "Latah",
+          "Dhat syndrome"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which obscure early psychologist, a student of Wundt, founded structuralism and emphasized analyzing consciousness into basic elements?",
+        "opts": [
+          "Edward Titchener",
+          "G. Stanley Hall",
+          "James Cattell",
+          "Hugo Munsterberg"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What obscure term describes the tendency for well-practiced skills to break down under pressure due to excess self-focus?",
+        "opts": [
+          "Choking under pressure",
+          "Social facilitation decline",
+          "Evaluation apprehension collapse",
+          "Arousal-induced deficit"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which obscure researcher's 'ironic process theory' explains why deliberately suppressing a thought can make it more intrusive?",
+        "opts": [
+          "Daniel Wegner",
+          "Roy Baumeister",
+          "Timothy Wilson",
+          "Daniel Kahneman"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What obscure term names the small, real improvement some patients show from simply being observed and studied, first noted at a factory?",
+        "opts": [
+          "The Hawthorne effect",
+          "The placebo effect",
+          "The observer-expectancy effect",
+          "The demand characteristic effect"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which obscure 1960s study by Rosenthal and Jacobson found teacher expectations alone could raise student test scores over a year?",
+        "opts": [
+          "The Pygmalion in the Classroom study",
+          "The Robbers Cave study",
+          "The Kitty Genovese bystander analysis",
+          "The Harlow attachment study"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What obscure term describes a therapist's own unconscious emotional reactions toward a client, distinct from the client's transference?",
+        "opts": [
+          "Countertransference",
+          "Projective identification",
+          "Resistance",
+          "Splitting"
+        ],
+        "a": 0,
+        "tier": 5
+      }
+    ]
   }
 ];
