@@ -18800,5 +18800,2217 @@ const TOPICS = [
         "tier": 5
       }
     ]
+  },
+  {
+    "id": "design",
+    "name": "Design",
+    "questions": [
+      {
+        "q": "What are the three primary colors in traditional color theory?",
+        "opts": [
+          "Red, yellow, and blue",
+          "Red, green, and blue",
+          "Cyan, magenta, and yellow",
+          "Orange, green, and purple"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What does 'UX' stand for in design?",
+        "opts": [
+          "Unified Xperience",
+          "User Experience",
+          "User Extension",
+          "Universal Exchange"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "Which shape is most associated with stability in design?",
+        "opts": [
+          "Circle",
+          "Triangle",
+          "Square",
+          "Spiral"
+        ],
+        "a": 2,
+        "tier": 1
+      },
+      {
+        "q": "What is a typeface with small strokes at the ends of letters called?",
+        "opts": [
+          "Serif",
+          "Sans-serif",
+          "Script",
+          "Monospace"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What color do you get by mixing blue and yellow paint?",
+        "opts": [
+          "Purple",
+          "Orange",
+          "Green",
+          "Brown"
+        ],
+        "a": 2,
+        "tier": 1
+      },
+      {
+        "q": "What is the term for empty space around design elements?",
+        "opts": [
+          "Negative space",
+          "Positive space",
+          "Dead zone",
+          "Blank field"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which software is widely used for vector illustration?",
+        "opts": [
+          "Illustrator",
+          "Photoshop",
+          "After Effects",
+          "Excel"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What does 'logo' commonly refer to in branding?",
+        "opts": [
+          "A brand's visual symbol",
+          "An advertising slogan",
+          "A specific font family",
+          "A brand's color palette"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the grid of horizontal and vertical lines used to align layout elements called?",
+        "opts": [
+          "A grid system",
+          "A wireframe",
+          "A mood board",
+          "A palette"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "In design, what does 'CMYK' stand for?",
+        "opts": [
+          "Cyan, Magenta, Yellow, Key",
+          "Color, Model, Yield, Key",
+          "Cyan, Maroon, Yellow, Khaki",
+          "Cyan, Magenta, Yellow, Kelvin"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is a rough sketch showing the basic layout of a screen called?",
+        "opts": [
+          "A prototype",
+          "A wireframe",
+          "A storyboard",
+          "A blueprint"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "Which of these is a warm color?",
+        "opts": [
+          "Blue",
+          "Green",
+          "Orange",
+          "Purple"
+        ],
+        "a": 2,
+        "tier": 1
+      },
+      {
+        "q": "What term describes text set in all capital letters?",
+        "opts": [
+          "Uppercase",
+          "Bold text",
+          "Italic text",
+          "Underlined text"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the main purpose of a logo?",
+        "opts": [
+          "To decorate a blank page",
+          "To identify a brand",
+          "To fill empty space",
+          "To display prices"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "Which color combination is considered complementary on the color wheel?",
+        "opts": [
+          "Red and green",
+          "Red and orange",
+          "Blue and purple",
+          "Yellow and orange"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What does 'RGB' stand for in digital design?",
+        "opts": [
+          "Red, Green, Blue",
+          "Red, Gray, Black",
+          "Rich, Green, Bold",
+          "Red, Gold, Bronze"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is a mood board used for?",
+        "opts": [
+          "Gathering visual references",
+          "Tracking project deadlines",
+          "Storing font license files",
+          "Testing software code"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which of these best describes 'branding'?",
+        "opts": [
+          "A company's overall identity",
+          "A single printed advertisement",
+          "A specialized printer device",
+          "A specialized coding language"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the term for the main body text style used in a design?",
+        "opts": [
+          "Header font",
+          "Body font",
+          "Display font",
+          "Icon font"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "Which industrial designer's name is associated with the Bauhaus-influenced Braun products?",
+        "opts": [
+          "Dieter Rams",
+          "Steve Jobs",
+          "Frank Lloyd Wright",
+          "Le Corbusier"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What art and design school, founded in Germany in 1919, emphasized unity of art and craft?",
+        "opts": [
+          "Bauhaus",
+          "Beaux-Arts",
+          "De Stijl",
+          "Vienna Secession"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Who designed the iconic Coca-Cola contour bottle?",
+        "opts": [
+          "Raymond Loewy",
+          "Earl Dean",
+          "Paul Rand",
+          "Massimo Vignelli"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "Which principle refers to repeating visual elements to create unity in a design?",
+        "opts": [
+          "Contrast",
+          "Repetition",
+          "Proximity",
+          "Consistency"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "What is the golden ratio approximately equal to?",
+        "opts": [
+          "1.414",
+          "1.618",
+          "2.718",
+          "3.14"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "Which typeface classification includes Helvetica and Arial?",
+        "opts": [
+          "Serif",
+          "Sans-serif",
+          "Slab serif",
+          "Script"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "What design movement, associated with the Netherlands, used strict grids and primary colors, led by Mondrian?",
+        "opts": [
+          "De Stijl",
+          "Art Nouveau",
+          "Constructivism",
+          "Memphis"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Who designed the IBM logo and famously said 'design is a plan for arranging elements'?",
+        "opts": [
+          "Paul Rand",
+          "Milton Glaser",
+          "Saul Bass",
+          "Neville Brody"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What term describes designing digital products around real user needs and behaviors?",
+        "opts": [
+          "User-centered design",
+          "Graphic design work",
+          "Print production design",
+          "Motion graphics design"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which of these is a key principle of Gestalt psychology used in design?",
+        "opts": [
+          "Proximity",
+          "Saturation",
+          "Kerning",
+          "Bleed"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is the practice of adjusting space between individual letter pairs called?",
+        "opts": [
+          "Leading",
+          "Kerning",
+          "Tracking",
+          "Justifying"
+        ],
+        "a": 1,
+        "tier": 2
+      },
+      {
+        "q": "Which company's minimalist product design is closely tied to designer Jony Ive?",
+        "opts": [
+          "Apple",
+          "Sony",
+          "Samsung",
+          "Dell"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is a 'style guide' in design used for?",
+        "opts": [
+          "Documenting a brand's visual standards",
+          "Recording client invoices and payments",
+          "Listing font licenses and pricing",
+          "Scheduling internal team meetings"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which Swiss designer created the International Typographic Style, also known as Swiss Style?",
+        "opts": [
+          "Müller-Brockmann",
+          "Armin Hofmann",
+          "Emil Ruder",
+          "Adrian Frutiger"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What does 'affordance' mean in design terminology?",
+        "opts": [
+          "How an object suggests its use",
+          "The manufacturing cost of a product",
+          "A specific font weight variant",
+          "A print finishing technique used"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "In typography, what is 'leading' used to describe?",
+        "opts": [
+          "Space between lines of text",
+          "Space between individual letters",
+          "The thickness of letter strokes",
+          "The slant used in italics"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which art movement, flourishing around 1890-1910, is known for organic, flowing lines and floral motifs?",
+        "opts": [
+          "Art Nouveau",
+          "Cubism",
+          "Futurism",
+          "Minimalism"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is the primary goal of 'user testing' in UX design?",
+        "opts": [
+          "Finding usability issues with real users",
+          "Speeding up backend code compilation",
+          "Selecting official brand color palettes",
+          "Filing legal patents for a product"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Who is often credited with designing the original Apple rainbow logo?",
+        "opts": [
+          "Rob Janoff",
+          "Susan Kare",
+          "Paul Rand",
+          "Ivan Chermayeff"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What does 'responsive design' refer to in web design?",
+        "opts": [
+          "Layouts that adapt to screen sizes",
+          "Servers that reply within milliseconds",
+          "Support agents replying to tickets quickly",
+          "Smooth animated page transitions"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which Italian design movement of the 1980s embraced bold colors and playful, anti-minimalist forms?",
+        "opts": [
+          "Memphis Group",
+          "Constructivism",
+          "Futurism",
+          "Rationalism"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Who designed the influential 'Beogram' turntables and much of Braun's mid-century product line?",
+        "opts": [
+          "Dieter Rams",
+          "Jacob Jensen",
+          "Charles Eames",
+          "Achille Castiglioni"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What typeface, designed in 1957 by Max Miedinger, became a global corporate standard?",
+        "opts": [
+          "Helvetica",
+          "Futura",
+          "Garamond Premier",
+          "Frutiger"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which design principle describes grouping related items closer together?",
+        "opts": [
+          "Repetition",
+          "Proximity",
+          "Emphasis",
+          "Balance"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "Who wrote the influential UX book 'The Design of Everyday Things'?",
+        "opts": [
+          "Don Norman",
+          "Alan Cooper",
+          "Jakob Nielsen",
+          "Edward Tufte"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What term describes a color's purity or intensity, distinct from lightness or hue?",
+        "opts": [
+          "Saturation",
+          "Brightness",
+          "Value",
+          "Tint"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which Bauhaus master designed the Wassily Chair using tubular steel?",
+        "opts": [
+          "Marcel Breuer",
+          "Walter Gropius",
+          "Wassily Kandinsky",
+          "Mies van der Rohe"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What does 'kerning pair' adjustment specifically address in professional typesetting?",
+        "opts": [
+          "Spacing between two specific adjacent letters",
+          "The overall line height across a paragraph",
+          "The stroke weight of a bold typeface variant",
+          "The color contrast between text and background"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which architect and designer coined the phrase 'form follows function'?",
+        "opts": [
+          "Louis Sullivan",
+          "Frank Lloyd Wright",
+          "Walter Gropius",
+          "Le Corbusier"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is the term for a color scheme built from a single hue at varying tints and shades?",
+        "opts": [
+          "Monochromatic",
+          "Analogous",
+          "Triadic",
+          "Complementary"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "In UX design, what is a 'persona' used to represent?",
+        "opts": [
+          "A fictional archetype based on user research",
+          "A brand mascot used in marketing campaigns",
+          "A specific font pairing style choice",
+          "A diagram of backend server architecture"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which designer created the New York City subway's wayfinding signage system with Massimo Vignelli?",
+        "opts": [
+          "Bob Noorda",
+          "Paul Rand",
+          "Saul Bass",
+          "Herb Lubalin"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What does the term 'grid system' primarily help designers achieve?",
+        "opts": [
+          "Consistent alignment across a layout",
+          "Faster compression of image files",
+          "Brighter rendering of on-screen colors",
+          "Automatic substitution of missing fonts"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which iconic chair, made of molded plywood and leather, did Charles and Ray Eames design in 1956?",
+        "opts": [
+          "The Eames Lounge Chair",
+          "The Egg Chair by Arne Jacobsen",
+          "The Wassily Chair",
+          "The Panton Chair"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is 'Fitts's Law' used to predict in interface design?",
+        "opts": [
+          "How long it takes to point at a target by size and distance",
+          "The ideal number of colors to use in a full brand palette",
+          "The optimal number of characters allowed per line of text",
+          "The best resolution setting to use for glossy print output"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which Dutch graphic designer created the famous 'I Amsterdam' identity concept studio?",
+        "opts": [
+          "KesselsKramer",
+          "Studio Dumbar",
+          "Experimental Jetset",
+          "Pentagram"
+        ],
+        "a": 1,
+        "tier": 3
+      },
+      {
+        "q": "What term describes text alignment where both left and right edges are flush?",
+        "opts": [
+          "Justified",
+          "Centered",
+          "Ragged right",
+          "Indented"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which color model is designed specifically for print production using ink percentages?",
+        "opts": [
+          "CMYK model",
+          "RGB color model",
+          "HSB color model",
+          "LAB color model"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is a 'design sprint', as popularized by Google Ventures?",
+        "opts": [
+          "Five days of prototyping to solve a problem",
+          "A marathon coding session before launch",
+          "A quarterly budget review for the whole team",
+          "A strict print deadline set by a magazine"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which German art school and workshop closed under Nazi pressure in 1933?",
+        "opts": [
+          "The Bauhaus",
+          "The Vienna Secession",
+          "The Wiener Werkstätte",
+          "The Deutscher Werkbund"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What does 'skeuomorphism' in interface design refer to?",
+        "opts": [
+          "Digital elements styled like real objects",
+          "Flat, minimal icon design without texture",
+          "Animated micro-interactions between screens",
+          "Randomized color palettes chosen at runtime"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which typeface did Adrian Frutiger design for the Charles de Gaulle Airport signage system?",
+        "opts": [
+          "Frutiger",
+          "Univers",
+          "Avenir",
+          "Meridien"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Who founded the design consultancy IDEO and championed human-centered design methodology?",
+        "opts": [
+          "David Kelley",
+          "Don Norman",
+          "Tim Brown",
+          "Bill Moggridge"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which movement, led by Aleksandr Rodchenko, merged art with industrial production in the Soviet Union?",
+        "opts": [
+          "Constructivism",
+          "Russian Suprematism",
+          "De Stijl",
+          "Futurism"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What principle in Gestalt theory explains why we perceive incomplete shapes as whole?",
+        "opts": [
+          "Closure",
+          "Similarity",
+          "Continuity",
+          "Figure-ground"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which typographer designed the geometric sans-serif typeface Futura in 1927?",
+        "opts": [
+          "Paul Renner",
+          "Jan Tschichold",
+          "Eric Gill",
+          "Herbert Bayer"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is 'Jakob's Law' in UX design named for and what does it state?",
+        "opts": [
+          "Named for Jakob Nielsen: users expect sites to work like familiar ones",
+          "Named for a Bauhaus founder: forms must strictly follow function",
+          "Named for Jan Tschichold: asymmetric layouts always improve legibility",
+          "Named for a color theorist: complementary hues always increase engagement"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which architect designed the Barcelona Pavilion and coined 'less is more'?",
+        "opts": [
+          "Ludwig Mies van der Rohe",
+          "Le Corbusier (Charles Jeanneret)",
+          "Walter Gropius",
+          "Alvar Aalto"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What does the term 'atomic design', coined by Brad Frost, describe?",
+        "opts": [
+          "Building UI systems from small components up to pages",
+          "Designing ink formulas at a molecular level for print",
+          "A method for compressing image file sizes efficiently",
+          "A grid system loosely based on nuclear physics diagrams"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which Japanese graphic designer created the iconic Tokyo 1964 Olympics poster and identity?",
+        "opts": [
+          "Yusaku Kamekura",
+          "Tadanori Yokoo",
+          "Ikko Tanaka",
+          "Kenya Hara"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What visual phenomenon, studied by Josef Albers in 'Interaction of Color', shows a color's appearance shifting based on surrounding hues?",
+        "opts": [
+          "Simultaneous contrast",
+          "Chromatic aberration",
+          "Metamerism effect",
+          "Color constancy"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which pioneering female designer created the icons and interface elements for the original Macintosh?",
+        "opts": [
+          "Susan Kare",
+          "Zaha Hadid",
+          "Paula Scher",
+          "April Greiman"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What term describes designing with a strict modular grid based on baseline alignment across columns?",
+        "opts": [
+          "Baseline grid system",
+          "Rule of thirds",
+          "Isometric projection",
+          "Parallax layout"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which Italian designer, with his brother Achille, created the Arco floor lamp and the Sella stool?",
+        "opts": [
+          "Pier Giacomo",
+          "Ettore Sottsass",
+          "Gio Ponti",
+          "Mario Bellini"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is the primary distinction between 'UX design' and 'UI design'?",
+        "opts": [
+          "UX covers overall experience and flow; UI covers visual elements",
+          "UX applies only to printed media; UI applies only to web media",
+          "UX refers only to backend logic; UI refers only to database schemas",
+          "There is no meaningful difference between the two terms"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which American designer created the iconic 'I Love New York' logo in 1977?",
+        "opts": [
+          "Milton Glaser",
+          "Paul Rand",
+          "Saul Bass",
+          "Chermayeff & Geismar"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What does 'chromatic adaptation' describe in color perception?",
+        "opts": [
+          "The eye adjusting to color under different lighting",
+          "A printer automatically recalibrating its ink ratios",
+          "A designer picking colors to match a season or mood",
+          "The gradual fading of pigment in sunlight over time"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which architect and designer founded the Wiener Werkstätte in Vienna in 1903?",
+        "opts": [
+          "Josef Hoffmann",
+          "Otto Koloman Wagner",
+          "Gustav Klimt",
+          "Adolf Loos"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "In information architecture, what does a 'card sort' study help designers determine?",
+        "opts": [
+          "How users naturally group and label content",
+          "Which fonts perform best in accessibility testing",
+          "The optimal print run size for packaging",
+          "The minimum color contrast ratio required by law"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which typeface superfamily, designed by Adrian Frutiger in 1957, uses a numeric weight and width naming system?",
+        "opts": [
+          "Univers",
+          "Helvetica",
+          "Akzidenz-Grotesk",
+          "DIN"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What design concept did Victor Papanek advocate for in his book 'Design for the Real World'?",
+        "opts": [
+          "Socially and ecologically responsible design",
+          "Purely ornamental industrial decoration",
+          "Design exclusively for luxury markets",
+          "Abandoning function for aesthetics alone"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "In his 1927 manifesto, which architect declared 'a house is a machine for living in'?",
+        "opts": [
+          "Le Corbusier",
+          "Mies van der Rohe",
+          "Walter Gropius",
+          "Adolf Loos"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which 1908 essay by Adolf Loos famously equated ornament in design with degeneracy?",
+        "opts": [
+          "'Ornament and Crime'",
+          "'Towards a New Architecture'",
+          "'The Bauhaus Manifesto'",
+          "'Less Is More'"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which semiotic framework, applied to design by scholars like Roland Barthes, distinguishes denotation from connotation in visual signs?",
+        "opts": [
+          "Structuralist semiotics",
+          "Gestalt phenomenology",
+          "Bauhaus functionalism",
+          "Constructivist formalism"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Who introduced the term 'affordance' into design discourse via 'The Design of Everyday Things', adapting it from psychologist James Gibson?",
+        "opts": [
+          "Don Norman",
+          "Herbert Simon",
+          "Christopher Alexander",
+          "Victor Papanek"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which design theorist's 1964 book 'Notes on the Synthesis of Form' formalized design as a problem-decomposition process?",
+        "opts": [
+          "Christopher Alexander",
+          "Herbert A. Simon",
+          "R. Buckminster Fuller",
+          "Richard Buchanan"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What term did Richard Buchanan use to describe design problems that are ill-defined and resistant to single solutions?",
+        "opts": [
+          "Wicked problems",
+          "Chaotic systems",
+          "Emergent constraints",
+          "Design entropy"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which critique argued that Bauhaus functionalism itself became a new, market-driven style rather than escaping style entirely?",
+        "opts": [
+          "Critiques by design historians like Reyner Banham",
+          "The Memphis Group's founding design manifesto",
+          "Tschichold's manifesto 'Die Neue Typographie'",
+          "Papanek's 'Design for the Real World' manifesto"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Herbert Simon's 'The Sciences of the Artificial' proposed that design, unlike natural science, studies what kind of subject matter?",
+        "opts": [
+          "The artificial, or things as they ought to be",
+          "Only naturally occurring biological forms",
+          "Purely mathematical abstractions",
+          "Historical architectural styles"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which theorist's concept of 'reflective practice' influenced how design education frames iterative, in-action problem solving?",
+        "opts": [
+          "Donald Schön",
+          "Herbert Simon",
+          "Bruno Latour",
+          "Marshall McLuhan"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "In typographic history, what innovation did Nicolas Jenson's 1470 Venetian roman type introduce that shaped later humanist typefaces?",
+        "opts": [
+          "Letterforms based on humanist calligraphy, not blackletter",
+          "The first use of italic slant in printed text ever",
+          "Mechanically produced sans-serif letterforms for posters",
+          "The first use of a modular grid in an early printed book"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which design historian's 'Theory and Design in the First Machine Age' framed early modernism through the lens of industrial technology?",
+        "opts": [
+          "Reyner Banham",
+          "Nikolaus Pevsner",
+          "Siegfried Giedion",
+          "Kenneth Frampton"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What does Bruno Latour's Actor-Network Theory contribute when applied to design objects?",
+        "opts": [
+          "It treats objects and humans as equally active social agents",
+          "It argues objects have no influence on human behavior at all",
+          "It reduces all design activity to economic transactions",
+          "It claims design history is unknowable without archives"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which concept from Gestalt theory, foundational to design pedagogy, states the whole is perceived as more than the sum of its parts?",
+        "opts": [
+          "Emergence, or Gestalt 'prägnanz'",
+          "Simultaneous contrast between colors",
+          "Chromatic adaptation of the human eye",
+          "Figure-ground reversal in an image"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Siegfried Giedion's 'Mechanization Takes Command' examined how industrial design reshaped which everyday domain in particular?",
+        "opts": [
+          "Households, especially kitchens and domestic tools",
+          "Military weapon systems used exclusively in wartime",
+          "Religious architecture built across many centuries",
+          "Typography and print media alone, excluding objects"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which design methodology, formalized in the 1960s 'design methods movement', sought to make design as systematic and rational as engineering?",
+        "opts": [
+          "The movement led by figures like Christopher Jones",
+          "Postmodern deconstruction of modernist design ideals",
+          "Radical Italian anti-design of the 1970s counterculture",
+          "A revival of Arts and Crafts era handmade craftsmanship"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What critique did the Italian 'Radical Design' and Anti-Design movements of the 1970s level against modernist functionalism?",
+        "opts": [
+          "That functionalism became a conservative, commercialized dogma",
+          "That functionalism used far too much surface ornamentation",
+          "That functionalism ignored large-scale industrial mass production",
+          "That functionalism was simply too costly for most factories"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which philosopher's concept of the 'readymade' is sometimes cited in design theory to question the boundary between object and art?",
+        "opts": [
+          "Marcel Duchamp",
+          "Walter Benjamin",
+          "Theodor Adorno",
+          "Jean Baudrillard"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Walter Benjamin's essay on mechanical reproduction is often invoked in design discourse to discuss the loss of what quality in mass-produced objects?",
+        "opts": [
+          "Aura, an original work's unique presence",
+          "Structural integrity of the raw materials used",
+          "Typographic legibility across printed page sizes",
+          "Color accuracy achieved under mass printing runs"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "In design cognition research, what does 'co-evolution of problem and solution' describe, as proposed by Kees Dorst and Nigel Cross?",
+        "opts": [
+          "Designers reframe the problem while developing solutions",
+          "Two design teams independently converging on one solution",
+          "The gradual merger of print and digital design tools",
+          "Biological evolution metaphors applied to product cycles"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which postmodern architect and theorist's 'Complexity and Contradiction in Architecture' challenged modernist minimalism with 'less is a bore'?",
+        "opts": [
+          "Robert Venturi",
+          "Aldo Rossi",
+          "Rem Koolhaas",
+          "Peter Eisenman"
+        ],
+        "a": 0,
+        "tier": 5
+      }
+    ]
+  },
+  {
+    "id": "anime",
+    "name": "Anime",
+    "questions": [
+      {
+        "q": "What is the Japanese word for a hand-drawn or computer animated TV show or film?",
+        "opts": [
+          "Anime",
+          "Manga",
+          "Kawaii",
+          "Bento"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is a Japanese comic book called?",
+        "opts": [
+          "Manga",
+          "Anime",
+          "Doujin",
+          "Light novel"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the name of the pirate boy protagonist in 'One Piece'?",
+        "opts": [
+          "Luffy",
+          "Zoro",
+          "Sanji",
+          "Usopp"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which anime features a boy who wants to become a Pokémon Master?",
+        "opts": [
+          "Pokémon",
+          "Digimon",
+          "Beyblade",
+          "Yu-Gi-Oh!"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the name of the ninja boy in 'Naruto'?",
+        "opts": [
+          "Naruto",
+          "Sasuke",
+          "Kakashi",
+          "Sakura"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which studio created 'My Neighbor Totoro' and 'Spirited Away'?",
+        "opts": [
+          "Studio Ghibli",
+          "Toei Animation",
+          "Madhouse",
+          "Sunrise"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What do fans call a convention dedicated to anime and manga?",
+        "opts": [
+          "Anime convention",
+          "Comic book fair",
+          "Manga exposition",
+          "Otaku festival"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "In 'Dragon Ball', what is the main character's name?",
+        "opts": [
+          "Goku",
+          "Vegeta",
+          "Piccolo",
+          "Gohan"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is a fan of anime and manga often called in Japanese slang?",
+        "opts": [
+          "Otaku",
+          "Senpai",
+          "Kohai",
+          "Sensei"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which anime features giant robots called Evangelions fighting monsters called Angels?",
+        "opts": [
+          "Neon Genesis Evangelion",
+          "Mobile Suit Gundam",
+          "Voltron",
+          "Super Dimension Fortress Macross"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the name of the yellow electric mouse Pokémon that is the franchise's mascot?",
+        "opts": [
+          "Pikachu",
+          "Charmander",
+          "Squirtle",
+          "Bulbasaur"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What term describes Japanese animated series adapted for television?",
+        "opts": [
+          "Anime series",
+          "Manga series",
+          "Cosplay series",
+          "Light novel series"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which anime centers on a boy named Tanjiro who fights demons to save his sister?",
+        "opts": [
+          "Demon Slayer",
+          "Attack on Titan",
+          "Bleach",
+          "Hunter x Hunter"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the English word for wearing costumes to look like anime characters?",
+        "opts": [
+          "Cosplay",
+          "Roleplay",
+          "Fanplay",
+          "Dress-up"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "In 'Sailor Moon', what is the main character's civilian name?",
+        "opts": [
+          "Usagi Tsukino",
+          "Michiru Kaioh",
+          "Ami Mizuno",
+          "Makoto Kino"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which anime features high school students who fight titans that eat humans?",
+        "opts": [
+          "Attack on Titan",
+          "Tokyo Ghoul:re",
+          "Parasyte",
+          "Berserk"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the term for a Japanese animation studio's original, self-published works by fans?",
+        "opts": [
+          "Doujinshi",
+          "Anthology",
+          "Fanzine",
+          "Scanlation"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What color is Goku's hair when he transforms into a Super Saiyan?",
+        "opts": [
+          "Gold",
+          "Blue",
+          "Red",
+          "Silver"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which anime follows a notebook that can kill anyone whose name is written in it?",
+        "opts": [
+          "Death Note",
+          "Death Parade",
+          "Elfen Lied",
+          "Future Diary"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the term for the opening theme song of an anime episode commonly called?",
+        "opts": [
+          "Opening theme (OP)",
+          "Ending theme (ED)",
+          "Insert song",
+          "Character song"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Who is considered the 'God of Manga' and created 'Astro Boy'?",
+        "opts": [
+          "Osamu Tezuka",
+          "Akira Toriyama",
+          "Eiichiro Oda",
+          "Hayao Miyazaki"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which director co-founded Studio Ghibli and directed 'Princess Mononoke'?",
+        "opts": [
+          "Hayao Miyazaki",
+          "Isao Takahata",
+          "Mamoru Hosoda",
+          "Makoto Shinkai"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What term describes anime and manga fan translations distributed online without official licensing?",
+        "opts": [
+          "Fansubs",
+          "Simulcasts",
+          "Dubcasts",
+          "Localizations"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which manga artist created 'Dragon Ball' and 'Dr. Slump'?",
+        "opts": [
+          "Akira Toriyama",
+          "Masashi Kishimoto",
+          "Eiichiro Oda",
+          "Tite Kubo"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What genre of anime typically targets young girls and features magical transformation sequences?",
+        "opts": [
+          "Mahou shoujo",
+          "Mecha genre",
+          "Isekai genre",
+          "Shonen genre"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which studio produced 'Attack on Titan'?",
+        "opts": [
+          "Wit Studio",
+          "Studio Ghibli",
+          "Kyoto Animation",
+          "Toei Animation"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What does the anime genre term 'isekai' literally translate to?",
+        "opts": [
+          "Another world",
+          "Time travel",
+          "Parallel spirit",
+          "Second life"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which anime and manga series follows alchemist brothers seeking the Philosopher's Stone?",
+        "opts": [
+          "Fullmetal Alchemist",
+          "Magi: Labyrinth of Magic",
+          "Black Clover",
+          "Fairy Tail"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What term refers to anime aimed primarily at teenage and young adult boys, like 'Naruto' and 'One Piece'?",
+        "opts": [
+          "Shonen",
+          "Shoujo",
+          "Seinen",
+          "Josei"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Who directed the film 'Your Name' and 'Weathering with You'?",
+        "opts": [
+          "Makoto Shinkai",
+          "Mamoru Hosoda",
+          "Satoshi Kon",
+          "Hideaki Anno"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which anime demographic category targets adult men with more mature themes?",
+        "opts": [
+          "Seinen",
+          "Shonen",
+          "Shoujo",
+          "Josei"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is the term for anime episodes released simultaneously with their original Japanese broadcast?",
+        "opts": [
+          "Simulcast",
+          "Fan translation",
+          "Rerun",
+          "Preview"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which long-running anime and manga series follows a boy searching for the One Piece treasure?",
+        "opts": [
+          "One Piece",
+          "One Punch Man",
+          "Fairy Tail",
+          "Black Clover"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is Studio Trigger, founded by former Gainax staff, best known for creating?",
+        "opts": [
+          "Kill la Kill",
+          "Naruto",
+          "Bleach",
+          "Fullmetal Alchemist"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which mecha anime franchise, created by Yoshiyuki Tomino, began in 1979 and remains a major franchise?",
+        "opts": [
+          "Mobile Suit Gundam",
+          "Neon Genesis Evangelion",
+          "Code Geass",
+          "Macross"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What Japanese term describes a genre focused on cute, slice-of-life stories with little conflict?",
+        "opts": [
+          "Iyashikei",
+          "Isekai genre",
+          "Mecha genre",
+          "Yonkoma genre"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which studio, founded by Hideaki Anno, created 'Neon Genesis Evangelion'?",
+        "opts": [
+          "Gainax",
+          "Studio Ghibli",
+          "Kyoto Animation",
+          "Bones"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is the term for a manga published in a four-panel comic strip format?",
+        "opts": [
+          "Yonkoma",
+          "Doujinshi",
+          "Gekiga",
+          "Kamishibai"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which anime, created by Rumiko Takahashi, follows a boy and his half-demon companions in feudal Japan?",
+        "opts": [
+          "Inuyasha",
+          "Ranma 1/2",
+          "Urusei Yatsura",
+          "Maison Ikkoku"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What term describes anime original works not adapted from a manga or light novel?",
+        "opts": [
+          "Anime original",
+          "Light novel adaptation",
+          "Manga adaptation",
+          "Visual novel adaptation"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which director, known for 'Perfect Blue' and 'Paprika', died in 2010 and heavily influenced Western filmmakers like Darren Aronofsky?",
+        "opts": [
+          "Satoshi Kon",
+          "Mamoru Oshii",
+          "Isao Takahata",
+          "Katsuhiro Otomo"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which 1988 film, directed by Katsuhiro Otomo and based on his own manga, is set in a dystopian Neo-Tokyo?",
+        "opts": [
+          "Akira",
+          "Ghost in the Shell",
+          "Metropolis",
+          "Steamboy"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What was the first anime television series broadcast in Japan, created by Osamu Tezuka in 1963?",
+        "opts": [
+          "Astro Boy",
+          "Speed Racer",
+          "Gigantor",
+          "Kimba the White Lion"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which studio is known for high production quality slice-of-life and drama anime like 'Violet Evergarden'?",
+        "opts": [
+          "Kyoto Animation",
+          "Studio Deen",
+          "J.C.Staff",
+          "Production I.G"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What term describes the practice of casting the same voice actor across multiple unrelated anime roles being noted by fans?",
+        "opts": [
+          "Seiyuu typecasting",
+          "Dubbing role rotation",
+          "Voice banking",
+          "Character reuse"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Who directed 'Ghost in the Shell' (1995), a major influence on 'The Matrix'?",
+        "opts": [
+          "Mamoru Oshii",
+          "Satoshi Kon",
+          "Hideaki Anno",
+          "Shinichiro Watanabe"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which anime franchise, created by Shinichiro Watanabe, follows bounty hunters aboard the ship Bebop?",
+        "opts": [
+          "Cowboy Bebop",
+          "Samurai Champloo",
+          "Space Dandy",
+          "Trigun"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is the term for the Japanese voice actors who perform anime characters?",
+        "opts": [
+          "Seiyuu",
+          "Otaku",
+          "Sensei",
+          "Mangaka"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which manga magazine, published weekly since 1968, serializes 'One Piece' and historically 'Dragon Ball'?",
+        "opts": [
+          "Weekly Shonen Jump",
+          "Monthly Shonen Gangan",
+          "Big Comic Spirits",
+          "Ribon"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What term refers to Japanese light novels illustrated and later adapted into anime, like 'Sword Art Online'?",
+        "opts": [
+          "Light novels",
+          "Doujinshi",
+          "Web manga",
+          "Visual novels"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which director's Studio Ghibli film 'Grave of the Fireflies' portrays two siblings surviving World War II Japan?",
+        "opts": [
+          "Isao Takahata",
+          "Hayao Miyazaki",
+          "Hiromasa Yonebayashi",
+          "Goro Miyazaki"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is the Japanese term for the word used to describe anime and manga fans who are especially obsessive about their hobby?",
+        "opts": [
+          "Otaku",
+          "Weeaboo",
+          "Fujoshi",
+          "Chuunibyou"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which anime, based on a manga by Tite Kubo, follows a teenager who becomes a Soul Reaper?",
+        "opts": [
+          "Bleach",
+          "Naruto",
+          "Blue Exorcist",
+          "D.Gray-man"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is the name for the practice of releasing a manga chapter online prior to print, common in modern serialization?",
+        "opts": [
+          "Simul-publishing",
+          "Simulcasting",
+          "Fan-scanning",
+          "Pre-release drafting"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which studio produced the 'Monogatari' series known for its distinctive rapid-fire dialogue and visual style?",
+        "opts": [
+          "Shaft",
+          "Bones",
+          "Madhouse",
+          "A-1 Pictures"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What term describes a character archetype who is a shy, socially awkward but kind protagonist, common in slice-of-life anime?",
+        "opts": [
+          "Dojikko",
+          "Tsundere",
+          "Yandere",
+          "Kuudere"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which 2016 film by Makoto Shinkai, about two teenagers who swap bodies, became one of the highest-grossing anime films ever?",
+        "opts": [
+          "Your Name",
+          "Weathering with You",
+          "5 Centimeters per Second",
+          "The Garden of Words"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What Japanese term describes a personality type that is initially cold or hostile but gradually shows a warmer side?",
+        "opts": [
+          "Tsundere",
+          "Yandere type",
+          "Dandere",
+          "Kuudere"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which studio, founded in 1985, created many classic magical girl and giant robot anime and is Japan's oldest major animation studio?",
+        "opts": [
+          "Toei Animation",
+          "Sunrise",
+          "Madhouse",
+          "Production I.G"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is the name of the fictional currency-like energy source called 'Nen' used for special abilities in which manga series?",
+        "opts": [
+          "Hunter x Hunter",
+          "Jujutsu Kaisen",
+          "Black Clover",
+          "Fairy Tail"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which 1963 broadcast deal made 'Astro Boy' the first anime series to air on American television?",
+        "opts": [
+          "NBC syndication of Astro Boy in 1963",
+          "A direct deal between Toei and Disney",
+          "A UN cultural exchange program",
+          "A joint venture with Warner Bros"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which director's 'Millennium Actress' blends a fictional actress's life story with Japanese film history across decades?",
+        "opts": [
+          "Satoshi Kon",
+          "Mamoru Oshii",
+          "Isao Takahata",
+          "Shinichiro Watanabe"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What movement in 1960s manga, associated with Yoshihiro Tatsumi, pushed toward realistic, adult-oriented storytelling?",
+        "opts": [
+          "Gekiga",
+          "Yonkoma",
+          "Kamishibai",
+          "Shojo revolution"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which anime studio underwent well-documented financial restructuring around 2010 amid the broader industry downturn?",
+        "opts": [
+          "Gonzo",
+          "Sunrise",
+          "Madhouse",
+          "Gainax"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which visionary anime director's unfinished project 'Yume-Miru Kikai' remained incomplete at the time of his death in 2010?",
+        "opts": [
+          "Satoshi Kon",
+          "Mamoru Oshii",
+          "Osamu Dezaki",
+          "Yoshiyuki Tomino"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What was the name of the animation studio Hayao Miyazaki and Isao Takahata worked at before co-founding Studio Ghibli in 1985?",
+        "opts": [
+          "Topcraft",
+          "Toei Animation",
+          "Nippon Animation",
+          "Tokyo Movie Shinsha"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which term describes the 2000s trend of adapting popular web novels and light novels into anime, exemplified by 'Sword Art Online'?",
+        "opts": [
+          "The light novel adaptation boom",
+          "The doujinshi commercialization wave",
+          "The OVA renaissance",
+          "The seinen manga revival"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which 1995 television series, controversial for its psychologically dense finale, led its studio to release two follow-up films reworking the ending?",
+        "opts": [
+          "Neon Genesis Evangelion",
+          "Serial Experiments Lain",
+          "Revolutionary Girl Utena",
+          "Cowboy Bebop"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What production technique, minimizing frame count for cost savings, became a defining stylistic trait of Kunihiko Ikuhara's 'Revolutionary Girl Utena'?",
+        "opts": [
+          "Limited animation with repeated stock sequences",
+          "Full rotoscoped tracing of live-action footage",
+          "Stop-motion puppet compositing frame by frame",
+          "Fully cel-shaded three-dimensional rendering"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which manga artist duo, working under a shared pen name, created 'Death Note' and 'Bakuman'?",
+        "opts": [
+          "Tsugumi Ohba and Takeshi Obata",
+          "Kentaro Miura and Yasuko Suzuki",
+          "CLAMP",
+          "Yoshihiro Togashi and Naoko Takeuchi"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is significant about Kentaro Miura's 'Berserk' regarding its serialization history before his death in 2021?",
+        "opts": [
+          "It was known for long, irregular hiatuses between chapters",
+          "It was published daily without any interruption for decades",
+          "It was completed in full before his death",
+          "It was cancelled by its publisher in the 1990s"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which all-female manga creator collective is known for 'Cardcaptor Sakura' and 'Tsubasa: Reservoir Chronicle'?",
+        "opts": [
+          "CLAMP",
+          "Magic Knight Rayearth Studio",
+          "Sunrise Sisters",
+          "Team Sailor Moon"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What term describes the anime industry practice of using overseas subcontracted animators for in-between frames, a long-standing cost strategy?",
+        "opts": [
+          "Outsourced in-betweening",
+          "Rotoscope licensing",
+          "Cross-studio simulcasting",
+          "Frame banking"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which mecha franchise's 1995 finale, directed by Hideaki Anno, was famously abstract due to budget constraints, later reworked in 'The End of Evangelion'?",
+        "opts": [
+          "Neon Genesis Evangelion",
+          "RahXephon: Pluralitas Concentio",
+          "Gundam SEED",
+          "Eureka Seven"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What real labor dispute in the anime industry has been widely reported regarding low pay for young in-between animators?",
+        "opts": [
+          "Chronic low wages for entry-level in-between animators",
+          "A nationwide anime animators' labor strike in the 1990s",
+          "A government cap on studio production hours",
+          "A ban on freelance animators enacted in 2005"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which studio's 2019 arson attack resulted in the deaths of many staff and significant loss of production materials?",
+        "opts": [
+          "Kyoto Animation",
+          "Toei Animation Co.",
+          "Production I.G",
+          "Studio Ghibli"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What distinguishes an 'OVA' from a standard television anime episode?",
+        "opts": [
+          "It is released direct-to-video rather than broadcast",
+          "It is always shown exclusively in movie theaters",
+          "It refers only to unlicensed fan-made productions",
+          "It is always a clip-show recap compilation episode"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which pioneering shoujo manga collective, the 'Year 24 Group', reshaped girls' manga in the 1970s with complex narratives?",
+        "opts": [
+          "The Year 24 Group, led by Moto Hagio",
+          "CLAMP, an all-female doujin circle formed in 1989",
+          "The Gekiga Workshop movement of the 1960s",
+          "The writers' room within Tezuka Production"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which director's 'Paprika' (2006) explored dream infiltration technology years before 'Inception' addressed similar themes?",
+        "opts": [
+          "Satoshi Kon",
+          "Mamoru Oshii",
+          "Hideaki Anno",
+          "Makoto Shinkai"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What licensing model, pioneered in the 2000s, allowed simultaneous legal streaming of new anime episodes to Western audiences?",
+        "opts": [
+          "The simulcast streaming model",
+          "The regional DVD staggered release model",
+          "The dubbed-only syndication model",
+          "The theatrical exclusivity window model"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which scholar's concept of 'database consumption', from 'Otaku: Japan's Database Animals', argues fans consume character traits rather than grand narratives?",
+        "opts": [
+          "Hiroki Azuma",
+          "Susan Napier",
+          "Thomas Lamarre",
+          "Marc Steinberg"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Thomas Lamarre's 'The Anime Machine' proposes what concept to describe anime's layered, multiplanar visual composition?",
+        "opts": [
+          "The 'animetic apparatus' and multiplanar image",
+          "The 'kinetic gaze' of cel animation",
+          "The 'flat ontology' of manga panels",
+          "The 'database narrative' of serialized media"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Susan Napier's scholarship on anime frequently situates the genre's apocalyptic imagery, as in 'Akira', in relation to which historical trauma?",
+        "opts": [
+          "The atomic bombings of Hiroshima and Nagasaki",
+          "The Meiji Restoration's industrialization",
+          "The 1923 Great Kanto earthquake alone",
+          "The Tokugawa shogunate's isolationist policies"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Marc Steinberg's 'Anime's Media Mix' traces the franchise model of cross-media character licensing back to which pioneering 1960s example?",
+        "opts": [
+          "Tetsuwan Atomu merchandising under Tezuka",
+          "The Gundam plastic model kit boom of the 1980s",
+          "Pokémon's cross-media strategy of the 1990s",
+          "Sailor Moon's toy tie-in campaigns of the 1990s"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which critical term, used in fan and academic discourse, describes the affective, often romantic or parasocial relationship between fans and two-dimensional characters?",
+        "opts": [
+          "Moe",
+          "Kawaii",
+          "Chuunibyou",
+          "Tsundere"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "In queer media studies, what does the term 'yaoi' historically originate as an acronym mocking, within Japanese fan communities?",
+        "opts": [
+          "'Yama nashi, ochi nashi, imi nashi': no climax, punchline, or meaning",
+          "'Yasashii oshare imouto', meaning gentle stylish little sister",
+          "'Yoku aru osananajimi da', meaning a very typical childhood friend",
+          "'Yume aru otome no risou', meaning a dreaming maiden's ideal"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which theorist's work on 'moe' argues it functions as an affective response to fragmented, database-driven character elements rather than to coherent characters?",
+        "opts": [
+          "Hiroki Azuma",
+          "Patrick Galbraith",
+          "Frenchy Lunning",
+          "Christine Yano"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Frenchy Lunning's academic journal 'Mechademia' primarily focuses scholarly attention on which subject?",
+        "opts": [
+          "Anime and manga visual culture studies",
+          "Franco-Belgian comics theory and history",
+          "American superhero comics historical study",
+          "Video game narrative design theory research"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which historical antecedent to modern anime, using paper cutouts and a narrator performing stories on the street, predates television broadcast?",
+        "opts": [
+          "Kamishibai street storytelling",
+          "Rakugo comic storytelling monologue",
+          "Bunraku puppet theater",
+          "Noh mask drama"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Anne Allison's ethnographic work on Japanese character merchandising examines which franchise as a case study of transnational commodity flow?",
+        "opts": [
+          "Pokémon",
+          "Sailor Moon",
+          "Doraemon",
+          "Hello Kitty"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which media theorist's concept of 'convergence culture' has been applied to analyze anime franchises spanning manga, anime, games, and merchandise?",
+        "opts": [
+          "Henry Jenkins",
+          "Marshall McLuhan",
+          "Marc Steinberg",
+          "Ian Condry"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Ian Condry's ethnographic research on anime production emphasizes what concept as central to how creative decisions emerge in Japanese studios?",
+        "opts": [
+          "Collaborative 'creative energy' across a production committee",
+          "Sole authorial control held entirely by one lead director",
+          "Fully algorithmic scheduling of all animator work tasks",
+          "Direct government oversight of all anime studio content"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What does the Japanese studio funding structure known as the 'production committee' (seisaku iinkai) system primarily allow?",
+        "opts": [
+          "Risk-sharing across companies co-financing a work",
+          "A single sponsor fully owning all merchandising rights",
+          "Government subsidy covering all animation costs",
+          "Animators retaining full copyright over their work"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Frederik Schodt's manga scholarship is closely associated with popularizing the work of which artist for Western readers?",
+        "opts": [
+          "Osamu Tezuka",
+          "Katsuhiro Otomo",
+          "Rumiko Takahashi",
+          "Naoki Urasawa"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Frederik Schodt's 'Manga! Manga!' (1983) is widely credited with what role in Western manga scholarship?",
+        "opts": [
+          "Introducing manga history to English-language readers",
+          "Translating the complete works of Tezuka into English",
+          "Founding the first American manga publishing company",
+          "Coining the term 'manga' itself in English usage"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which narrative structure, common in serialized shonen manga, has been theoretically compared to episodic 'database' storytelling rather than a single teleological arc?",
+        "opts": [
+          "The battle-tournament arc structure",
+          "The bildungsroman single-arc structure",
+          "The three-act classical structure",
+          "The epistolary narrative structure"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Patrick Galbraith's research on 'moe' and otaku culture in Akihabara primarily critiques which common outside assumption?",
+        "opts": [
+          "That otaku desire is simply pathological or antisocial",
+          "That otaku culture has no real economic significance",
+          "That moe-related characters have no commercial value",
+          "That Akihabara is unrelated to otaku consumption habits"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which formal technique, theorized by Thomas Lamarre, describes anime's use of sliding, layered flat planes to simulate depth without true 3D perspective?",
+        "opts": [
+          "The multiplanar 'animetic' compositing technique",
+          "Full CG parallax scrolling across depth layers",
+          "Traditional single-plane cel painting technique",
+          "Rotoscoped depth mapping from live footage"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What critical distinction does Susan Napier draw between anime's 'elegiac' and 'apocalyptic' modes in her genre analysis?",
+        "opts": [
+          "Elegiac mourns a lost past while apocalyptic depicts destructive future transformation",
+          "Elegiac refers only to comedy while apocalyptic refers only to horror",
+          "Elegiac describes short films while apocalyptic describes only feature-length works",
+          "Elegiac and apocalyptic are used interchangeably with no real distinction"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which concept, drawn from Gilles Deleuze and applied by scholars like Lamarre to anime, describes images composed of moving, superimposed layers rather than a fixed camera view?",
+        "opts": [
+          "The 'movement-image' reworked as a layered compositing logic",
+          "The 'time-image' understood as pure narrative duration",
+          "The 'rhizome' applied as a nonlinear plot structure",
+          "The 'simulacrum' as a copy without an original referent"
+        ],
+        "a": 0,
+        "tier": 5
+      }
+    ]
   }
 ];
