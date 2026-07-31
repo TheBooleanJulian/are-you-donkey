@@ -15482,5 +15482,1111 @@ const TOPICS = [
         "tier": 5
       }
     ]
+  },
+  {
+    "id": "military",
+    "name": "Military History",
+    "questions": [
+      {
+        "q": "Which war was fought between the North and South regions of the United States from 1861 to 1865?",
+        "opts": [
+          "World War I",
+          "The American Civil War",
+          "The Revolutionary War",
+          "The Korean War"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "Who commanded the Allied forces during the D-Day invasion of Normandy in 1944?",
+        "opts": [
+          "General George Patton",
+          "Dwight D. Eisenhower",
+          "General Douglas MacArthur",
+          "Field Marshal Bernard Montgomery"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "What is the term for a soldier's temporary living quarters in the field?",
+        "opts": [
+          "Barracks",
+          "Bivouac",
+          "Garrison",
+          "Armory"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "Which side won World War II in Europe?",
+        "opts": [
+          "The Allied powers",
+          "The Axis powers",
+          "Neither side",
+          "Both sides negotiated peace"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "In which year did World War II end?",
+        "opts": [
+          "1943",
+          "1945",
+          "1947",
+          "1950"
+        ],
+        "a": 1,
+        "tier": 1
+      },
+      {
+        "q": "What rank is directly above a Captain in the US Army?",
+        "opts": [
+          "Major",
+          "Colonel",
+          "Sergeant",
+          "Lieutenant"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which ancient empire relied on a highly organized legion-based army to conquer much of Europe?",
+        "opts": [
+          "The Roman Empire",
+          "The Persian Empire",
+          "The Mongol Empire",
+          "The Ottoman Empire"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the name of the weapon that shoots arrows?",
+        "opts": [
+          "Crossbow",
+          "Musket rifle",
+          "Field cannon",
+          "Bayonet knife"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which country was primarily responsible for the \"Blitzkrieg\" tactic in WWII?",
+        "opts": [
+          "Germany",
+          "Bulgaria",
+          "Romania",
+          "Hungary"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What do we call a person who fights on foot as a basic combat soldier?",
+        "opts": [
+          "Infantry soldier",
+          "Cavalry soldier",
+          "Artillery crew member",
+          "Naval officer"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which weapon was famously used by knights in medieval jousting tournaments?",
+        "opts": [
+          "Lance",
+          "Rapier",
+          "Halberd",
+          "Crossbow"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the term for the supreme commander of a country's armed forces, often the head of state?",
+        "opts": [
+          "Commander-in-chief",
+          "Field marshal",
+          "Quartermaster general",
+          "Adjutant general"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which war is associated with the phrase \"the shot heard round the world\"?",
+        "opts": [
+          "The American Revolutionary War",
+          "The War of 1812 against Britain",
+          "The Mexican-American War of 1846",
+          "The Spanish-American War of 1898"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Who was the British Prime Minister who led the United Kingdom through most of World War II?",
+        "opts": [
+          "Winston Churchill",
+          "Neville Chamberlain",
+          "Clement Attlee",
+          "Anthony Eden"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What do you call a large formation of warships traveling together?",
+        "opts": [
+          "A fleet",
+          "A squadron",
+          "A convoy",
+          "A flotilla"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which side of World War I included Germany, Austria-Hungary, and the Ottoman Empire?",
+        "opts": [
+          "The Central Powers",
+          "The Allied Powers",
+          "The Triple Entente",
+          "The Coalition Powers"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is a \"ceasefire\"?",
+        "opts": [
+          "A temporary halt to fighting",
+          "A permanently signed peace treaty",
+          "A surprise sneak attack",
+          "A type of siege weapon"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which famous general led Carthage's army against Rome, crossing the Alps with war elephants?",
+        "opts": [
+          "Hannibal",
+          "Scipio Africanus",
+          "Julius Caesar",
+          "Alexander the Great"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the term for soldiers who fight while riding horses?",
+        "opts": [
+          "Cavalry",
+          "Infantry",
+          "Artillery",
+          "Engineers"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "In which conflict did the United States fight against North Vietnam?",
+        "opts": [
+          "The Vietnam War",
+          "The Korean War",
+          "The Gulf War",
+          "The Cold War"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which battle in 1815 marked the final defeat of Napoleon Bonaparte?",
+        "opts": [
+          "The Battle of Waterloo",
+          "The Battle of Trafalgar",
+          "The Battle of Austerlitz",
+          "The Battle of Leipzig"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What was the codename for the massive Allied invasion of Normandy in June 1944?",
+        "opts": [
+          "Operation Overlord",
+          "Operation Market Garden",
+          "Operation Torch",
+          "Operation Barbarossa"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which US Civil War battle, fought in Pennsylvania in July 1863, is considered the war's turning point?",
+        "opts": [
+          "The Battle of Gettysburg",
+          "The Battle of Antietam",
+          "The Battle of Bull Run",
+          "The Battle of Shiloh"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What term describes a prolonged standoff where neither side advances, as seen in WWI trenches?",
+        "opts": [
+          "Stalemate",
+          "Blitzkrieg",
+          "Ambush",
+          "Retreat"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which naval battle in 1942 is considered the turning point of the Pacific War against Japan?",
+        "opts": [
+          "The Battle of Midway",
+          "The Battle of Coral Sea",
+          "The Battle of Leyte Gulf",
+          "The Battle of Okinawa"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Who was the German dictator who ordered the invasion of Poland in 1939, starting World War II?",
+        "opts": [
+          "Adolf Hitler",
+          "Heinrich Himmler",
+          "Hermann Goring",
+          "Joseph Goebbels"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What was the codename for the Allied airborne operation in the Netherlands in 1944 that failed to secure key bridges?",
+        "opts": [
+          "Operation Market Garden",
+          "Operation Overlord in Normandy",
+          "Operation Cobra breakout in France",
+          "Operation Dragoon in southern France"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which treaty officially ended World War I in 1919?",
+        "opts": [
+          "The Treaty of Versailles",
+          "The Treaty of Paris from 1783",
+          "The Treaty of Vienna from 1815",
+          "The Treaty of Ghent from 1814"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is the term for a military unit's flag or banner carried into battle?",
+        "opts": [
+          "A standard",
+          "A pennant flag",
+          "A family crest",
+          "A round shield"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which weapon, introduced in WWI, used tracks to cross difficult terrain and break through trench lines?",
+        "opts": [
+          "The tank",
+          "The machine gun",
+          "The flamethrower",
+          "The mortar"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What does \"AWOL\" stand for in military terminology?",
+        "opts": [
+          "Absent Without Leave",
+          "Assigned Without Location",
+          "Armed and Well Organized Legion",
+          "Authorized Withdrawal of Liaison"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which side did Japan align with during World War II?",
+        "opts": [
+          "The Axis powers",
+          "The Allied powers",
+          "Neither side",
+          "The Non-Aligned Movement"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What was the primary purpose of the Maginot Line built by France before WWII?",
+        "opts": [
+          "To defend against a German invasion",
+          "To attack Germany directly across the Rhine",
+          "To control naval trade routes in the Atlantic",
+          "To house refugees during wartime"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which general is known for his \"island hopping\" strategy in the Pacific Theater of WWII?",
+        "opts": [
+          "Douglas MacArthur",
+          "Dwight Eisenhower",
+          "George Patton",
+          "Omar Bradley"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What was the name of the Soviet Union's WWII doctrine that used deep, sudden mass offensives?",
+        "opts": [
+          "Deep battle",
+          "Blitzkrieg",
+          "Total war",
+          "Scorched earth"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which country's military used the \"Enigma\" machine to encrypt its communications during WWII?",
+        "opts": [
+          "Germany",
+          "Japan",
+          "Italy",
+          "Britain"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is the term for a fortified structure designed to protect soldiers, often built underground with thick walls?",
+        "opts": [
+          "A bunker",
+          "A trench",
+          "A foxhole",
+          "A rampart"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which US general famously said \"I shall return\" upon retreating from the Philippines in 1942?",
+        "opts": [
+          "Douglas MacArthur",
+          "Dwight Eisenhower",
+          "Chester Nimitz",
+          "George Marshall"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What was the main purpose of the Lend-Lease Act passed by the US Congress in 1941?",
+        "opts": [
+          "To supply war materials to Allied nations",
+          "To declare war on Germany",
+          "To draft American soldiers",
+          "To establish permanent military bases abroad"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which WWII conference in 1945 divided post-war Europe among the Allied leaders?",
+        "opts": [
+          "The Yalta Conference",
+          "The Potsdam Conference",
+          "The Tehran Conference",
+          "The Casablanca Conference"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which battle, fought in 216 BC, is considered Hannibal's greatest tactical victory over Rome, using a double envelopment?",
+        "opts": [
+          "The Battle of Cannae",
+          "The Battle of Zama",
+          "The Battle of Trebia",
+          "The Battle of Lake Trasimene"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What was the name of the German offensive in December 1944 through the Ardennes forest, also called the Battle of the Bulge?",
+        "opts": [
+          "The Ardennes Offensive",
+          "Operation Barbarossa",
+          "Operation Cobra",
+          "Operation Sea Lion"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which Civil War siege, lasting from May to July 1863, split the Confederacy by giving the Union control of the Mississippi?",
+        "opts": [
+          "The Siege of Vicksburg",
+          "The Siege of Petersburg",
+          "The Battle of Chattanooga",
+          "The Battle of Atlanta"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is the term for the German strategy of unrestricted submarine attacks on merchant ships in both World Wars?",
+        "opts": [
+          "U-boat warfare",
+          "Convoy warfare",
+          "Amphibious warfare",
+          "Trench warfare"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which 1942 battle on the Eastern Front is often cited as the deadliest and most decisive of WWII, ending in a Soviet victory?",
+        "opts": [
+          "The Battle of Stalingrad",
+          "The Battle of Kursk",
+          "The Siege of Leningrad",
+          "The Battle of Moscow"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Who commanded the Confederate Army of Northern Virginia for most of the American Civil War?",
+        "opts": [
+          "Robert E. Lee",
+          "Stonewall Jackson",
+          "Jefferson Davis",
+          "James Longstreet"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What was the primary strategic goal of Operation Barbarossa, launched by Germany in June 1941?",
+        "opts": [
+          "The invasion of the Soviet Union",
+          "The invasion of France and the Low Countries",
+          "The amphibious invasion of Britain",
+          "The invasion of Italian North Africa"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which naval engagement in 1805 saw the British fleet under Admiral Nelson defeat the combined French and Spanish fleets?",
+        "opts": [
+          "The Battle of Trafalgar",
+          "The Battle of the Nile",
+          "The Battle of Copenhagen",
+          "The Battle of Jutland"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What term describes the WWI attrition warfare symbolized by the prolonged Battle of Verdun in 1916?",
+        "opts": [
+          "A war of attrition",
+          "A war of maneuver",
+          "A guerrilla campaign",
+          "A naval blockade"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which general led the Union's \"March to the Sea\" through Georgia in 1864, employing a scorched-earth campaign?",
+        "opts": [
+          "William Tecumseh Sherman",
+          "Ambrose Everett Burnside",
+          "George Gordon Meade",
+          "Philip Henry Sheridan"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What was the code name for the Allied invasion of Sicily in 1943?",
+        "opts": [
+          "Operation Husky",
+          "Operation Avalanche",
+          "Operation Torch",
+          "Operation Shingle"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which battle in 1898 effectively ended Spanish naval power in the Philippines during the Spanish-American War?",
+        "opts": [
+          "The Battle of Manila Bay",
+          "The Battle of Santiago de Cuba",
+          "The Siege of Baler",
+          "The Battle of San Juan Hill"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is the term for a tactic where troops encircle an enemy force from both flanks simultaneously?",
+        "opts": [
+          "A double envelopment",
+          "A frontal assault",
+          "A feigned retreat",
+          "A defense in depth formation"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which WWII Pacific battle in 1945 became famous for the photograph of Marines raising the flag on Mount Suribachi?",
+        "opts": [
+          "The Battle of Iwo Jima",
+          "The Battle of Okinawa",
+          "The Battle of Tarawa",
+          "The Battle of Guadalcanal"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What was the name of the Japanese surprise attack on the US naval base in Hawaii on December 7, 1941?",
+        "opts": [
+          "The attack on Pearl Harbor",
+          "The Battle of Midway",
+          "The Battle of Coral Sea",
+          "The invasion of Wake Island"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which general commanded the Allied ground forces in Europe under Eisenhower during the Normandy campaign?",
+        "opts": [
+          "Bernard Montgomery",
+          "George Smith Patton",
+          "Omar Nelson Bradley",
+          "Mark Wayne Clark"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is the term for the Confederate strategy of fighting defensively to wear down Union resolve during the Civil War?",
+        "opts": [
+          "A war of attrition",
+          "A war of conquest",
+          "A war of annexation",
+          "A war of expansion"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which 1836 battle in Texas, following the fall of the Alamo, ended the Texas Revolution against Mexico?",
+        "opts": [
+          "The Battle of San Jacinto",
+          "The Battle of Goliad Massacre",
+          "The Siege of Bexar in 1835",
+          "The Battle of Gonzales in 1835"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What was the primary purpose of the Manhattan Project during World War II?",
+        "opts": [
+          "To develop the atomic bomb",
+          "To break German communication codes",
+          "To design new fighter aircraft",
+          "To build the first jet engine"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which battle in 1942 marked the first major Allied land victory against Axis forces in North Africa?",
+        "opts": [
+          "The Second Battle of El Alamein",
+          "The Siege and Battle of Tobruk",
+          "The Battle of Kasserine Pass in Tunisia",
+          "The Battle of Tunis in 1943"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which Prussian military theorist wrote \"On War,\" a foundational text on the philosophy of military strategy?",
+        "opts": [
+          "Carl von Clausewitz",
+          "Antoine-Henri Jomini",
+          "Helmuth von Moltke",
+          "Alfred von Schlieffen"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What was the name of the German war plan devised before WWI aiming to defeat France quickly by invading through Belgium?",
+        "opts": [
+          "The Schlieffen Plan",
+          "The Barbarossa Plan",
+          "The Manstein Plan",
+          "The Ludendorff Offensive"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which tactic, refined by German forces in 1918, used small, fast-moving assault groups to infiltrate enemy trench lines?",
+        "opts": [
+          "Stormtrooper tactics",
+          "Small-scale trench raiding",
+          "Creeping artillery barrage",
+          "Defense in depth doctrine"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is the term for Sun Tzu's central idea in \"The Art of War\" about winning without direct battle?",
+        "opts": [
+          "Achieving victory without fighting",
+          "Winning through overwhelming force",
+          "Winning through prolonged siege",
+          "Winning through alliance building"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which German general, known as the \"Desert Fox,\" commanded the Afrika Korps in North Africa during WWII?",
+        "opts": [
+          "Erwin Rommel",
+          "Heinz Guderian",
+          "Gerd von Rundstedt",
+          "Albert Kesselring"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What innovation did Heinz Guderian champion, emphasizing concentrated, fast-moving armored divisions supported by air power?",
+        "opts": [
+          "Blitzkrieg doctrine",
+          "Trench warfare doctrine",
+          "Defense in depth doctrine",
+          "Attrition warfare doctrine"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which naval innovation, pioneered by the ironclads USS Monitor and CSS Virginia, marked a shift in Civil War warfare?",
+        "opts": [
+          "Armored steam-powered warships",
+          "Wooden sail-powered frigate ships",
+          "Submarine torpedo boats",
+          "Wind-powered gunboats"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What term describes the Mongol tactic of feigning retreat to lure enemies into a vulnerable pursuit formation?",
+        "opts": [
+          "The feigned retreat",
+          "The pincer movement",
+          "The forced march",
+          "The night ambush"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which WWI battle saw the first large-scale use of tanks by the British, at Cambrai in 1917?",
+        "opts": [
+          "The Battle of Cambrai",
+          "The Battle of the Somme",
+          "The Battle of Passchendaele",
+          "The Battle of Ypres"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What was the primary tactical innovation of the Roman \"manipular\" legion system during the Republic?",
+        "opts": [
+          "Flexible small units that could rotate in battle",
+          "Massed phalanx formations with long spears",
+          "Cavalry-centric charges without infantry support",
+          "Fortified wagon circles for defense"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which admiral developed the \"crossing the T\" naval tactic used decisively at the Battle of Tsushima in 1905?",
+        "opts": [
+          "Togo Heihachiro",
+          "Chester Nimitz",
+          "Isoroku Yamamoto",
+          "Zinovy Rozhestvensky"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What was the German term for the fortified defensive position that the Allies called the \"Hindenburg Line\" in WWI?",
+        "opts": [
+          "Siegfriedstellung",
+          "Westwall fortification",
+          "Ostwall defensive line",
+          "Atlantikwall coastal wall"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which battle in 1242 saw the Teutonic Knights defeated by Alexander Nevsky on a frozen lake?",
+        "opts": [
+          "The Battle on the Ice",
+          "The Battle of Grunwald",
+          "The Battle of Tannenberg",
+          "The Siege of Pskov"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What was the primary purpose of the \"Doolittle Raid\" on Tokyo in April 1942?",
+        "opts": [
+          "To boost American morale after Pearl Harbor",
+          "To destroy Japan's industrial base",
+          "To assassinate Japanese military leaders",
+          "To capture Japanese naval codes"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which strategic bombing theory, advocated by Giulio Douhet, argued that air power alone could win wars by breaking civilian morale?",
+        "opts": [
+          "Douhet's air power doctrine",
+          "Mahan's naval power doctrine",
+          "Clausewitz's total war doctrine",
+          "Liddell Hart's indirect approach"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What tactical formation did Alexander the Great's Companion Cavalry typically use to break enemy lines?",
+        "opts": [
+          "A wedge formation",
+          "A line formation",
+          "A square formation",
+          "A circular formation"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which WWII operation was the Allied deception plan designed to mislead Germany about the site of the Normandy invasion?",
+        "opts": [
+          "Operation Fortitude",
+          "Operation Mincemeat",
+          "Operation Anvil",
+          "Operation Jubilee"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is the term for the Viet Cong's defensive strategy, using tunnel networks and hit-and-run ambushes against US forces?",
+        "opts": [
+          "Guerrilla warfare",
+          "Trench warfare tactics",
+          "Siege warfare tactics",
+          "Total warfare doctrine"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which naval strategist's writings on \"sea power\" emphasized that control of the seas determined the outcome of great power conflicts?",
+        "opts": [
+          "Alfred Thayer Mahan",
+          "Julian Corbett",
+          "Carl von Clausewitz",
+          "Antoine-Henri Jomini"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What was the name of the German WWI unrestricted submarine campaign that contributed to the US entering the war in 1917?",
+        "opts": [
+          "Unrestricted U-boat warfare",
+          "The Zimmermann Telegram plot",
+          "The Kaiser's naval blockade",
+          "The North Sea mine barrage"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which historian's thesis argues that the \"Military Revolution\" of the 16th-17th centuries stemmed from fortification changes (trace italienne) necessitating larger armies?",
+        "opts": [
+          "Geoffrey Parker",
+          "Michael Roberts",
+          "John Keegan",
+          "Basil Liddell Hart"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What term did historian Michael Roberts originally coin in 1955 to describe the transformation of European warfare between 1560 and 1660?",
+        "opts": [
+          "The Military Revolution",
+          "The Fiscal-Military State",
+          "The Gunpowder Revolution",
+          "The Infantry Revolution"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which WWI plan's failure, due to the \"Miracle on the Marne\" in 1914, is often attributed to Moltke the Younger weakening the right flank?",
+        "opts": [
+          "The Schlieffen Plan",
+          "The Race to the Sea",
+          "The Ludendorff Offensive",
+          "The Nivelle Offensive"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "In historiography of the Roman military, what does the term \"Vegetian tradition\" refer to?",
+        "opts": [
+          "Vegetius's manual shaping later European warfare",
+          "The tactics of the Roman navy in the Punic Wars",
+          "The organization of the Praetorian Guard",
+          "The training methods of Roman gladiators"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which concept, developed by Clausewitz, describes the unpredictable factors of chance and friction that disrupt military plans?",
+        "opts": [
+          "Friction in war",
+          "The culminating point",
+          "The center of gravity",
+          "Absolute war"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What is the central argument of Victor Davis Hanson's \"Western Way of War\" thesis?",
+        "opts": [
+          "Western militaries favor decisive, civic-driven infantry battles",
+          "Western militaries always outnumbered their opponents in every conflict",
+          "Western militaries relied primarily on naval blockades to win wars",
+          "Western militaries avoided pitched battles in favor of prolonged sieges"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which historian's \"face of battle\" approach shifted military history toward the experience of individual soldiers rather than grand strategy?",
+        "opts": [
+          "John Keegan",
+          "Geoffrey Parker",
+          "Michael Howard",
+          "Azar Gat"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What does the term \"Revolution in Military Affairs,\" popularized in the 1990s, primarily refer to?",
+        "opts": [
+          "Transformative shifts in technology and doctrine reshaping warfare",
+          "Political revolutions that overthrow existing military governments",
+          "The abolition of all standing armies after the end of the Cold War",
+          "The transition from mandatory conscription to all-volunteer forces"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which ancient Chinese military treatise, distinct from \"The Art of War,\" is attributed to Sun Bin and emphasizes terrain and deception?",
+        "opts": [
+          "Sun Bin's Art of War",
+          "The Six Secret Teachings",
+          "The Wei Liaozi",
+          "The Methods of the Sima"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What is the historiographical debate over the \"Fischer Thesis\" primarily concerned with?",
+        "opts": [
+          "Germany's premeditated responsibility for causing World War I",
+          "France's alleged provocation of the Franco-Prussian War in 1870",
+          "Britain's naval policy in the years before World War I",
+          "Russia's disputed mobilization timeline in July 1914"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which concept from Basil Liddell Hart's writing advocates striking at an enemy's weakest point rather than confronting its strength directly?",
+        "opts": [
+          "The indirect approach",
+          "The direct approach",
+          "The attrition approach",
+          "The encirclement doctrine"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What does Azar Gat's work on the history of military thought argue about strategic theory before Clausewitz?",
+        "opts": [
+          "Enlightenment thinkers pre-shaped Clausewitz's systematic theory",
+          "Strategic theory began entirely with Clausewitz himself",
+          "Ancient Chinese texts had no influence on European strategic thought",
+          "Strategic theory only emerged after the Napoleonic Wars ended"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which historian's concept of \"total war\" examines how WWI and WWII blurred the line between combatants and civilian society?",
+        "opts": [
+          "Roger Chickering",
+          "Sir Michael Eliot Howard",
+          "Niall Campbell Ferguson",
+          "Sir Hew Strachan"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What is the primary critique historians raise against the \"stab-in-the-back myth\" (Dolchstosslegende) in German WWI historiography?",
+        "opts": [
+          "It falsely blamed civilians for a battlefield-rooted defeat",
+          "It falsely blamed the Kaiser for prolonging the war unnecessarily",
+          "It falsely blamed France for violating the Treaty of Versailles early",
+          "It falsely blamed Austria-Hungary for dragging Germany into war"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which historiographical school emphasizes \"war and society,\" studying how warfare shapes and is shaped by broader social structures?",
+        "opts": [
+          "The war and society approach",
+          "The great man approach",
+          "The battle narrative approach",
+          "The operational history approach"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What does \"just war theory,\" rooted in Augustine and Aquinas, primarily evaluate?",
+        "opts": [
+          "The moral legitimacy of going to war and conduct within it",
+          "The economic cost-benefit analysis of prolonged warfare",
+          "The technological superiority required to win modern wars",
+          "The diplomatic protocols required for declaring war"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which historian argued in \"The Pity of War\" that Britain's decision to enter WWI in 1914 was a strategic blunder rather than a necessity?",
+        "opts": [
+          "Niall Ferguson",
+          "Hew Strachan",
+          "John Keegan",
+          "Margaret MacMillan"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What is the central thesis of Paul Kennedy's \"The Rise and Fall of the Great Powers\" regarding military overextension?",
+        "opts": [
+          "Imperial overreach and economic strain erode great power military dominance",
+          "Military dominance is permanent once a nation achieves industrial capacity",
+          "Great powers fall primarily due to internal political revolutions alone",
+          "Naval power alone determines the long-term survival of great powers"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which term describes the historiographical shift, as in Christopher Clark's \"The Sleepwalkers,\" from viewing WWI's outbreak as inevitable to emphasizing contingency?",
+        "opts": [
+          "Contingency-focused revisionism",
+          "Structural determinism in diplomacy",
+          "Great man historiography of statesmen",
+          "Marxist economic determinism theory"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What does the \"Annales School\" contribute to military historiography through its \"longue duree\" framework?",
+        "opts": [
+          "Analyzing warfare through slow-changing structures like geography and economy",
+          "Focusing exclusively on individual battles and their tactical outcomes",
+          "Rejecting the study of any pre-industrial warfare entirely",
+          "Prioritizing biographical studies of individual commanders"
+        ],
+        "a": 0,
+        "tier": 5
+      }
+    ]
   }
 ];
