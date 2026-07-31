@@ -4,7 +4,7 @@
 
 **A single-file Dunning-Kruger quizlet that plots your confidence vs. your actual score — so you can see exactly where you land.**
 
-![Version](https://img.shields.io/badge/version-3.2.0-00D4C8)
+![Version](https://img.shields.io/badge/version-3.3.0-00D4C8)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![License](https://img.shields.io/badge/license-AGPLv3%20%2F%20Commercial-00D4C8.svg)
@@ -56,8 +56,10 @@ npx serve .
 
 ```
 are-you-donkey/
-|-- index.html        # Entire app: markup, inline CSS, inline JS
-|-- questions.js      # Question bank — 1,400 questions across 14 topics
+|-- index.html                              # Entire app: markup, inline CSS, inline JS
+|-- questions.js                            # Question bank — 1,400 questions across 14 topics
+|-- scripts/check-answer-length.js          # Lints questions.js for the "longest answer wins" tell
+|-- .github/workflows/question-bank-lint.yml # Runs the linter above on every push/PR that touches questions.js
 |-- LICENSE
 `-- COMMERCIAL-LICENSE.md
 ```
@@ -75,13 +77,14 @@ Static site deployed on Zeabur — connect the repo in the Zeabur dashboard and 
 - [x] Per-question countdown timer with auto-advance on timeout
 - [x] Results breakdown by difficulty tier, calibration insights, PNG export
 - [x] Question bank extracted to standalone `questions.js` file
+- [x] No question in the bank has a correct answer more than 1.1x longer than the longest wrong option — the "longest answer wins" tell is gone project-wide
+- [x] Automated linting for the question bank (`scripts/check-answer-length.js`), wired into GitHub Actions to catch future answer-length regressions automatically on every push/PR
 
 **Planned / Suggestions**
 
 - No test coverage present — a simple sanity-check script to validate `questions.js` structure (question count per topic, required fields) would catch regressions
 - Question bank is AI-generated and not independently fact-checked; a review or flagging mechanism would improve accuracy over time
-- No `.env.example` or CI config found — a GitHub Actions workflow to lint HTML/JS on push would be a low-effort quality gate
-- Milder answer-length imbalances remain (correct answer up to ~3x longer than the longest wrong option on several hundred questions) — the most exploitable cases (≥3x) were fixed in v3.1.0/v3.2.0, but a full pass would fix the rest
+- CI currently only lints answer-length balance — extending it to lint HTML/JS more broadly (formatting, duplicate option text) would be a low-effort quality gate
 - Add user profiles and saved progress so repeated attempts can be tracked over time
 - Introduce custom topic packs, user-generated content, and import/export support
 - Improve mobile polish and add offline support (a manifest + service worker would make this installable as a PWA)
@@ -89,7 +92,6 @@ Static site deployed on Zeabur — connect the repo in the Zeabur dashboard and 
 - Add a shareable results permalink (encode topic/score/confidence in a URL) as a lighter-weight alternative to the PNG export
 - Accessibility pass: keyboard support for the confidence slider and timer, and screen-reader labeling for the SVG curve and countdown
 - A results-scoped question ID or seed would make a specific quiz attempt reproducible for sharing/debugging
-- Automated linting for the question bank (duplicate option text, answer-length balance) to catch future "longest answer" regressions automatically
 - Difficulty filters (e.g. postdoc-only mode) and mastery-based progression, as a lighter alternative to full retakes
 - Translations of the UI and, longer-term, localized question banks
 - Grow the project with community contributions and new question sets
@@ -98,6 +100,7 @@ Static site deployed on Zeabur — connect the repo in the Zeabur dashboard and 
 
 Summarised from commit history and versioning notes, most recent first.
 
+- **v3.3.0** — Finished the answer-length cleanup: the remaining 1,090 questions where the correct answer was more than 1.1x longer than the longest wrong option were fixed (correct answer tightened or a wrong option naturally elaborated, question by question). Added `scripts/check-answer-length.js`, a linter enforcing that ratio, and a GitHub Actions workflow that runs it on every push/PR touching `questions.js` so future question additions can't reintroduce the "longest answer wins" tell.
 - **v3.2.0** — Further cleanup of the answer-length "tell": on the remaining 141 questions where the correct answer was ≥3x longer than every wrong option, the correct answer was shortened or a wrong option was lengthened (whichever kept the question most natural). No question with that large a length gap remains in the bank.
 - **v3.1.0** — Extracted question bank from `index.html` into a standalone `questions.js` file; self-rating scale widened from 1–10 to 0–10 to allow a "never encountered it" floor; added attribution disclosing that questions were AI-generated by Claude (Anthropic) and haven't been independently fact-checked
 - **v3.0.0** — Rebranded to "Are you donkey? A Dunning-Kruger quizlet"; added 30-second per-question countdown timer with live progress bar and auto-advance on timeout; topics sorted alphabetically with icons; full Dunning-Kruger curve plot, verdict, tier breakdown, and PNG export added

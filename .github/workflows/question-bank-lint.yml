@@ -1,0 +1,22 @@
+name: Question bank lint
+
+on:
+  push:
+    paths:
+      - "questions.js"
+      - "scripts/check-answer-length.js"
+  pull_request:
+    paths:
+      - "questions.js"
+      - "scripts/check-answer-length.js"
+
+jobs:
+  answer-length:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Check for "longest answer wins" cheese
+        run: node scripts/check-answer-length.js
