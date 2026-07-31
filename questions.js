@@ -139,7 +139,7 @@ const TOPICS = [
         "q": "What is a 'star'?",
         "opts": [
           "A planet with rings",
-          "A giant ball of hot gas that produces light and heat through nuclear fusion",
+          "A ball of hot gas that produces light through nuclear fusion",
           "A moon orbiting a planet",
           "A type of asteroid"
         ],
@@ -248,10 +248,10 @@ const TOPICS = [
       {
         "q": "What is a 'nebula'?",
         "opts": [
-          "A dying star",
+          "A star nearing the end of its life",
           "A cloud of gas and dust in space, often where stars are born",
-          "A type of black hole",
-          "A moon of Jupiter"
+          "A collapsed stellar remnant with intense gravity",
+          "One of Jupiter's larger orbiting moons"
         ],
         "a": 1,
         "tier": 2
@@ -348,7 +348,7 @@ const TOPICS = [
         "q": "What is the 'Big Bang theory' about?",
         "opts": [
           "The formation of black holes",
-          "The leading scientific model describing the origin and expansion of the universe from an extremely hot, dense initial state",
+          "The leading model for the universe's origin from an extremely hot, dense state",
           "A theory about volcanic eruptions on Mars",
           "A theory explaining lunar eclipses"
         ],
@@ -403,7 +403,7 @@ const TOPICS = [
         "q": "What does a 'supernova' produce, in terms of heavy elements?",
         "opts": [
           "No new elements, only light",
-          "Extremely high-energy conditions capable of forming many of the universe's heavier elements",
+          "Extreme energy capable of forming many of the universe's heavier elements",
           "Only hydrogen and helium",
           "Only carbon dioxide"
         ],
@@ -414,7 +414,7 @@ const TOPICS = [
         "q": "What is 'redshift' used to help astronomers determine?",
         "opts": [
           "A star's color when observed at noon",
-          "That an object is moving away from the observer, based on a stretching of its light wavelength toward the red end of the spectrum",
+          "That an object is moving away, based on its light stretching toward red wavelengths",
           "The temperature of a planet's atmosphere",
           "The exact mass of a black hole"
         ],
@@ -436,7 +436,7 @@ const TOPICS = [
         "q": "What are 'sunspots'?",
         "opts": [
           "Permanent bright spots on the Sun",
-          "Temporary, relatively cooler and darker regions on the Sun's surface associated with intense magnetic activity",
+          "Cooler, darker regions on the Sun's surface caused by intense magnetic activity",
           "Craters on the Sun's surface",
           "Reflections of Earth on the Sun"
         ],
@@ -480,7 +480,7 @@ const TOPICS = [
         "q": "What is 'Hubble's Law' a statement about?",
         "opts": [
           "The rotation speed of the Milky Way",
-          "The observation that galaxies are receding from us at a speed roughly proportional to their distance, providing evidence for an expanding universe",
+          "That galaxies recede from us at a speed roughly proportional to their distance",
           "The orbital period of Jupiter's moons",
           "The temperature gradient of the Sun's layers"
         ],
@@ -491,7 +491,7 @@ const TOPICS = [
         "q": "What is a 'pulsar'?",
         "opts": [
           "A slowly rotating red giant",
-          "A highly magnetized, rotating neutron star that emits beams of electromagnetic radiation observed as regular pulses",
+          "A magnetized, rotating neutron star emitting beams seen as regular pulses",
           "A type of nebula",
           "A binary star system with no rotation"
         ],
@@ -524,7 +524,7 @@ const TOPICS = [
         "q": "What is the Chandrasekhar limit relevant to?",
         "opts": [
           "The maximum size of a planet",
-          "The maximum mass of a stable white dwarf star, above which it will collapse further, potentially into a neutron star or trigger a supernova",
+          "The maximum mass a white dwarf can hold before collapsing further",
           "The minimum distance for a habitable zone",
           "The speed limit for objects in orbit"
         ],
@@ -689,7 +689,7 @@ const TOPICS = [
         "q": "What does 'baryon acoustic oscillation' provide astronomers as a cosmological tool?",
         "opts": [
           "A method for detecting individual exoplanets",
-          "A 'standard ruler' based on regular, periodic density fluctuations in the early universe, useful for measuring cosmic distances and the universe's expansion history",
+          "A 'standard ruler' from early-universe density fluctuations, used to measure cosmic distances",
           "A method for measuring a star's exact temperature",
           "A technique for directly imaging black holes"
         ],
@@ -711,7 +711,7 @@ const TOPICS = [
         "q": "What does 'gravitational wave' detection, such as by LIGO, directly confirm?",
         "opts": [
           "The existence of dark matter",
-          "Ripples in spacetime predicted by general relativity, generated by extremely massive accelerating objects, such as merging black holes or neutron stars",
+          "Ripples in spacetime from massive accelerating objects, like merging black holes",
           "The exact composition of a black hole's interior",
           "The existence of a multiverse"
         ],
@@ -766,7 +766,7 @@ const TOPICS = [
         "q": "What is the 'Fermi paradox' concerned with?",
         "opts": [
           "The mathematical inconsistency in general relativity",
-          "The apparent contradiction between the high estimated probability of extraterrestrial civilizations existing and the lack of observed evidence or contact with them",
+          "The gap between the high odds of alien civilizations existing and the lack of evidence for them",
           "A paradox regarding the age of the universe",
           "A paradox in stellar nucleosynthesis calculations"
         ],
@@ -799,7 +799,7 @@ const TOPICS = [
         "q": "What does the 'Lambda-CDM model' represent as the current standard model of cosmology?",
         "opts": [
           "A model with no dark matter or dark energy included",
-          "A model incorporating dark energy (denoted Lambda) and cold dark matter (CDM), alongside ordinary matter, to explain the universe's large-scale structure and expansion history",
+          "A model combining dark energy and cold dark matter to explain the universe's structure",
           "A purely Newtonian model of the solar system",
           "A model that rejects the Big Bang theory"
         ],
@@ -865,7 +865,7 @@ const TOPICS = [
         "q": "What does 'microlensing' as an exoplanet and dark matter detection technique rely on?",
         "opts": [
           "Direct photography of the object being studied",
-          "The gravitational bending and magnifying of light from a background star as a foreground object, like a planet or dark matter clump, passes in front of it",
+          "The gravitational bending of a background star's light as an object passes in front of it",
           "Measuring the object's radio emissions",
           "Measuring the object's exact surface temperature"
         ],
@@ -997,7 +997,7 @@ const TOPICS = [
         "q": "What is the significance of 'cosmic censorship conjecture', proposed by Roger Penrose, in general relativity?",
         "opts": [
           "It conjectures that black holes cannot exist in nature",
-          "It conjectures that singularities formed by gravitational collapse are always hidden behind an event horizon (rather than being 'naked'), preserving the predictability of general relativity outside black holes",
+          "It conjectures that collapse singularities are always hidden behind an event horizon, never 'naked'",
           "It conjectures that all information can freely escape black holes",
           "It is a proven theorem with no remaining open questions"
         ],
@@ -1030,7 +1030,7 @@ const TOPICS = [
         "q": "What does 'primordial gravitational wave' detection, if achieved via the cosmic microwave background's B-mode polarization, potentially confirm?",
         "opts": [
           "The existence of exoplanets around distant stars",
-          "Direct evidence of cosmic inflation, since inflation is predicted to have generated a background of gravitational waves imprinted as a specific polarization pattern in the cosmic microwave background",
+          "Direct evidence of cosmic inflation, which should imprint a specific polarization pattern in the CMB",
           "The exact mass of every black hole in the observable universe",
           "The existence of dark matter particles directly"
         ],
@@ -1096,7 +1096,7 @@ const TOPICS = [
         "q": "What does 'the measure problem' refer to in the context of eternal inflation and multiverse cosmology?",
         "opts": [
           "A dispute over the correct unit system for measuring cosmic distances",
-          "The difficulty of defining a well-behaved, non-arbitrary probability measure for comparing outcomes across an infinite ensemble of universes generated by eternal inflation, complicating predictions from multiverse theories",
+          "The difficulty of defining a fair probability measure across an infinite multiverse of universes",
           "A problem measuring the exact size of a single galaxy",
           "A dispute about telescope calibration standards"
         ],
@@ -1542,7 +1542,7 @@ const TOPICS = [
         "q": "What is a 'pivot' in a startup context?",
         "opts": [
           "Closing the business permanently",
-          "A fundamental change in a company's business strategy or product direction, often based on market feedback",
+          "A fundamental change in a company's strategy or product direction",
           "Hiring a new CEO",
           "Filing for a business loan"
         ],
@@ -1619,7 +1619,7 @@ const TOPICS = [
         "q": "What does 'disruptive innovation', a term coined by Clayton Christensen, describe?",
         "opts": [
           "Any new product launch by a company",
-          "An innovation that creates a new market and value network, eventually displacing established market leaders and products",
+          "An innovation that creates a new market, eventually displacing established leaders",
           "A temporary supply chain disruption",
           "A company's marketing budget increase"
         ],
@@ -1707,7 +1707,7 @@ const TOPICS = [
         "q": "What does 'total addressable market' (TAM) estimate?",
         "opts": [
           "A company's current annual revenue",
-          "The total revenue opportunity available if a product or service achieved 100% market share of its target market",
+          "The total revenue possible if a product captured 100% of its target market",
           "A company's total number of employees",
           "A company's total debt"
         ],
@@ -1729,7 +1729,7 @@ const TOPICS = [
         "q": "What does 'moat', as popularized by Warren Buffett, refer to in business analysis?",
         "opts": [
           "A company's physical office layout",
-          "A sustainable competitive advantage that protects a company's market position and profits from competitors",
+          "A sustainable competitive advantage protecting a company's market position",
           "A type of short-term business loan",
           "A government trade tariff"
         ],
@@ -1740,7 +1740,7 @@ const TOPICS = [
         "q": "What is the 'bullwhip effect' in supply chain management?",
         "opts": [
           "A sudden increase in a company's stock price",
-          "The phenomenon where small fluctuations in consumer demand cause increasingly larger fluctuations in orders further up the supply chain",
+          "Small demand fluctuations causing increasingly larger swings further up the supply chain",
           "A marketing technique for increasing sales",
           "A type of employee performance review"
         ],
@@ -1795,7 +1795,7 @@ const TOPICS = [
         "q": "What does 'real options theory' apply from financial options pricing to strategic management decisions?",
         "opts": [
           "It has no practical strategic application",
-          "The idea that strategic investments, like entering a new market, can be valued similarly to financial options, capturing the value of managerial flexibility under uncertainty",
+          "Valuing strategic investments like financial options, capturing flexibility under uncertainty",
           "It only applies to publicly traded stock decisions",
           "It replaces the need for any financial analysis"
         ],
@@ -1806,7 +1806,7 @@ const TOPICS = [
         "q": "What is the 'dynamic capabilities' framework in strategic management theory concerned with?",
         "opts": [
           "A firm's static set of fixed resources",
-          "A firm's ability to integrate, build, and reconfigure internal and external competencies to address rapidly changing environments",
+          "A firm's ability to reconfigure its competencies to address rapidly changing environments",
           "A firm's short-term cash flow management",
           "A firm's tax optimization strategy"
         ],
@@ -1828,7 +1828,7 @@ const TOPICS = [
         "q": "What does 'institutional theory' in organizational studies argue shapes firm behavior, beyond pure efficiency considerations?",
         "opts": [
           "Only a firm's internal financial metrics",
-          "Social and cultural pressures for legitimacy, leading organizations in the same field to become more similar over time (isomorphism)",
+          "Social pressures for legitimacy that make organizations in a field grow more alike",
           "Random chance alone",
           "Government taxation exclusively"
         ],
@@ -1949,7 +1949,7 @@ const TOPICS = [
         "q": "What is 'hypercompetition', a term associated with strategist Richard D'Aveni, used to describe?",
         "opts": [
           "Stable, slow-moving competitive environments",
-          "Environments characterized by intense and rapidly escalating competition, where competitive advantages are quickly eroded and must be continuously renewed",
+          "Environments where competition escalates so fast that advantages erode almost immediately",
           "A monopolistic market with no competition",
           "A government-regulated industry with fixed prices"
         ],
@@ -1971,7 +1971,7 @@ const TOPICS = [
         "q": "What is the 'attention-based view' of the firm concerned with, as a complement to resource-based theories?",
         "opts": [
           "How firms allocate financial capital only",
-          "How the focus and allocation of decision-makers' limited attention shapes what a firm perceives, interprets, and acts upon strategically",
+          "How decision-makers' limited attention shapes what a firm notices and acts on",
           "A firm's physical office layout",
           "A firm's government lobbying budget"
         ],
@@ -2158,7 +2158,7 @@ const TOPICS = [
         "q": "What does 'the resource dependence theory' of organizations (Pfeffer and Salancik) argue drives inter-organizational relationships like alliances and mergers?",
         "opts": [
           "Purely random social ties between executives",
-          "Organizations' need to manage dependencies on external resources controlled by other organizations in their environment, shaping strategies to reduce uncertainty and increase autonomy",
+          "Organizations' need to manage dependencies on resources controlled by others in their environment",
           "Government mandates requiring specific alliance structures",
           "Organizations never depend on external resources"
         ],
@@ -2263,7 +2263,7 @@ const TOPICS = [
         "q": "What is an 'avatar' in a video game?",
         "opts": [
           "A type of game console",
-          "The character a player controls to represent themselves in the game",
+          "The character a player controls to represent themselves",
           "A game's soundtrack",
           "A type of game genre"
         ],
@@ -2582,7 +2582,7 @@ const TOPICS = [
         "q": "What is 'aggro' in gaming terminology?",
         "opts": [
           "A game's difficulty setting",
-          "The attention or hostility of an enemy, often directed toward a specific player or character",
+          "The attention or hostility of an enemy directed toward a player",
           "A type of in-game currency",
           "A multiplayer chat feature"
         ],
@@ -2637,7 +2637,7 @@ const TOPICS = [
         "q": "What does 'game engine' refer to?",
         "opts": [
           "The physical hardware inside a gaming console",
-          "The underlying software framework used by developers to build and run a video game, handling elements like graphics, physics, and audio",
+          "The software framework developers use to build and run a game",
           "A type of in-game vehicle",
           "A multiplayer matchmaking service"
         ],
@@ -2659,7 +2659,7 @@ const TOPICS = [
         "q": "What does 'frame data' refer to in fighting game analysis?",
         "opts": [
           "The visual resolution settings of a game",
-          "Precise numerical information about the timing, startup, and recovery of specific moves, measured in frames, used for competitive strategy",
+          "Frame-by-frame timing data on a move's startup and recovery, used competitively",
           "A method for compressing video game graphics",
           "A type of matchmaking ranking system"
         ],
@@ -2791,7 +2791,7 @@ const TOPICS = [
         "q": "What does 'server tick rate' refer to in online multiplayer game architecture?",
         "opts": [
           "The visual frame rate displayed on a player's monitor",
-          "The frequency at which a game server updates and processes the game state, measured in updates per second, which can significantly affect the precision and responsiveness of online gameplay",
+          "How often per second a game server updates the game state",
           "A method for compressing a game's downloadable file size",
           "A ranking system for competitive matchmaking"
         ],
@@ -2879,7 +2879,7 @@ const TOPICS = [
         "q": "What does 'the magic circle', a concept adapted from game theorist Johan Huizinga's work and applied by scholars like Katie Salen and Eric Zimmerman, describe about the boundary of play?",
         "opts": [
           "A literal, physical circular boundary marked on the ground during a game",
-          "A conceptual, socially agreed-upon boundary that separates the special context of a game, with its own internally consistent rules and meanings, from ordinary 'real life', within which actions carry different significance",
+          "A socially agreed boundary separating a game's special rules and meaning from ordinary life",
           "A technical term for a game's rendering boundary or draw distance",
           "A specific mechanic used only in tabletop board games"
         ],
@@ -2890,7 +2890,7 @@ const TOPICS = [
         "q": "What is 'the MDA framework' (Mechanics, Dynamics, Aesthetics), an influential formal approach to game design analysis?",
         "opts": [
           "A framework used exclusively for analyzing a game's visual art style",
-          "A framework analyzing games at three interrelated levels: the underlying rules and systems (Mechanics), the run-time behavior arising from those mechanics in play (Dynamics), and the resulting emotional player experience (Aesthetics)",
+          "A framework analyzing games via Mechanics, the resulting Dynamics, and player Aesthetics",
           "A method for calculating a game's minimum hardware requirements",
           "A ranking system used in competitive esports"
         ],
@@ -2923,7 +2923,7 @@ const TOPICS = [
         "q": "What does 'procedural rhetoric', a concept developed by game scholar Ian Bogost, propose about how video games can construct persuasive arguments?",
         "opts": [
           "Games can only persuade players through explicit written or spoken text, identical to traditional media",
-          "Bogost argues that video games possess a unique persuasive capacity, distinct from other media, arising from their procedural nature, meaning the rule-based systems and processes a player must actually interact with can themselves construct and convey an argument or perspective, beyond what could be communicated through explicit text or imagery alone",
+          "Bogost argues games' rule-based systems, which players must interact with, can themselves construct an argument",
           "Procedural rhetoric theory denies that games can convey any meaningful argument or perspective",
           "This concept applies exclusively to educational games, excluding entertainment-focused titles"
         ],
@@ -3022,7 +3022,7 @@ const TOPICS = [
         "q": "What is 'the concept of 'affordance' in game interface and level design, adapted from design theorist Donald Norman's broader work?",
         "opts": [
           "A game's total production budget",
-          "The perceived and actual properties of a game object or environmental feature that suggest to the player how it can be interacted with, such as a ledge visually suggesting it can be grabbed or climbed",
+          "A game object's properties that visually suggest to the player how it can be used",
           "A term describing a game's monetization pricing tiers",
           "A method for calculating a game's minimum system requirements"
         ],
@@ -3033,7 +3033,7 @@ const TOPICS = [
         "q": "What does 'the concept of 'kinesthetic gameplay'', as discussed in some formal game design analysis, emphasize?",
         "opts": [
           "Purely narrative-driven gameplay with minimal player interaction",
-          "The direct, moment-to-moment physical sensation and pleasure derived from controlling a character or object's movement and physics within a game, independent of broader narrative or strategic considerations",
+          "The direct physical pleasure of controlling a character's movement, apart from narrative",
           "A term describing a game's monetization structure exclusively",
           "A method for organizing a game's difficulty settings menu"
         ],
@@ -4871,7 +4871,7 @@ const TOPICS = [
         "q": "What is a 'delta' in physical geography?",
         "opts": [
           "A steep mountain valley",
-          "A landform where a river deposits sediment as it enters a larger body of water",
+          "Where a river deposits sediment as it enters a larger body of water",
           "A type of desert dune",
           "A type of ocean current"
         ],
@@ -5080,7 +5080,7 @@ const TOPICS = [
         "q": "What does 'choropleth map' refer to in cartography?",
         "opts": [
           "A map showing only physical terrain",
-          "A thematic map where areas are shaded or patterned to represent a statistical variable, like population density",
+          "A thematic map shading areas to represent a statistical variable, like density",
           "A map used exclusively for navigation",
           "A 3D relief map"
         ],
@@ -5157,7 +5157,7 @@ const TOPICS = [
         "q": "What does 'gentrification' refer to in urban geography?",
         "opts": [
           "The decline of a wealthy neighborhood",
-          "The process of renovation and revitalization of a deteriorating urban area, often displacing lower-income residents as property values and rents rise",
+          "Urban renewal that raises property values and often displaces lower-income residents",
           "A type of rural-to-urban infrastructure project",
           "A government policy for building new suburbs"
         ],
@@ -5179,7 +5179,7 @@ const TOPICS = [
         "q": "What does 'the demographic dividend' refer to in development geography?",
         "opts": [
           "A tax paid based on population size",
-          "The potential economic growth benefit a country can experience when it has a large working-age population relative to dependents",
+          "The growth benefit of having a large working-age population relative to dependents",
           "A government subsidy for large families",
           "A type of population census methodology"
         ],
@@ -5256,7 +5256,7 @@ const TOPICS = [
         "q": "What is 'ethnic enclave' theory concerned with explaining in urban and migration geography?",
         "opts": [
           "The formation of purely random neighborhood clusters",
-          "How and why immigrant or minority groups often concentrate spatially within specific urban neighborhoods, and the economic and social functions these enclaves serve",
+          "Why immigrant groups concentrate spatially, and the social functions those enclaves serve",
           "Government-mandated housing policy exclusively",
           "The physical geology of urban areas"
         ],
@@ -5267,7 +5267,7 @@ const TOPICS = [
         "q": "What does 'time-geography', developed by Torsten Hägerstrand, use to analyze human activity patterns?",
         "opts": [
           "Only historical population census data",
-          "Space-time paths tracing individuals' movement and activities through both physical space and time, subject to various constraints",
+          "Space-time paths tracing individuals' movement through both space and time",
           "Purely economic trade flow data",
           "Climate data exclusively"
         ],
@@ -5278,7 +5278,7 @@ const TOPICS = [
         "q": "What is the significance of 'the environmental determinism vs. possibilism debate' in the history of geographic thought?",
         "opts": [
           "Both positions agree entirely on the role of environment in shaping societies",
-          "Environmental determinism argues the physical environment strictly determines human cultural development, while possibilism argues the environment offers possibilities that humans creatively adapt to, rather than strict constraints",
+          "Determinism says environment strictly shapes culture; possibilism says humans adapt to its possibilities",
           "Neither position has ever been seriously debated in geography",
           "The debate concerns only agricultural productivity"
         ],
@@ -5344,7 +5344,7 @@ const TOPICS = [
         "q": "What is 'territorial trap' a critique of, within critical political geography, as articulated by John Agnew?",
         "opts": [
           "The assumption that all political territories are equally powerful",
-          "The assumption, often implicit in international relations theory, that fixed, bounded state territories are the natural and unchanging unit of political-economic analysis, obscuring more fluid and networked forms of power",
+          "The assumption that fixed state territories are the natural unit of political analysis",
           "A specific dispute over a physical border between two states",
           "A methodology for calculating a country's GDP"
         ],
@@ -5388,7 +5388,7 @@ const TOPICS = [
         "q": "What is 'more-than-human geography' primarily concerned with expanding geographic analysis to include?",
         "opts": [
           "Only human political and economic institutions",
-          "The agency and significance of non-human actors, such as animals, plants, and technological objects, in co-constituting geographic space and social life",
+          "The agency of non-human actors, like animals and objects, in shaping geographic space",
           "Purely abstract mathematical spatial models",
           "Government census data exclusively"
         ],
@@ -5399,7 +5399,7 @@ const TOPICS = [
         "q": "What does 'feminist geopolitics' critique in traditional geopolitical analysis?",
         "opts": [
           "The relevance of geography to international relations entirely",
-          "The traditional focus on state-level, elite, and often masculinized perspectives of security and power, arguing for attention to everyday, embodied, and gendered experiences of geopolitical processes across scales",
+          "The traditional focus on elite, masculinized views of power, ignoring everyday gendered experience",
           "The existence of international borders",
           "The use of maps in political analysis"
         ],
@@ -5713,7 +5713,7 @@ const TOPICS = [
         "q": "What is a 'reaction image' or 'reaction gif'?",
         "opts": [
           "A type of online advertisement",
-          "An image or GIF used in a conversation to express a specific emotion or reaction, often humorously",
+          "An image or GIF used to express a reaction in a conversation, often humorously",
           "A profile picture",
           "A hashtag category"
         ],
@@ -5757,7 +5757,7 @@ const TOPICS = [
         "q": "What is a 'copypasta' in internet culture?",
         "opts": [
           "A type of Italian food meme",
-          "A block of text that is copied and pasted repeatedly across the internet, often humorously or ironically",
+          "A block of text copied and pasted repeatedly across the internet, often ironically",
           "A verified social media account",
           "A type of video compression"
         ],
@@ -5922,7 +5922,7 @@ const TOPICS = [
         "q": "What does 'the algorithm', as commonly referenced by social media users, generally refer to?",
         "opts": [
           "A single, universal internet-wide ranking system",
-          "The platform-specific automated system that determines what content is shown to a given user, based on factors like engagement, relevance, and past behavior",
+          "The platform's automated system determining what content a user is shown",
           "A government agency overseeing internet content",
           "A type of manual content moderation team"
         ],
@@ -6010,7 +6010,7 @@ const TOPICS = [
         "q": "What is 'ironic detachment', as a stylistic mode common in certain strains of internet humor and meme culture?",
         "opts": [
           "A completely sincere, unqualified expression of genuine emotion",
-          "A communicative style characterized by layered irony, self-aware absurdism, and a reluctance to express genuine sentiment directly, often making sincerity itself difficult to distinguish from parody",
+          "A style of layered irony and reluctance to express genuine sentiment directly",
           "A formal content moderation category",
           "A term for verified, professionally produced comedy content"
         ],
@@ -6054,7 +6054,7 @@ const TOPICS = [
         "q": "What is 'context collapse', a concept from internet and social media studies (danah boyd), relevant to how memes and posts are interpreted?",
         "opts": [
           "The phenomenon where a post is understood identically by every possible audience",
-          "The flattening of multiple, distinct audiences (such as friends, family, and strangers) into a single, imagined audience on social media, causing content, including memes, to be interpreted differently or awkwardly across these merged contexts",
+          "Multiple distinct audiences flattening into one imagined audience on social media",
           "A term describing a website's server outage",
           "A method for organizing hashtags"
         ],
@@ -6076,7 +6076,7 @@ const TOPICS = [
         "q": "What is 'a normie', as a term used within certain online subcultures?",
         "opts": [
           "A verified social media influencer",
-          "A person perceived as having mainstream tastes and being unfamiliar with or outside of niche internet subcultures",
+          "Someone seen as having mainstream tastes, unfamiliar with niche internet subcultures",
           "A moderator of an online forum",
           "A type of bot account"
         ],
@@ -6219,7 +6219,7 @@ const TOPICS = [
         "q": "What is the theoretical significance of 'accelerationist aesthetics' as sometimes discussed in relation to certain strains of extremely online, ironic meme culture?",
         "opts": [
           "An aesthetic mode entirely disconnected from any broader philosophical or political currents",
-          "A contested aesthetic and rhetorical mode, associated loosely with philosophical accelerationism, that embraces or ironically amplifies technological and social disruption and extremity rather than resisting it, which some scholars analyze as manifesting in certain fringe online meme and shitposting subcultures",
+          "An aesthetic that embraces or ironically amplifies technological and social disruption",
           "A term describing only the technical speed of internet connections",
           "A formally defined content category regulated uniformly across all platforms"
         ],
@@ -6252,7 +6252,7 @@ const TOPICS = [
         "q": "What does 'the concept of 'weird internet'' or 'internet uncanny' as an aesthetic and cultural category, discussed in some digital culture scholarship, attempt to characterize?",
         "opts": [
           "A formally regulated content category defined uniformly by all major platforms",
-          "A loosely defined aesthetic and cultural sensibility characterized by deliberately strange, absurdist, or dreamlike content that plays with the conventions of mainstream internet culture, often generating a sense of unease or disorientation alongside humor",
+          "A loosely defined aesthetic of deliberately strange, absurdist content that unsettles as much as amuses",
           "A term describing exclusively malfunctioning or broken websites",
           "A category applied only to AI-generated content"
         ],
@@ -6362,7 +6362,7 @@ const TOPICS = [
         "q": "What does 'the concept of 'phatic communication'', originally from linguistic anthropology (Bronisław Malinowski), get applied to describe in the context of low-content, high-frequency meme and reaction sharing between friends?",
         "opts": [
           "Communication whose primary function is conveying complex, novel factual information",
-          "Communication whose primary social function is maintaining social bonds and signaling ongoing connection or attention, rather than conveying substantive new information, a concept applied to explain why users frequently exchange low-content memes or reaction images simply to sustain a social relationship",
+          "Communication mainly meant to maintain social bonds, rather than convey new information",
           "A term applicable exclusively to formal written correspondence",
           "Phatic communication theory denies that any social function is served by casual online exchanges"
         ],
@@ -6417,7 +6417,7 @@ const TOPICS = [
         "q": "What does 'the concept of 'accelerationism' in its explicitly philosophical (rather than purely internet-subcultural) formulation, associated with theorists like Nick Land, propose regarding capitalism's relationship to technological and social change, and how has this concept been controversially appropriated within certain extremely online meme subcultures?",
         "opts": [
           "Philosophical accelerationism argues technological and capitalist processes should be actively slowed to allow for careful, deliberate social planning",
-          "Land's original philosophical accelerationism argued that capitalism's inherent tendencies toward deterritorialization and technological intensification should be pushed further and faster rather than resisted, a complex and contested philosophical position that has since been selectively and often superficially appropriated, stripped of its original theoretical complexity, within certain fringe online meme and shitposting subcultures as an aesthetic of embracing chaos and disruption",
+          "Land argued capitalism's technological intensification should be pushed further, a stance later adopted aesthetically by fringe meme subcultures",
           "This concept has no documented connection whatsoever to any internet subculture",
           "Accelerationism as a philosophical concept was invented specifically to describe contemporary social media algorithm design"
         ],
@@ -6428,7 +6428,7 @@ const TOPICS = [
         "q": "What is the theoretical significance of 'the concept of 'egregore'', an occult-derived term increasingly informally invoked within certain internet subcultures to describe emergent collective online phenomena, and how does its usage intersect with more formal theories of distributed cognition and collective online behavior?",
         "opts": [
           "The term egregore has an exclusively formal, scientifically validated definition with no occult or esoteric origin",
-          "Egregore, originally an occultist concept referring to a distinct group mind or thoughtform arising from a collective of individuals, has been informally and often semi-ironically adopted within some internet subcultures to describe emergent, seemingly autonomous collective online phenomena or persistent community identities, drawing loose, often unrigorous parallels to more formal academic theories of distributed cognition, swarm intelligence, and collective online behavior",
+          "An occultist term for a group mind, informally adopted online to describe emergent collective phenomena",
           "This concept is used identically and without any semantic drift across every online community that references it",
           "Egregore theory has been definitively and uncontroversially validated as an accurate scientific description of internet community dynamics"
         ],
@@ -6461,7 +6461,7 @@ const TOPICS = [
         "q": "What does 'the theoretical concept of 'semiotic democracy'', as originally articulated by cultural theorist John Fiske and later critically revisited in relation to internet remix and meme culture, propose about the distribution of interpretive and creative power over shared cultural symbols?",
         "opts": [
           "Semiotic democracy asserts that only professional media producers and copyright holders have any legitimate claim to interpret or reuse cultural symbols",
-          "Fiske's concept of semiotic democracy proposed that audiences hold significant power to actively reinterpret and appropriate mass media texts and symbols for their own purposes, a framework later applied, with both enthusiasm and critical qualification, to internet meme remix culture, where users freely reappropriate copyrighted or branded imagery, while critics note this 'democracy' remains constrained by platform ownership, algorithmic curation, and persistent intellectual property enforcement",
+          "Fiske's idea that audiences hold real power to reinterpret media texts, later applied to meme remix culture",
           "This concept was developed specifically to describe formal democratic voting systems, with no relevance to media or cultural theory",
           "Semiotic democracy theory has been definitively disproven and is no longer referenced in any contemporary media scholarship"
         ],
@@ -6472,7 +6472,7 @@ const TOPICS = [
         "q": "What is the theoretical significance of 'the concept of 'networked framing theory'', extending classical media framing theory (Erving Goffman, Robert Entman) to the distributed, user-generated context of meme-based political communication?",
         "opts": [
           "Framing theory asserts that the specific presentation or 'frame' applied to an issue has no measurable effect on how audiences interpret or evaluate it",
-          "Classical framing theory examines how the specific presentation of an issue, emphasizing certain aspects while omitting others, shapes audience interpretation and evaluation; networked framing theory extends this to examine how such framing processes now occur in a distributed, iterative, and user-driven manner across memes and social media posts, rather than being controlled primarily by centralized professional media gatekeepers as in earlier framing theory research",
+          "How an issue's framing shapes interpretation, now happening in a distributed way across memes and posts",
           "This theoretical extension applies exclusively to television broadcast framing, excluding any digital or social media context",
           "Networked framing theory concludes that framing effects have become entirely negligible in the contemporary high-choice media environment"
         ],
@@ -6885,7 +6885,7 @@ const TOPICS = [
         "q": "What does 'habeas corpus' protect against?",
         "opts": [
           "Unfair taxation",
-          "Unlawful detention, by requiring courts to review an imprisonment's legality",
+          "Unlawful detention, by requiring courts to review its legality",
           "Discrimination in hiring",
           "Breach of contract"
         ],
@@ -6940,7 +6940,7 @@ const TOPICS = [
         "q": "What is 'jurisdiction' in law?",
         "opts": [
           "A type of legal punishment",
-          "The official authority of a court or legal body to hear and decide cases within a certain geographic area or subject matter",
+          "A court's official authority to hear cases within a certain area or subject",
           "A type of contract clause",
           "A lawyer's area of specialization only"
         ],
@@ -7072,7 +7072,7 @@ const TOPICS = [
         "q": "What is 'legal standing' required for a party to have in order to bring a lawsuit?",
         "opts": [
           "A law degree",
-          "A sufficient connection to and harm from the issue in question to justify their participation in the case",
+          "A sufficient connection to and harm from the issue to justify bringing the case",
           "Prior experience as a witness",
           "Approval from the opposing party"
         ],
@@ -7138,7 +7138,7 @@ const TOPICS = [
         "q": "What is the significance of 'Miranda rights' in US criminal procedure?",
         "opts": [
           "They guarantee a defendant a jury trial",
-          "They require law enforcement to inform a suspect of certain constitutional rights, including the right to remain silent, before a custodial interrogation",
+          "They require police to inform a suspect of key rights, like remaining silent, before interrogation",
           "They apply only to civil lawsuits",
           "They guarantee an immediate release from custody"
         ],
@@ -7171,7 +7171,7 @@ const TOPICS = [
         "q": "What does the term 'ultra vires' refer to in corporate and administrative law?",
         "opts": [
           "An action taken within one's legal authority",
-          "An act performed beyond the scope of legal power or authority granted to a person or entity, such as a corporation or government body",
+          "An act performed beyond the legal power granted to a person or entity",
           "A type of binding contract",
           "A criminal defense based on insanity"
         ],
@@ -7270,7 +7270,7 @@ const TOPICS = [
         "q": "What is a 'fiduciary duty'?",
         "opts": [
           "A general duty owed by any person to any other person",
-          "A heightened legal and ethical obligation of trust, loyalty, and care owed by one party, like a trustee or corporate director, to another, such as a beneficiary or shareholder",
+          "A heightened duty of trust and loyalty owed by one party, like a trustee, to another",
           "A duty that applies only to elected government officials",
           "A duty owed exclusively by lawyers to their clients"
         ],
@@ -7292,7 +7292,7 @@ const TOPICS = [
         "q": "What is 'collateral estoppel' (issue preclusion) designed to prevent?",
         "opts": [
           "A party from ever filing a new, unrelated lawsuit",
-          "A party from relitigating a specific issue of fact or law that was already actually litigated and necessarily decided in a prior case between the same parties",
+          "A party from relitigating an issue already decided in a prior case between them",
           "A defendant from being represented by a lawyer",
           "A jury from being selected in a new trial"
         ],
@@ -7611,7 +7611,7 @@ const TOPICS = [
         "q": "What does 'the New Legal Realism' movement, distinguished from classical American legal realism, emphasize methodologically?",
         "opts": [
           "A pure return to formalist doctrinal analysis with no empirical component",
-          "A commitment to rigorous, often interdisciplinary empirical social science methods for studying how law actually operates in practice and its real-world effects, building on but methodologically refining classical legal realist insights",
+          "Rigorous empirical, often interdisciplinary methods for studying how law actually operates",
           "A rejection of any connection between law and social science",
           "An approach limited exclusively to criminal law empirical studies"
         ],
@@ -7622,7 +7622,7 @@ const TOPICS = [
         "q": "What is the theoretical significance of 'juridification' as a concept in socio-legal studies, associated with thinkers like Jürgen Habermas?",
         "opts": [
           "A term describing the total absence of law in a given social sphere",
-          "A process describing the increasing penetration and regulation of previously informal social spheres, such as family or workplace relations, by formal legal norms and procedures, with potentially both enabling and colonizing effects",
+          "Formal legal norms increasingly regulating once-informal spheres, like family or work life",
           "A concept applicable only to the codification of civil law systems",
           "A term synonymous with judicial review"
         ],
@@ -7688,7 +7688,7 @@ const TOPICS = [
         "q": "What is the theoretical significance of 'legal transplants' theory, associated with Alan Watson, for comparative law scholarship regarding how legal rules move between jurisdictions?",
         "opts": [
           "Legal rules can never be meaningfully transferred between different legal systems and cultures",
-          "Watson argued legal rules and institutions can be transplanted relatively successfully between different societies even with quite different social and economic conditions, sparking ongoing debate with scholars who emphasize the importance of local socio-cultural context for a transplant's success",
+          "Watson argued legal rules can transplant successfully between societies, despite differing conditions",
           "This theory applies exclusively to the transfer of criminal sentencing guidelines",
           "Legal transplants theory denies that any legal borrowing has historically occurred"
         ],
@@ -7699,7 +7699,7 @@ const TOPICS = [
         "q": "What does 'the sociology of the legal profession', as a field of socio-legal scholarship, examine regarding stratification and power within legal practice?",
         "opts": [
           "An assumption that all lawyers occupy an identical, undifferentiated professional status",
-          "How the legal profession is internally stratified by factors such as prestige, specialization, and client type (e.g., corporate versus individual clients), and how this stratification shapes professional norms, career trajectories, and the profession's broader social and political influence",
+          "How the legal profession is stratified by prestige, specialization, and client type",
           "A field concerned exclusively with bar examination pass rates",
           "A field with no connection to broader theories of professions and expertise"
         ],
@@ -8255,7 +8255,7 @@ const TOPICS = [
         "q": "What does the Central Limit Theorem state?",
         "opts": [
           "All data sets are normally distributed",
-          "The sum of independent random variables tends toward a normal distribution as sample size grows, regardless of the original distribution",
+          "Sums of independent random variables trend toward a normal distribution as sample size grows",
           "The mean of a data set equals its median",
           "Variance decreases as sample size decreases"
         ],
@@ -8475,7 +8475,7 @@ const TOPICS = [
         "q": "What does 'convexity' of a function mean in optimization?",
         "opts": [
           "The function has multiple local minima",
-          "A line segment between any two points on the graph lies above or on the graph, ensuring any local minimum is a global minimum",
+          "A line between any two graph points lies above or on the graph itself",
           "The function is always increasing",
           "The function has no derivative"
         ],
@@ -8651,7 +8651,7 @@ const TOPICS = [
         "q": "What does the Kolmogorov-Smirnov test assess?",
         "opts": [
           "Whether two means are significantly different",
-          "Whether a sample's distribution differs significantly from a reference distribution, or whether two samples come from the same distribution",
+          "Whether a sample's distribution differs significantly from a reference distribution",
           "The correlation between two variables",
           "The variance of a single sample"
         ],
@@ -8673,7 +8673,7 @@ const TOPICS = [
         "q": "What does the concept of 'martingale' formalize in probability theory?",
         "opts": [
           "A process that always increases over time",
-          "A stochastic process where the conditional expected value of the next observation, given all prior observations, equals the current observation",
+          "A process where the expected next value, given past observations, equals the current one",
           "A process with no randomness at all",
           "A fixed, non-random sequence"
         ],
@@ -8694,7 +8694,7 @@ const TOPICS = [
       {
         "q": "What does 'algebraic topology' primarily study, using tools from abstract algebra?",
         "opts": [
-          "The properties of topological spaces that are preserved under continuous deformations, using algebraic invariants like homology and homotopy groups",
+          "Topological properties preserved under continuous deformation, via algebraic invariants",
           "The numerical solution of differential equations",
           "The factorization of large integers",
           "The convergence of infinite series only"
@@ -8739,7 +8739,7 @@ const TOPICS = [
         "q": "What does 'homological algebra' provide tools for, originally developed from algebraic topology?",
         "opts": [
           "Solving simple linear equations",
-          "Studying algebraic structures like modules and their relationships via chain complexes and derived functors",
+          "Studying algebraic structures like modules via chain complexes and derived functors",
           "Estimating population parameters",
           "Computing numerical derivatives"
         ],
@@ -8761,7 +8761,7 @@ const TOPICS = [
         "q": "What does 'stochastic differential equations' (SDEs) model?",
         "opts": [
           "Purely deterministic dynamical systems",
-          "Systems whose evolution includes a deterministic drift term and a random (stochastic) noise term, often driven by Brownian motion",
+          "Systems with both a deterministic drift term and a random noise term, often via Brownian motion",
           "Static equilibrium states only",
           "Discrete combinatorial structures"
         ],
@@ -8816,7 +8816,7 @@ const TOPICS = [
         "q": "What is 'category theory' broadly concerned with, as a highly abstract branch of mathematics?",
         "opts": [
           "Only the study of finite sets",
-          "Mathematical structures and the relationships (morphisms) between them, unifying concepts across different areas of mathematics",
+          "Mathematical structures and the relationships between them, unifying different areas of math",
           "Numerical methods for solving equations",
           "The classification of prime numbers only"
         ],
@@ -8838,7 +8838,7 @@ const TOPICS = [
         "q": "What is the significance of the 'Black-Scholes partial differential equation' in mathematical finance, derived using Ito calculus?",
         "opts": [
           "It guarantees a risk-free profit from any asset",
-          "It describes how the price of a derivative, like a European option, evolves over time under certain assumptions, enabling closed-form pricing formulas",
+          "It describes how a derivative's price evolves over time, enabling closed-form pricing",
           "It proves markets are always inefficient",
           "It calculates a company's exact future earnings"
         ],
@@ -9108,7 +9108,7 @@ const TOPICS = [
         "q": "What is an 'octave'?",
         "opts": [
           "Any group of eight musicians",
-          "The interval between one musical pitch and another with double or half its frequency",
+          "The interval between a pitch and another at double or half its frequency",
           "A type of chord",
           "A specific tempo marking"
         ],
@@ -9394,7 +9394,7 @@ const TOPICS = [
         "q": "What is 'the Neapolitan sixth chord', a specific chromatic chord used in tonal harmony?",
         "opts": [
           "A chord built on the tonic of a major scale",
-          "A major chord built on the flattened second scale degree, typically used in first inversion, adding a distinctive chromatic color, especially before a dominant chord",
+          "A major chord built on the flattened second degree, usually used before a dominant chord",
           "A chord used exclusively in atonal music",
           "A rhythmic pattern rather than a harmonic structure"
         ],
@@ -9471,7 +9471,7 @@ const TOPICS = [
         "q": "What does 'metric modulation' refer to in more advanced rhythmic composition?",
         "opts": [
           "Simply speeding up or slowing down a piece uniformly",
-          "A technique where a rhythmic value in one tempo or meter is reinterpreted as an equivalent value in a new tempo or meter, creating a smooth but calculated shift",
+          "Reinterpreting a rhythmic value from one tempo or meter as equivalent in a new one",
           "A method for transposing a melody to a new key",
           "A type of dynamic marking indicating volume change"
         ],
@@ -9482,7 +9482,7 @@ const TOPICS = [
         "q": "What is 'the Rule of the Octave' (Regola dell'ottava), a historical harmonic convention from the Baroque period?",
         "opts": [
           "A rule limiting compositions to exactly eight measures",
-          "A conventional guideline specifying standard harmonizations for each scale degree of an ascending or descending bass line, used as a foundation for figured bass improvisation",
+          "A guideline for standard harmonizations of each scale degree in a bass line",
           "A rule requiring all octaves to be played simultaneously",
           "A rule governing the tuning of keyboard instruments only"
         ],
@@ -9603,7 +9603,7 @@ const TOPICS = [
         "q": "What does 'the theory of pitch-class set similarity relations' (such as those developed by Allen Forte) attempt to quantify in atonal music analysis?",
         "opts": [
           "The tempo relationships between different sections of a piece",
-          "The degree of intervallic or structural similarity between different pitch-class sets, providing an analytical tool for identifying meaningful relationships in music that lacks traditional tonal function",
+          "The degree of structural similarity between different pitch-class sets in atonal music",
           "The dynamic markings used throughout a score",
           "The historical popularity of a given musical work"
         ],
@@ -9636,7 +9636,7 @@ const TOPICS = [
         "q": "What is 'the theory of rhythmic phasing', central to some minimalist compositions by Steve Reich?",
         "opts": [
           "A technique of abruptly changing tempo without transition",
-          "A compositional technique where two identical rhythmic patterns are played simultaneously but gradually shift out of synchronization with one another, creating evolving interference patterns",
+          "Two identical rhythmic patterns played together, gradually drifting out of sync",
           "A method for tuning instruments to match each other precisely",
           "A rhythmic notation system used only for percussion ensembles"
         ],
@@ -9647,7 +9647,7 @@ const TOPICS = [
         "q": "What does 'microtonality' involve, as distinct from standard Western 12-tone equal temperament?",
         "opts": [
           "Using only the standard 12 semitones of Western tuning",
-          "The use of musical intervals smaller than the standard semitone of 12-tone equal temperament, often drawing on alternative tuning systems like just intonation or various equal divisions of the octave",
+          "Using musical intervals smaller than the standard semitone, via alternate tuning systems",
           "A technique limited exclusively to solo vocal performance",
           "A purely theoretical concept never used in actual compositions"
         ],
@@ -9680,7 +9680,7 @@ const TOPICS = [
         "q": "What is 'timbral composition' or 'Klangfarbenmelodie' ('tone-color melody'), a concept associated with Schoenberg and later composers like Webern?",
         "opts": [
           "Composing a melody using only a single instrument's timbre throughout",
-          "A compositional technique where a melodic line's continuity is achieved by distributing successive notes or short motives across different instrumental timbres, making timbre itself a structural, melody-like element",
+          "Distributing a melody's successive notes across different instrumental timbres",
           "A technique exclusively concerned with dynamics, not timbre",
           "A method for notating traditional Western harmony"
         ],
@@ -9724,7 +9724,7 @@ const TOPICS = [
         "q": "What is 'the theory of contour analysis' in the study of atonal or non-tonal melodic material?",
         "opts": [
           "An analysis based solely on exact pitch and duration values",
-          "An analytical approach examining the up-and-down shape (contour) of a melodic line, abstracted from its precise pitch content, useful for comparing melodic similarity in music where exact intervals are less structurally central",
+          "Examining a melody's up-and-down shape, abstracted from its precise pitch content",
           "A method for analyzing only rhythmic notation",
           "A technique applicable exclusively to purely tonal, functional harmony"
         ],
@@ -9790,7 +9790,7 @@ const TOPICS = [
         "q": "What is the theoretical significance of 'the well-formedness property' of scales, as formalized by theorists like Norman Carey and David Clampitt?",
         "opts": [
           "A property held by all arbitrary pitch collections regardless of structure",
-          "A formal mathematical property describing scales, like the diatonic scale, generated by iterating a single generic interval within an octave, such that the scale exhibits a particularly regular and coherent structural organization",
+          "A property of scales, like the diatonic, generated by iterating one interval within an octave",
           "A property describing only rhythmic patterns, not pitch collections",
           "A property limited exclusively to twelve-tone equal temperament scales"
         ],
@@ -9801,7 +9801,7 @@ const TOPICS = [
         "q": "What does 'computational musicology', as an interdisciplinary field, primarily apply computational and statistical methods to investigate?",
         "opts": [
           "Only the historical biographical details of composers",
-          "Large-scale patterns in musical corpora, style, and structure using computational analysis, machine learning, and statistical modeling, often complementing or testing traditional music-theoretic and music-historical claims",
+          "Large-scale patterns in musical style and structure, via computational and statistical methods",
           "The physical acoustics of concert hall architecture exclusively",
           "A field concerned exclusively with digital audio file compression formats"
         ],
@@ -9834,7 +9834,7 @@ const TOPICS = [
         "q": "What is the theoretical contribution of 'the theory of expectation in music cognition', as significantly developed by Leonard Meyer and later formalized by theorists like David Huron?",
         "opts": [
           "Musical expectation plays no meaningful role in a listener's emotional or aesthetic experience",
-          "A framework arguing that music's emotional and aesthetic effect substantially derives from the interplay between a listener's implicit expectations, shaped by statistical learning and musical convention, and the actual musical events that confirm, delay, or violate those expectations",
+          "Music's emotional effect largely comes from events confirming, delaying, or violating a listener's expectations",
           "A theory concerned exclusively with the physical acoustics of instruments",
           "A framework applicable only to atonal twentieth-century music"
         ],
@@ -9878,7 +9878,7 @@ const TOPICS = [
         "q": "What is 'the theory of musical topic and gesture' in embodied music cognition research, as advanced by scholars building on cognitive linguistics?",
         "opts": [
           "Musical meaning is understood purely through abstract, disembodied symbolic manipulation",
-          "An approach proposing that musical understanding and meaning are substantially grounded in embodied, physical gestures and cross-domain metaphorical mappings, such as pitch height mapping onto physical verticality, drawing on broader cognitive science research into embodied cognition",
+          "Musical meaning is grounded in embodied physical gestures, like pitch height mapping to verticality",
           "A theory concerned exclusively with the physical construction of musical instruments",
           "A framework applicable only to vocal, not instrumental, music"
         ],
@@ -10104,7 +10104,7 @@ const TOPICS = [
         "q": "What is a 'paycheck'?",
         "opts": [
           "A type of bank loan",
-          "Payment received for work done, typically on a regular schedule",
+          "Payment for work done, usually on a regular schedule",
           "A tax refund",
           "A type of insurance"
         ],
@@ -10170,7 +10170,7 @@ const TOPICS = [
         "q": "What does it mean to 'invest' money?",
         "opts": [
           "To spend money immediately",
-          "To put money into something, like stocks or property, expecting a future return",
+          "Putting money into something, like stocks, expecting a future return",
           "To hide money away",
           "To donate money to charity"
         ],
@@ -10180,10 +10180,10 @@ const TOPICS = [
       {
         "q": "What is a 'credit report'?",
         "opts": [
-          "A tax return",
-          "A record of an individual's credit history and borrowing behavior",
-          "A bank statement",
-          "A stock certificate"
+          "A summary of your annual income and taxes",
+          "A record of someone's credit history and borrowing behavior",
+          "A record of transactions in a bank account",
+          "Proof of ownership in a company"
         ],
         "a": 1,
         "tier": 2
@@ -10290,10 +10290,10 @@ const TOPICS = [
       {
         "q": "What is a 'certificate of deposit' (CD)?",
         "opts": [
-          "A type of stock",
+          "A share representing partial ownership in a company",
           "A savings product locking a sum for a fixed term and rate",
-          "A government bond",
-          "A type of insurance"
+          "A government-issued debt security",
+          "A policy protecting against financial loss"
         ],
         "a": 1,
         "tier": 2
@@ -10885,7 +10885,7 @@ const TOPICS = [
         "q": "The Merton structural credit risk model treats a firm's equity as:",
         "opts": [
           "A perpetual bond with fixed coupons",
-          "A call option on the firm's assets, with default occurring if asset value falls below debt obligations at maturity",
+          "A call option on the firm's assets, defaulting if asset value falls below debt at maturity",
           "A risk-free government security",
           "A fixed claim senior to all debt"
         ],
@@ -11231,10 +11231,10 @@ const TOPICS = [
       {
         "q": "What is a 'photo album' used for?",
         "opts": [
-          "Taking photos",
+          "Capturing new images with a camera",
           "Storing and organizing printed or digital photos",
-          "Editing photos",
-          "Printing photos"
+          "Retouching and adjusting photos after capture",
+          "Producing physical prints of digital photos"
         ],
         "a": 1,
         "tier": 1
@@ -11418,10 +11418,10 @@ const TOPICS = [
       {
         "q": "What does a 'polarizing filter' commonly reduce?",
         "opts": [
-          "Sharpness",
+          "The lens's overall optical sharpness",
           "Glare and reflections, and can enhance sky contrast",
-          "Shutter speed",
-          "ISO sensitivity"
+          "The camera's shutter speed setting",
+          "The sensor's ISO sensitivity level"
         ],
         "a": 1,
         "tier": 2
@@ -11661,7 +11661,7 @@ const TOPICS = [
         "q": "What does 'crop factor' describe for a camera sensor smaller than full-frame?",
         "opts": [
           "The sensor's resolution in megapixels",
-          "The multiplier applied to a lens's focal length to determine its effective field of view compared to full-frame",
+          "The multiplier applied to a lens's focal length versus a full-frame sensor",
           "The sensor's ISO range",
           "The camera's autofocus speed"
         ],
@@ -11683,7 +11683,7 @@ const TOPICS = [
         "q": "What does 'noise reduction' processing typically trade off against?",
         "opts": [
           "Battery life",
-          "Fine detail and sharpness, since it can smooth away both noise and real texture",
+          "Fine detail and sharpness, since it smooths away texture along with noise",
           "Color accuracy exclusively",
           "Lens sharpness"
         ],
@@ -11694,7 +11694,7 @@ const TOPICS = [
         "q": "What is the purpose of a 'gray card' in photography?",
         "opts": [
           "To block excess light",
-          "To provide a neutral reference for setting accurate white balance and exposure",
+          "A neutral reference for setting accurate white balance and exposure",
           "To diffuse a flash",
           "To clean camera sensors"
         ],
@@ -11760,7 +11760,7 @@ const TOPICS = [
         "q": "What is 'demosaicing' in digital image processing?",
         "opts": [
           "Compressing a RAW file into JPEG format",
-          "Reconstructing a full-color image from the raw data captured through a Bayer color filter array, where each pixel senses only one color",
+          "Reconstructing a full-color image from raw Bayer filter sensor data",
           "Removing noise from an image",
           "Adjusting the white balance of an image"
         ],
@@ -11837,7 +11837,7 @@ const TOPICS = [
         "q": "What does 'computational photography' broadly refer to?",
         "opts": [
           "Traditional single-exposure photography with no processing",
-          "Techniques that use significant digital processing, often combining multiple exposures or data sources, to produce images beyond what a single traditional exposure could achieve",
+          "Techniques using heavy digital processing, often combining exposures, beyond a single shot",
           "Photography that requires no camera at all",
           "Photography using only film cameras"
         ],
@@ -11903,7 +11903,7 @@ const TOPICS = [
         "q": "What does 'color gamut' refer to when comparing color spaces like sRGB and Adobe RGB?",
         "opts": [
           "The total file size of an image",
-          "The complete range of colors that a particular color space or device can represent or reproduce",
+          "The full range of colors a color space or device can represent",
           "The sensor's dynamic range",
           "The lens's maximum aperture"
         ],
@@ -11914,7 +11914,7 @@ const TOPICS = [
         "q": "What is 'gamma correction' used for in digital imaging?",
         "opts": [
           "Adjusting a camera's ISO automatically",
-          "Encoding or decoding luminance values non-linearly to match human perception and display characteristics efficiently",
+          "Encoding luminance values non-linearly to match human perception and displays",
           "Removing chromatic aberration",
           "Stabilizing a shaky video"
         ],
@@ -11947,7 +11947,7 @@ const TOPICS = [
         "q": "What does the modulation transfer function (MTF) quantify for a lens?",
         "opts": [
           "The lens's exact focal length",
-          "A lens's ability to transfer contrast from the subject to the image at a given spatial frequency, a key measure of resolving power",
+          "A lens's ability to transfer contrast from subject to image at a given spatial frequency",
           "The lens's weight and physical dimensions",
           "The lens's autofocus speed"
         ],
@@ -11980,7 +11980,7 @@ const TOPICS = [
         "q": "What is the significance of the 'Nyquist-Shannon sampling theorem' for camera sensor resolution and moiré artifacts?",
         "opts": [
           "It has no relevance to digital imaging",
-          "It establishes that a sensor must sample at more than twice the highest spatial frequency present in a scene to avoid aliasing artifacts like moiré",
+          "A sensor must sample at over twice the scene's highest spatial frequency to avoid moiré",
           "It only applies to audio recording, not imaging",
           "It determines a lens's maximum aperture"
         ],
@@ -12024,7 +12024,7 @@ const TOPICS = [
         "q": "What is the theoretical basis for 'deconvolution' techniques used to sharpen images degraded by a known blur (such as motion blur or lens aberration)?",
         "opts": [
           "Random pixel manipulation with no mathematical basis",
-          "Inverting the convolution operation that produced the blur, using knowledge or estimation of the point spread function, subject to noise amplification trade-offs",
+          "Inverting the blur's convolution using knowledge of the point spread function",
           "Simply increasing image contrast globally",
           "Cropping out the blurred regions entirely"
         ],
@@ -12068,7 +12068,7 @@ const TOPICS = [
         "q": "What is the theoretical limitation described by the 'space-bandwidth product' in imaging system design?",
         "opts": [
           "A camera's maximum battery life",
-          "A fundamental trade-off between an optical system's field of view and its achievable resolution, given physical and diffraction constraints",
+          "The trade-off between an optical system's field of view and its achievable resolution",
           "The maximum file size a memory card can store",
           "The maximum flash duration achievable"
         ],
@@ -12112,7 +12112,7 @@ const TOPICS = [
         "q": "What is the theoretical basis of 'polarimetric imaging' for material analysis?",
         "opts": [
           "Measuring only the total brightness of reflected light",
-          "Capturing the polarization state of light reflected or emitted by a scene, which reveals surface orientation, material properties, and features invisible to standard intensity-only imaging",
+          "Capturing light's polarization state, revealing surface and material details standard imaging misses",
           "Measuring the exact wavelength of a single color channel",
           "Measuring the shutter speed required for correct exposure"
         ],
@@ -12646,7 +12646,7 @@ const TOPICS = [
         "q": "What is 'stan culture', as a term describing intense fandom behavior, generally characterized by?",
         "opts": [
           "Casual, occasional interest in a celebrity's work",
-          "Highly devoted, often organized fan communities that intensely support and defend a celebrity or franchise, sometimes coordinating online activity like streaming or hashtag campaigns",
+          "Highly devoted, organized fans who intensely support and defend a celebrity or franchise",
           "A formal fan club with paid membership fees",
           "A term used only for sports fandom, not music or film"
         ],
@@ -12657,7 +12657,7 @@ const TOPICS = [
         "q": "What does 'the Bechdel test', a popular though informal metric in film criticism, evaluate?",
         "opts": [
           "A film's box office success relative to its budget",
-          "Whether a work of fiction features at least two named women who talk to each other about something other than a man, used as a simple measure of female representation",
+          "Whether a work features two named women talking to each other about something other than a man",
           "A film's historical accuracy",
           "A film's critical reception among professional critics"
         ],
@@ -12723,7 +12723,7 @@ const TOPICS = [
         "q": "What does 'the male gaze', a concept introduced by film theorist Laura Mulvey, critique in visual media?",
         "opts": [
           "The technical camera angles used in action sequences",
-          "The tendency of visual media, particularly film, to frame and present women from a heterosexual male perspective, often objectifying female characters for visual pleasure",
+          "Visual media framing and presenting women from a heterosexual male perspective",
           "A term describing box office demographics",
           "A term for a specific genre of film"
         ],
@@ -12800,7 +12800,7 @@ const TOPICS = [
         "q": "What is 'the star system', as a historical concept in the film industry, particularly associated with old Hollywood studios?",
         "opts": [
           "A rating system for classifying films by quality",
-          "A studio-driven practice of cultivating, promoting, and often contractually controlling actors as marketable 'stars' to drive audience appeal and box office success",
+          "A studio practice of cultivating and contractually controlling actors as marketable 'stars'",
           "A system for ranking films at award ceremonies",
           "A term for astronomy-themed films"
         ],
@@ -12811,7 +12811,7 @@ const TOPICS = [
         "q": "What does 'the long tail', a concept applied to media and content consumption in the digital age, describe?",
         "opts": [
           "The trend of films becoming longer in runtime over time",
-          "The phenomenon where digital platforms enable a vast number of niche, low-demand items to collectively capture significant market share, compared to a smaller number of high-demand hits",
+          "Digital platforms letting many niche, low-demand items collectively capture major market share",
           "A term for a film's opening weekend box office performance",
           "A method for editing film credits"
         ],
@@ -12833,7 +12833,7 @@ const TOPICS = [
         "q": "What does 'cultivation theory', developed by George Gerbner, propose about the long-term effects of television viewing?",
         "opts": [
           "Television has no measurable effect on viewers' perceptions of reality",
-          "Heavy, long-term exposure to television content gradually shapes and 'cultivates' viewers' perceptions of social reality to align more closely with the frequently depicted patterns and themes in television content",
+          "Heavy, long-term TV exposure gradually shapes viewers' perceptions to match what's depicted",
           "Television viewing only affects children, not adults",
           "The theory applies exclusively to news programming"
         ],
@@ -13009,7 +13009,7 @@ const TOPICS = [
         "q": "What does 'fan labor' as studied in fan studies scholarship, drawing on thinkers like Henry Jenkins and later critical scholars, complicate about the traditional producer-consumer distinction?",
         "opts": [
           "Fans are purely passive consumers who contribute nothing of value to a media franchise",
-          "Fans often perform substantial unpaid creative and promotional labor, such as creating fan fiction, art, or online buzz, that can generate significant value for media franchises, raising questions about exploitation and the boundary between consumption and production",
+          "Fans often perform substantial unpaid creative labor that generates real value for franchises",
           "Fan labor refers exclusively to fans working directly for a studio as paid employees",
           "This concept applies only to fandoms formed before the internet era"
         ],
@@ -13042,7 +13042,7 @@ const TOPICS = [
         "q": "What is 'commodity fetishism as applied to celebrity and influencer branding', drawing on Marxist cultural theory, argue about the perceived value of celebrity-endorsed products?",
         "opts": [
           "Product value is determined purely by objective, functional utility with no social dimension",
-          "The social relations of labor and production behind a commodity become obscured, while a celebrity or influencer's aura is imbued into the product itself, making the product's perceived value seem to derive from an almost magical association with the celebrity's persona rather than from underlying production processes",
+          "A celebrity's aura gets imbued into a product, obscuring the labor behind it and inflating its value",
           "This concept applies only to physical, tangible goods, never digital products",
           "Commodity fetishism denies that celebrity endorsement has any measurable commercial effect"
         ],
@@ -13108,7 +13108,7 @@ const TOPICS = [
         "q": "What is the theoretical significance of 'the concept of the 'imagined community' (Benedict Anderson) applied to transnational fandom' for understanding globally dispersed fan communities organized around media franchises?",
         "opts": [
           "Fans in different countries who engage with the same franchise share no meaningful sense of collective identity or belonging",
-          "Scholars have adapted Anderson's concept, originally developed to explain nationalism, to argue that transnational fan communities can constitute a form of 'imagined community', where geographically dispersed fans who will never meet each other nonetheless experience a strong sense of shared belonging and collective identity through their common engagement with a media text",
+          "Geographically dispersed fans who'll never meet can still feel strong shared belonging via a common text",
           "This concept applies exclusively to fandoms organized around literal national identity",
           "The theory denies that digital media can support any meaningful sense of community formation"
         ],
@@ -13119,7 +13119,7 @@ const TOPICS = [
         "q": "What does 'necropolitics applied to fandom and cancel culture research' (drawing on Achille Mbembe's broader theoretical concept) critically examine regarding intense public backlash against public figures?",
         "opts": [
           "The theory has no meaningful application outside of formal state politics and warfare",
-          "Some scholars provocatively draw on Mbembe's concept of power over life and death to critically analyze how intense, coordinated forms of public 'cancellation' can function as a form of symbolic social 'death' exercised collectively by networked publics against a public figure's career or reputation, though this application remains contested and debated within the field",
+          "Some scholars analyze intense public 'cancellation' as a form of symbolic social 'death' inflicted by networked publics",
           "This concept is universally accepted without controversy as directly equivalent to Mbembe's original political theory",
           "Necropolitics theory rejects any connection between digital media practices and broader theories of power"
         ],
@@ -13196,7 +13196,7 @@ const TOPICS = [
         "q": "What is the theoretical significance of 'the concept of media franchises as 'storyworlds'' (drawing on narratology and transmedia theory) for understanding contemporary intellectual property strategy?",
         "opts": [
           "A storyworld is understood as a single, fixed narrative told through exactly one medium",
-          "A storyworld is theorized as an expansive, coherent fictional universe with its own internal logic, geography, and history, which can generate numerous distinct narratives across multiple media and time periods while maintaining underlying continuity, making it a strategically valuable and extensible commercial asset",
+          "An expansive fictional universe with its own internal logic that can generate many stories across media",
           "This concept applies only to video game narratives, excluding film or television franchises",
           "Storyworld theory denies that fictional universes can meaningfully expand beyond their original medium"
         ],
@@ -13229,7 +13229,7 @@ const TOPICS = [
         "q": "What does 'the theory of 'convergence' and 'residual', 'dominant', and 'emergent' cultural forms' (drawing on Raymond Williams's cultural materialism) offer for analyzing shifts in contemporary media technology and popular culture?",
         "opts": [
           "Cultural change is understood as a sudden, total replacement of old forms by new ones with no overlap or coexistence",
-          "Williams's framework helps analyze how, at any given historical moment, culture contains residual elements from earlier periods, a currently dominant set of cultural forms and practices, and emergent new forms still in the process of establishing themselves, offering a nuanced lens for understanding gradual and uneven media and cultural transitions",
+          "Williams's framework: culture at any moment mixes residual, dominant, and emergent forms together",
           "This framework applies exclusively to literary history, with no relevance to television, film, or digital media",
           "Williams's theory denies that any historical continuity exists between different eras of media technology"
         ],
@@ -13465,10 +13465,10 @@ const TOPICS = [
       {
         "q": "What is a 'hyperlink'?",
         "opts": [
-          "A type of image",
+          "A static picture file embedded in a page",
           "A clickable link that takes you to another webpage or resource",
-          "A programming error",
-          "A type of password"
+          "A mistake that crashes a running program",
+          "A secret credential used to log in"
         ],
         "a": 1,
         "tier": 1
@@ -13630,10 +13630,10 @@ const TOPICS = [
       {
         "q": "What is a 'for loop' used for in programming?",
         "opts": [
-          "Storing a single value",
+          "Holding one piece of data in memory",
           "Repeating a block of code a specific number of times or over a collection",
-          "Declaring a function",
-          "Importing a library"
+          "Defining a reusable block of named code",
+          "Pulling in external code written by others"
         ],
         "a": 1,
         "tier": 2
@@ -13664,7 +13664,7 @@ const TOPICS = [
         "q": "What does an 'if-else' statement represent in programming logic?",
         "opts": [
           "A type of loop that never ends",
-          "A conditional structure that executes different code based on whether a condition is true or false",
+          "A structure that runs different code depending on whether a condition is true or false",
           "A way to declare variables",
           "A method for styling text"
         ],
@@ -13674,10 +13674,10 @@ const TOPICS = [
       {
         "q": "What is an 'array' in programming?",
         "opts": [
-          "A single number",
+          "A lone numeric value with no structure",
           "An ordered collection of values under one variable name",
-          "A type of function",
-          "A CSS property"
+          "A reusable named block of executable code",
+          "A style rule applied to HTML elements"
         ],
         "a": 1,
         "tier": 2
@@ -13697,7 +13697,7 @@ const TOPICS = [
         "q": "What is 'version control', such as Git, used for?",
         "opts": [
           "Compressing image files",
-          "Tracking and managing changes to code over time, enabling collaboration",
+          "Tracking changes to code over time and enabling collaboration",
           "Encrypting a database",
           "Hosting a website"
         ],
@@ -13741,7 +13741,7 @@ const TOPICS = [
         "q": "What is a closure in JavaScript?",
         "opts": [
           "A method that closes a browser tab",
-          "A function that retains access to variables from its enclosing scope after that scope has finished executing",
+          "A function that keeps access to its enclosing scope's variables after that scope ends",
           "A CSS rule that hides an element",
           "A way to terminate a loop early"
         ],
@@ -13806,10 +13806,10 @@ const TOPICS = [
       {
         "q": "A RESTful API endpoint is typically identified by:",
         "opts": [
-          "A single fixed password",
+          "A hardcoded credential never meant to change",
           "A URL combined with an HTTP method representing a resource and action",
-          "A CSS class name",
-          "A browser cookie"
+          "A selector used to style HTML elements",
+          "A small piece of data stored by the browser"
         ],
         "a": 1,
         "tier": 3
@@ -13840,7 +13840,7 @@ const TOPICS = [
         "q": "What does 'MVC' (Model-View-Controller) describe?",
         "opts": [
           "A type of database indexing method",
-          "A software architecture pattern separating an application's data, user interface, and control logic into distinct components",
+          "A pattern separating an app's data, user interface, and control logic",
           "A CSS layout system",
           "A version control branching strategy"
         ],
@@ -14071,7 +14071,7 @@ const TOPICS = [
         "q": "What does WebAssembly (Wasm) enable in the browser?",
         "opts": [
           "Writing CSS more efficiently",
-          "Running code compiled from languages like C++ or Rust at near-native speed alongside JavaScript",
+          "Running code compiled from languages like C++ or Rust at near-native speed",
           "Replacing HTML entirely",
           "Encrypting browser cookies"
         ],
@@ -14126,7 +14126,7 @@ const TOPICS = [
         "q": "What is 'backpressure' in stream processing systems?",
         "opts": [
           "A method for compressing streamed data",
-          "A mechanism for a consumer to signal a producer to slow down when it cannot process data as fast as it's being produced",
+          "A way for a consumer to signal a producer to slow down when it can't keep up",
           "A type of network encryption",
           "A way to prioritize CSS rules"
         ],
@@ -14203,7 +14203,7 @@ const TOPICS = [
         "q": "What does homomorphic encryption allow, as an advanced cryptographic technique?",
         "opts": [
           "Encrypting data faster than standard AES",
-          "Performing computations directly on encrypted data without needing to decrypt it first, with results matching operations on the plaintext",
+          "Computing directly on encrypted data without decrypting it first",
           "Making encrypted data permanently unreadable",
           "Compressing encrypted data to a smaller size"
         ],
@@ -14236,7 +14236,7 @@ const TOPICS = [
         "q": "What is the 'halting problem', proven undecidable by Alan Turing, concerned with?",
         "opts": [
           "Whether a program contains syntax errors",
-          "Whether it's possible to write a general algorithm that determines if any given program will finish running or continue forever",
+          "Whether an algorithm can determine if any program will finish or run forever",
           "Whether a program is faster than another",
           "Whether a program uses too much memory"
         ],
@@ -15199,7 +15199,7 @@ const TOPICS = [
         "q": "'Postcolonial theory' is broadly concerned with analyzing:",
         "opts": [
           "Ancient trade networks",
-          "The cultural, political, and economic legacies of colonialism on former colonies",
+          "The cultural, political, and economic legacies of colonialism",
           "Medieval feudal structures",
           "The Bronze Age collapse"
         ],
@@ -15243,7 +15243,7 @@ const TOPICS = [
         "q": "The 'Bielefeld School' in German historiography is significant for:",
         "opts": [
           "Focusing exclusively on military history",
-          "Emphasizing structural social history and modernization theory, contrasting with traditional political-narrative history",
+          "Emphasizing structural social history and modernization theory over political-narrative history",
           "Being a school of art history",
           "Promoting Prussian nationalist history"
         ],
@@ -15265,7 +15265,7 @@ const TOPICS = [
         "q": "Reinhart Koselleck's concept of 'Sattelzeit' refers to:",
         "opts": [
           "A specific battle in the Napoleonic Wars",
-          "A transitional period (roughly 1750–1850) during which key modern political and social concepts took on their current meanings",
+          "A transitional period, roughly 1750–1850, when key modern political concepts took shape",
           "A term for medieval land tenure",
           "A Cold War-era diplomatic doctrine"
         ],
@@ -15474,7 +15474,7 @@ const TOPICS = [
         "q": "'Global history' as a field aims to move beyond, methodologically:",
         "opts": [
           "The use of primary sources entirely",
-          "Nation-centered and Eurocentric frameworks, by tracing connections, comparisons, and processes at a planetary scale",
+          "Nation-centered and Eurocentric frameworks, via connections and processes at a planetary scale",
           "The study of any history before 1500",
           "Purely economic analysis exclusively"
         ],

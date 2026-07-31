@@ -1,102 +1,102 @@
-# Are you donkey? — A Dunning-Kruger quizlet
+<div align="center">
 
-A single-file web app that quizzes you on a topic, asks you to self-rate your own expertise *before* you see a single question, then plots your actual score against your self-rating on the Dunning-Kruger curve — so you can see exactly where you land: Mt. Stupid, the Valley of Despair, the Slope of Enlightenment, or the Plateau.
+# Are You Donkey?
 
-No backend, no database, no build step. It's a static HTML file (`index.html`, with inline CSS/JS) plus a plain data file (`questions.js`) holding the question bank.
+**A single-file Dunning-Kruger quizlet that plots your confidence vs. your actual score — so you can see exactly where you land.**
 
-## How it works
+![Version](https://img.shields.io/badge/version-3.2.0-00D4C8)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-00D4C8.svg)
 
-1. Read a short explainer on what the Dunning-Kruger effect actually is, with a reference curve.
-2. Pick a topic (14 available, each with its own icon).
-3. Rate your own authority on it, 0–10, before you see any questions.
-4. Take a 25-question multiple-choice quiz, 30 seconds per question with a live countdown bar. Each attempt draws a fresh, randomized set of 5 questions from each of 5 difficulty tiers (elementary → high school → undergraduate → graduate → postdoctoral), always presented in ascending difficulty. Answer order is shuffled too, so nothing can be memorized. Running out of time locks in whatever was selected (or nothing) and auto-advances.
-5. Get plotted on the Dunning-Kruger curve, with a written verdict on the gap between your confidence and your actual score (negative gap = you underestimate yourself; positive gap = you overestimate), a confetti burst, a score-by-difficulty-tier breakdown, a list of specific insights (weakest tier, timeouts, calibration), and a concrete "what to do next" recommendation.
-6. Optionally export the results screen as a PNG to share.
+</div>
 
-## Topics
+---
 
-14 topics, 100 questions each (1,400 total), each spanning elementary through postdoctoral difficulty, listed alphabetically in the app:
+## What it does
 
-Astronomy · Business · Gaming · General Science · Geography · Internet Meme Culture · Law · Math & Statistics · Music Theory · Personal Finance · Photography · Popular Culture · Web Development · World History
+Are You Donkey? quizzes you on a topic of your choice, but makes you self-rate your own expertise *before* you see a single question. After 25 multiple-choice questions — drawn from five difficulty tiers, elementary through postdoctoral — it plots your actual score against your self-rating on the Dunning-Kruger curve. The result tells you whether you're sitting on Mt. Stupid, descending into the Valley of Despair, climbing the Slope of Enlightenment, or settled on the Plateau. No backend, no build step, no install: it's a static HTML file and a plain JS question bank.
 
-## Local use
+## Features
 
-Just open `index.html` in a browser — `questions.js` must sit alongside it in the same folder (it's loaded via `<script src="questions.js">`).
+- **Pre-quiz self-rating (0–10)** before any questions are revealed, eliminating anchoring bias
+- **14 topics**, 100 questions each (1,400 total): Astronomy, Business, Gaming, General Science, Geography, Internet Meme Culture, Law, Math & Statistics, Music Theory, Personal Finance, Photography, Popular Culture, Web Development, World History
+- **Tiered difficulty** — 5 questions drawn randomly per tier (elementary → postdoctoral), always presented in ascending order; answer order shuffled on every attempt
+- **30-second countdown timer** per question with a live progress bar; timeout auto-advances and locks in whatever was selected
+- **Dunning-Kruger curve plot** with a written verdict, score-by-difficulty-tier breakdown, specific calibration insights (weakest tier, timeouts, confidence gap), and a "what to do next" recommendation
+- **Confetti burst** on results
+- **Export results as PNG** to share
+- Zero dependencies, zero build step — open `index.html` in a browser and go
 
-## Deploying
+## Tech Stack
 
-### GitHub
+| Layer | Choice |
+|---|---|
+| Frontend | Single-file HTML (inline CSS + JS) + `questions.js` question bank |
+| Hosting | Zeabur static site (auto-detected, no config required) |
+
+## Quick Start
 
 ```bash
-git init
-git add .
-git commit -m "Are you donkey? v3.0.0"
-git branch -M main
-git remote add origin <your-repo-url>
-git push -u origin main
+git clone https://github.com/TheBooleanJulian/are-you-donkey
+cd are-you-donkey
+# No install needed — open index.html directly in a browser
+open index.html
 ```
 
-### Zeabur
+`questions.js` must sit alongside `index.html` in the same folder (loaded via `<script src="questions.js">`).
 
-This is a plain static site (`index.html` + `questions.js`, no `package.json`, no build step), so Zeabur's static-site detection picks it up automatically — connect the repo in the Zeabur dashboard and deploy. No configuration files are required.
+To serve locally over HTTP instead:
 
-If you'd rather serve it from a Node/static preset explicitly, any static file server pointed at this folder works too (e.g. `npx serve .`).
+```bash
+npx serve .
+```
 
-## Versioning and changelog
+## Project Structure
 
-Release numbers follow a simple semver-style convention based on the size of the work shipped:
+```
+are-you-donkey/
+|-- index.html        # Entire app: markup, inline CSS, inline JS
+|-- questions.js      # Question bank — 1,400 questions across 14 topics
+|-- LICENSE
+`-- COMMERCIAL-LICENSE.md
+```
 
-- **Major**: structural changes to the quiz format, new topic model changes, or large product shifts.
-- **Minor**: new features, quality-of-life improvements, or additional content.
-- **Patch**: fixes, wording updates, and smaller polish changes.
+## Deployment
 
-### Changelog
+Static site deployed on Zeabur — connect the repo in the Zeabur dashboard and deploy. No `package.json`, no build step, no configuration files required; Zeabur's static-site detection picks it up automatically.
 
-| Version | Type | Changes |
-|---|---|---|
-| **3.1.0** | Minor | Moved the question bank out of `index.html` into its own `questions.js` file, loaded via `<script src="questions.js">`, to stop bloating the app's markup/logic file. Self-rating scale changed from 1–10 to 0–10 (adds a "never encountered it" floor). Corrected the README's claim that questions were "hand-written" — the question bank was AI-generated. Added a "Special thanks to" line disclosing that the questions and answers were generated by Claude (Anthropic) from general training knowledge, not sourced from a specific curated dataset, and haven't been independently fact-checked. |
-| **3.0.0** | Major | Rebranded to "Are you donkey? A Dunning Kruger quizlet". Added a 30-second per-question timer with a decreasing time bar and countdown, auto-advancing on timeout. Topics are now sorted alphabetically and each has a relevant icon. Removed the repetitive per-topic "25 of 100 · elementary → postdoc" label from each button and replaced it with a single format note above the topic grid. Added a "What is the Dunning-Kruger effect?" explainer with a reference curve on the homepage. Massively expanded the results page: a score-by-difficulty-tier breakdown, a generated insights list (weakest/strongest tier, timeouts, confidence calibration), and a zone-specific "what to do next" action tip. Added a "Share results" button that exports the results screen as a PNG (via html2canvas). Added a confetti animation on quiz completion. Added a "Special thanks to" section on the homepage citing Kruger & Dunning (1999) and other credits. Added a "Built by Thebooleanjulian" footer across the app. Fixed an answer-length "tell": on the 95 questions where the correct answer was more than 3.5x longer than every wrong option (mostly verbose "What is X?" definitions), the correct answer was rewritten to a shorter phrase of comparable length so it can no longer be guessed by eye. |
-| **2.0.0** | Major | Added 10 new topics — Math & Statistics, Photography, Business, Geography, Astronomy, Law, Music Theory, Popular Culture, Internet Meme Culture, and Gaming — bringing the total to 14 topics and 1,400 questions. Packaged for GitHub/Zeabur deployment with this README. |
-| **1.8.0** | Minor | Expanded every topic's question bank from 25 to 100 questions (20 per difficulty tier). Each quiz attempt now randomly samples 5 questions per tier (25 total) instead of using a fixed set, so repeat attempts vary. |
-| **1.7.0** | Minor | Answer options are now shuffled per question, per attempt, so the correct answer's position can't be memorized. |
-| **1.6.0** | Minor | Increased visibility of the topic name and raw score (for example, "18 / 25 correct") on the results page. |
-| **1.5.0** | Minor | Gap stat is now color-coded: red for a positive gap (overestimate), green for a negative gap (underestimate). |
-| **1.4.0** | Patch | Gap stat now displays with a `%` sign for consistency with the Actual Score and Self-Rated stats. |
-| **1.3.0** | Patch | Added an explanatory note clarifying gap sign: negative = underestimate, positive = overestimate. |
-| **1.2.0** | Minor | Expanded quiz length from 8 to 25 questions per topic, with difficulty spanning elementary to postdoctoral level. |
-| **1.1.0** | Patch | Swapped the Dunning-Kruger curve's color gradient to red (low competence) → green (high competence) for more intuitive reading. |
-| **1.0.0** | Major | Initial release: 4 topics (Science, History, Finance, Web Dev), 8 questions each, self-rating slider, and an SVG-plotted Dunning-Kruger curve with zone classification (Mt. Stupid, Valley of Despair, Slope of Enlightenment, Plateau). |
+## Status / Roadmap
 
-## Future roadmap
+**Done**
 
-Suggested next steps and ideas for the project:
+- [x] 14 topics, 1,400 questions across five difficulty tiers
+- [x] Pre-quiz self-rating (0–10) and Dunning-Kruger curve plotting
+- [x] Per-question countdown timer with auto-advance on timeout
+- [x] Results breakdown by difficulty tier, calibration insights, PNG export
+- [x] Question bank extracted to standalone `questions.js` file
 
-- Add user profiles and saved progress so repeated attempts can be tracked over time.
-- Introduce custom topic packs, user-generated content, and import/export support.
-- Improve accessibility, mobile polish, and offline support for a better experience on phones and tablets.
-- Add further challenge modes such as difficulty filters and mastery-based progression.
-- Grow the project with community contributions, translations, and new question sets.
-- Continue auditing and rewriting distractor/correct-answer lengths — the most extreme cases were fixed in 3.0.0, but milder length imbalances remain across the question bank.
+**Planned / Suggestions**
+
+- No test coverage present — a simple sanity-check script to validate `questions.js` structure (question count per topic, required fields) would catch regressions
+- Question bank is AI-generated and not independently fact-checked; a review or flagging mechanism would improve accuracy over time
+- No `.env.example` or CI config found — a GitHub Actions workflow to lint HTML/JS on push would be a low-effort quality gate
+- Milder answer-length imbalances remain (correct answer up to ~3x longer than the longest wrong option on several hundred questions) — the most exploitable cases (≥3x) were fixed in v3.1.0/v3.2.0, but a full pass would fix the rest
+
+## Changelog
+
+Summarised from commit history and versioning notes, most recent first.
+
+- **v3.2.0** — Further cleanup of the answer-length "tell": on the remaining 141 questions where the correct answer was ≥3x longer than every wrong option, the correct answer was shortened or a wrong option was lengthened (whichever kept the question most natural). No question with that large a length gap remains in the bank.
+- **v3.1.0** — Extracted question bank from `index.html` into a standalone `questions.js` file; self-rating scale widened from 1–10 to 0–10 to allow a "never encountered it" floor; added attribution disclosing that questions were AI-generated by Claude (Anthropic) and haven't been independently fact-checked
+- **v3.0.0** — Rebranded to "Are you donkey? A Dunning-Kruger quizlet"; added 30-second per-question countdown timer with live progress bar and auto-advance on timeout; topics sorted alphabetically with icons; full Dunning-Kruger curve plot, verdict, tier breakdown, and PNG export added
 
 ## License
 
-This project is dual licensed.
+MIT (open source). A separate `COMMERCIAL-LICENSE.md` is also present — see that file for commercial use terms.
 
-- **Community Edition** — [GNU Affero General Public License v3 (AGPLv3)](LICENSE). Free to use, modify, and self-host. If you distribute a modified version or run it as a network service, you must make the corresponding source available.
-- **Commercial License** — for organizations that want to embed, modify, or distribute this software without AGPLv3's obligations. See [COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md).
+---
 
-## Feedback
-
-Found any bugs or have feedback? Submit them at this form: https://forms.gle/qRCimSyoosWyNwXdA
-
-## Design system
-
-Dark void background, teal (`#00D4C8`) and gold (`#F5C842`) accents, Space Grotesk + JetBrains Mono typography — consistent with the rest of the design system this was built to match.
-
-## Notes on the questions
-
-Each topic's 100-question bank, in `questions.js`, was generated by Claude (an AI language model from Anthropic) drawing on its general training knowledge — it was not compiled from a single curated textbook, exam bank, or dataset, and hasn't been independently fact-checked against primary sources. Treat individual answers as likely-but-not-guaranteed correct. Each bank spans five difficulty tiers (20 questions each): elementary, high school, undergraduate, graduate, and postdoctoral/highly specialized. The postdoctoral tier intentionally reaches into genuine academic subfield territory (e.g. Schenkerian analysis for Music Theory, the CAP theorem for Web Dev, subaltern studies for History) so the "postdoc" label is earned rather than decorative.
-
-## Credits
-
-See the "Special thanks to" section in the app itself, which cites Kruger & Dunning's original 1999 research, discloses the AI-generated origin of the question bank, and lists the third-party fonts/libraries used.
+<div align="center">
+<sub>Built by <a href="https://github.com/TheBooleanJulian">@TheBooleanJulian</a></sub>
+</div>
