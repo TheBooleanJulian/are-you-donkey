@@ -21012,5 +21012,2217 @@ const TOPICS = [
         "tier": 5
       }
     ]
+  },
+  {
+    "id": "singapore",
+    "name": "Singapore",
+    "questions": [
+      {
+        "q": "What is the capital of Singapore?",
+        "opts": [
+          "Singapore City",
+          "Kuala Lumpur, the capital of Malaysia",
+          "Jakarta, the capital of Indonesia",
+          "Bangkok, the capital of Thailand"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which continent is Singapore located in?",
+        "opts": [
+          "Asia",
+          "Africa",
+          "Europe",
+          "Australia"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "How many official languages does Singapore have?",
+        "opts": [
+          "Four official languages",
+          "Only one official language",
+          "Two official languages",
+          "Six official languages"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is Singapore's official currency?",
+        "opts": [
+          "Singapore Dollar",
+          "Malaysian Ringgit",
+          "Thai Baht",
+          "Indonesian Rupiah"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What colors appear on Singapore's national flag?",
+        "opts": [
+          "Red and white",
+          "Blue and white",
+          "Green and white",
+          "Red and yellow"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the name of Singapore's famous half-lion, half-fish statue?",
+        "opts": [
+          "The Merlion",
+          "The Griffin",
+          "The Sphinx",
+          "The Kraken"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the name of Singapore's main international airport?",
+        "opts": [
+          "Changi Airport",
+          "Narita Airport",
+          "Suvarnabhumi Airport",
+          "Incheon Airport"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which country lies directly north of Singapore, across a narrow strait?",
+        "opts": [
+          "Malaysia",
+          "Indonesia",
+          "Thailand",
+          "Vietnam"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is Singapore's national flower?",
+        "opts": [
+          "Vanda Miss Joaquim",
+          "The rose, a common garden flower",
+          "The lotus, sacred in many Asian cultures",
+          "The tulip, associated with the Netherlands"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "In what year did Singapore become a fully independent nation?",
+        "opts": [
+          "1965",
+          "1959",
+          "1970",
+          "1945"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What popular Singaporean dish features poached chicken served with fragrant rice?",
+        "opts": [
+          "Chicken rice",
+          "Sushi, a Japanese dish",
+          "Pad Thai, a Thai noodle dish",
+          "Dim sum, a Cantonese dish"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which river flows through the heart of central Singapore?",
+        "opts": [
+          "The Singapore River",
+          "The Nile, in Africa",
+          "The Mekong, in Southeast Asia",
+          "The Yangtze, in China"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What are Singapore's public housing apartments commonly called?",
+        "opts": [
+          "HDB flats",
+          "Council houses",
+          "Housing projects",
+          "Bungalows"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Singapore is often nicknamed the \"___ City\" because of its many parks and greenery.",
+        "opts": [
+          "Garden",
+          "Windy",
+          "Eternal",
+          "Big Apple"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which side of the road do cars drive on in Singapore?",
+        "opts": [
+          "The left",
+          "The right",
+          "Either side",
+          "The center"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Singapore Zoo is well known for what style of animal enclosures?",
+        "opts": [
+          "Open, moat-style enclosures instead of cages",
+          "Fully underwater viewing tunnels for every animal",
+          "Entirely robotic, animatronic wildlife exhibits",
+          "Small enclosed glass boxes for each animal"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the name of the integrated resort on Sentosa Island featuring Universal Studios Singapore?",
+        "opts": [
+          "Resorts World Sentosa",
+          "Universal Beijing Resort",
+          "Ocean Park",
+          "Ferrari World"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "In 1965, Singapore separated from which country to become fully independent?",
+        "opts": [
+          "Malaysia",
+          "Indonesia",
+          "Britain",
+          "Thailand"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What form of government does Singapore have?",
+        "opts": [
+          "A parliamentary republic",
+          "An absolute monarchy ruled by a king",
+          "A military junta led by generals",
+          "A direct democracy with no elected representatives"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which famous street in Singapore is known for its shopping malls?",
+        "opts": [
+          "Orchard Road",
+          "Fifth Avenue",
+          "Oxford Street",
+          "Rodeo Drive"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "In what year did Singapore join the Federation of Malaysia?",
+        "opts": [
+          "1963",
+          "1965",
+          "1959",
+          "1970"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Who was Singapore's first Prime Minister?",
+        "opts": [
+          "Lee Kuan Yew",
+          "Goh Chok Tong",
+          "Lee Hsien Loong",
+          "S. R. Nathan"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is the narrow waterway separating Singapore from Malaysia called?",
+        "opts": [
+          "The Johor Strait",
+          "The Strait of Malacca",
+          "The Bosphorus",
+          "The English Channel"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "The Singapore Dollar is subdivided into 100 of what unit?",
+        "opts": [
+          "Cents",
+          "Pence",
+          "Centavos",
+          "Paise"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which of these is one of Singapore's four official languages?",
+        "opts": [
+          "Malay",
+          "French",
+          "Arabic",
+          "Hindi"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is designated as Singapore's national language, distinct from its official working language of English?",
+        "opts": [
+          "Malay",
+          "Mandarin",
+          "Tamil",
+          "Japanese"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Singapore's national anthem, Majulah Singapura, is sung in which language?",
+        "opts": [
+          "Malay",
+          "English",
+          "Mandarin",
+          "Tamil"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which historic hotel in Singapore is famous for inventing the Singapore Sling cocktail?",
+        "opts": [
+          "Raffles Hotel",
+          "Marina Bay Sands",
+          "The Fullerton Hotel",
+          "Shangri-La Hotel"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is the large open field near Singapore's City Hall, historically used for parades and cricket, called?",
+        "opts": [
+          "The Padang",
+          "Central Park",
+          "Hyde Park",
+          "The Green"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "In what year did the Marina Bay Sands integrated resort open?",
+        "opts": [
+          "2010",
+          "2005",
+          "2015",
+          "2000"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "The rooftop of Marina Bay Sands' three towers is shaped like what?",
+        "opts": [
+          "A ship's hull",
+          "A giant glass dome",
+          "A stepped stone pyramid",
+          "A tall narrow spire"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Singapore's port is frequently ranked among the world's what?",
+        "opts": [
+          "Busiest container ports",
+          "Smallest fishing harbors",
+          "Only landlocked terminals",
+          "Least trafficked naval bases"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which British colonial figure is credited with founding modern Singapore as a trading post in 1819?",
+        "opts": [
+          "Sir Stamford Raffles",
+          "Lord Mountbatten, a wartime admiral",
+          "Cecil Rhodes, a colonial figure in Africa",
+          "James Brooke, the Rajah of Sarawak"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is Singapore's currency symbol?",
+        "opts": [
+          "S$",
+          "£, used for the British Pound",
+          "₹, used for the Indian Rupee",
+          "¥, used for the Japanese Yen"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Singapore's tropical climate is largely explained by its proximity to which geographic line?",
+        "opts": [
+          "The Equator",
+          "The Tropic of Cancer",
+          "The Arctic Circle",
+          "The Prime Meridian"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is the name of the annual night-time motor race held on Singapore's streets?",
+        "opts": [
+          "The Singapore Grand Prix",
+          "The Monaco Grand Prix",
+          "The Indianapolis 500",
+          "The 24 Hours of Le Mans"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Singapore's hawker culture was inscribed on which prestigious list in 2020?",
+        "opts": [
+          "UNESCO's Intangible Cultural Heritage list",
+          "The World Bank's global poverty index",
+          "The Michelin Guide's three-star restaurant list",
+          "The International Olympic heritage register"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "In Singaporean coffee-shop lingo, what is a \"kopi\"?",
+        "opts": [
+          "Local coffee served with condensed milk",
+          "A type of herbal tea served hot in a glass",
+          "A steamed rice-based dessert with coconut",
+          "A fried noodle dish served with dark sauce"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is GIC, one of Singapore's major sovereign wealth funds, primarily known for?",
+        "opts": [
+          "Managing global investments of the country's reserves",
+          "Regulating trading on the local stock exchange",
+          "Issuing national identity cards to citizens",
+          "Operating the country's public transportation network"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which iconic feature is Singapore's Gardens by the Bay best known for?",
+        "opts": [
+          "Giant tree-like structures called Supertrees",
+          "An untouched ancient rainforest left in its wild state",
+          "A network of underground ice caves open to visitors",
+          "Natural coral reef pools along the shoreline"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "In what year did Singapore attain self-governance from Britain, prior to joining Malaysia?",
+        "opts": [
+          "1959",
+          "1963",
+          "1965",
+          "1948"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What did the Merlion's design symbolize about Singapore's origins?",
+        "opts": [
+          "Its start as a fishing village and later a trading seaport",
+          "Its origin as a farming settlement and later a tin-mining town",
+          "Its long-standing role as a Hindu and Buddhist pilgrimage site",
+          "Its founding purely as a fortified British naval base"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Besides Mandarin, which Chinese dialect historically dominated among early Chinese immigrants in Singapore?",
+        "opts": [
+          "Hokkien",
+          "Korean",
+          "Vietnamese",
+          "Tagalog"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What does Singapore's light rail system, feeding into the main MRT network, stand for?",
+        "opts": [
+          "Light Rail Transit",
+          "Long Range Transport",
+          "Local Rapid Train",
+          "Linear Rail Tramway"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What does Singapore's MRT stand for?",
+        "opts": [
+          "Mass Rapid Transit",
+          "Metro Railway Transport",
+          "Modern Railway Transit",
+          "Municipal Rail Transport"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What does Singapore's National Day on 9 August commemorate?",
+        "opts": [
+          "Independence from Malaysia in 1965",
+          "The founding of Singapore by Raffles in 1819",
+          "The end of the Japanese Occupation",
+          "The opening of Changi Airport"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which World War II event saw Singapore fall to Japanese forces in 1942?",
+        "opts": [
+          "The Battle of Singapore",
+          "The Battle of Midway, in the Pacific",
+          "The Fall of Saigon, decades later",
+          "The Siege of Manila, in the Philippines"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What was Singapore renamed during the Japanese Occupation?",
+        "opts": [
+          "Syonan-to",
+          "New Nippon",
+          "Tokyo South",
+          "Japan Minor"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which leader is often regarded as Singapore's founding father of independence?",
+        "opts": [
+          "Lee Kuan Yew",
+          "Sun Yat-sen",
+          "Mahathir Mohamad",
+          "Sukarno"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Singapore is frequently cited as one of which group of rapidly industrialized economies?",
+        "opts": [
+          "The Four Asian Tigers",
+          "The Rust Belt economies",
+          "The Petro-states",
+          "The Command economies"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Singapore was a founding member of which regional organization, established in 1967?",
+        "opts": [
+          "ASEAN",
+          "The United Nations",
+          "OPEC",
+          "NATO"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which ethnic group forms the majority of Singapore's population?",
+        "opts": [
+          "Chinese",
+          "Malay",
+          "Indian",
+          "Eurasian"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Peranakan culture in Singapore blends heritage from which two groups?",
+        "opts": [
+          "Chinese and Malay",
+          "Indian and European",
+          "Japanese and Thai",
+          "Arab and African"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is a \"void deck\" found in Singapore's public housing blocks?",
+        "opts": [
+          "An open ground-floor communal space beneath the block",
+          "A rooftop garden built atop every housing block",
+          "An underground parking level found beneath the block",
+          "A private members-only club within the estate"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What does Singapore's Central Provident Fund primarily manage for citizens?",
+        "opts": [
+          "Mandatory retirement and healthcare savings",
+          "The country's annual national defense budget",
+          "Tariffs levied on all imported trade goods",
+          "The curricula taught in public schools nationwide"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which stir-fried noodle dish with dark soy sauce is a classic Singaporean hawker favorite?",
+        "opts": [
+          "Char kway teow",
+          "Ramen, a Japanese noodle soup",
+          "Pho, a Vietnamese noodle soup",
+          "Tom yum, a Thai sour soup"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What historic arrangement governs Singapore's water supply drawn from a neighboring state?",
+        "opts": [
+          "The 1962 Water Agreement with Malaysia",
+          "A full currency union with Malaysia",
+          "A treaty for shared airspace with Indonesia",
+          "A peg of the Singapore dollar to the Thai baht"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is Singapore's Esplanade arts centre popularly nicknamed, after its spiky lotus-inspired roof?",
+        "opts": [
+          "\"The Durian\"",
+          "\"The Pineapple\"",
+          "\"The Coconut\"",
+          "\"The Jackfruit\""
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is the Istana in Singapore?",
+        "opts": [
+          "The official residence and office of the President",
+          "The national museum documenting Singapore's history",
+          "The central mosque serving Singapore's Muslim community",
+          "The library housing Parliament's legal archives"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is the name of the causeway linking Singapore to Johor, Malaysia?",
+        "opts": [
+          "The Johor-Singapore Causeway",
+          "The Golden Gate Causeway in San Francisco",
+          "The Straits Bridge over the Bosphorus",
+          "The Tuas Second Link, a separate crossing"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which 1955 constitutional reform introduced Singapore's first partially elected legislative assembly?",
+        "opts": [
+          "The Rendel Constitution",
+          "The Merdeka Constitution",
+          "The Jefferson Constitution",
+          "The Federation Charter"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Who served as Singapore's Chief Minister under the Rendel Constitution before full self-governance in 1959?",
+        "opts": [
+          "David Marshall",
+          "Lim Yew Hock",
+          "Lee Kuan Yew",
+          "William Goode"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Who was Singapore's first Yang di-Pertuan Negara, or Head of State, before the presidency was created?",
+        "opts": [
+          "Yusof Ishak",
+          "Lee Kuan Yew",
+          "Devan Nair",
+          "Ong Teng Cheong"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which trading company first established a settlement in Singapore in 1819?",
+        "opts": [
+          "The British East India Company",
+          "The Dutch East India Company",
+          "The Hudson's Bay Company",
+          "The Portuguese East India Company"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Who became the first popularly elected President of Singapore under the elected presidency scheme?",
+        "opts": [
+          "Ong Teng Cheong",
+          "Yusof Ishak, an earlier head of state",
+          "Wee Kim Wee, an earlier appointed president",
+          "Halimah Yacob, elected decades later"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is the name of Singapore's technology that recycles used water into ultra-clean drinking water?",
+        "opts": [
+          "NEWater",
+          "AquaPure",
+          "CleanFlow",
+          "HydroCycle"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What did Singapore's 1979 Speak Mandarin Campaign aim to encourage among Chinese Singaporeans?",
+        "opts": [
+          "Using Mandarin instead of regional dialects",
+          "Adopting English as a first language",
+          "Reviving Malay as a household language",
+          "Making Mandarin the sole official language"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which minister, working alongside Lee Kuan Yew, is regarded as chief architect of Singapore's early economic development strategy?",
+        "opts": [
+          "Goh Keng Swee",
+          "S. Rajaratnam",
+          "Toh Chin Chye",
+          "Ong Pang Boon"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What significance do the 1964 racial riots hold in Singapore's path to independence?",
+        "opts": [
+          "They exposed Chinese-Malay tensions that fed into the 1965 separation",
+          "They directly caused Singapore's founding by Raffles in 1819",
+          "They led to the permanent closure of the Causeway to Malaysia",
+          "They caused Singapore to join ASEAN several years earlier than planned"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is Temasek Holdings, distinct from GIC, primarily known for?",
+        "opts": [
+          "Managing an investment portfolio for the Singapore government",
+          "Running the country's national postal delivery service",
+          "Overseeing the country's immigration and border policy",
+          "Regulating licensing requirements for the country's hawker centres"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which law allows Singapore's government to detain suspects without trial on security grounds?",
+        "opts": [
+          "The Internal Security Act",
+          "The Public Order Act, covering assemblies",
+          "The Sedition Act, covering seditious speech",
+          "The Penal Code, covering general crimes"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "In what year did Singapore introduce its Goods and Services Tax?",
+        "opts": [
+          "1994",
+          "1985",
+          "2000",
+          "1970"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is the Corrupt Practices Investigation Bureau, established in Singapore in 1952?",
+        "opts": [
+          "An agency dedicated to investigating corruption",
+          "A branch of the national police traffic unit",
+          "A body overseeing hawker centre licenses",
+          "A committee reviewing constitutional amendments"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which Prime Minister succeeded Lee Kuan Yew in 1990?",
+        "opts": [
+          "Goh Chok Tong",
+          "Lee Hsien Loong",
+          "Tony Tan",
+          "S. R. Nathan"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What treaty in 1824 formalized British possession of Singapore following earlier agreements with the Sultan of Johor?",
+        "opts": [
+          "The 1824 Anglo-Dutch Treaty and accompanying cession treaty",
+          "The Treaty of Nanking, ending the First Opium War in China",
+          "The Treaty of Versailles, ending the First World War in Europe",
+          "The Treaty of Tordesillas, dividing the New World in 1494"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Why did Singapore ultimately separate from Malaysia in 1965?",
+        "opts": [
+          "Racial and political tensions led both parliaments to agree on separation",
+          "Singapore held a referendum and voted to join Indonesia instead",
+          "Britain revoked self-governance and reimposed direct colonial rule",
+          "Malaysia's military expelled Singapore from the federation by force"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which international ranking has Singapore frequently topped for business-friendly regulation?",
+        "opts": [
+          "The World Bank's Ease of Doing Business rankings",
+          "The United Nations Human Development poverty index",
+          "The Institute for Economics and Peace's Global Peace deficit index",
+          "The Gallup World Happiness bottom rankings"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What was Operation Coldstore, carried out in Singapore in 1963?",
+        "opts": [
+          "A security operation detaining alleged communist sympathizers without trial",
+          "A large-scale public health campaign launched against a cholera outbreak",
+          "A joint military exercise conducted together with Malaysia's armed forces",
+          "An urban renewal project clearing large parts of old Chinatown"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which economic strategy, adopted from the late 1960s, focused on attracting multinational manufacturers to rapidly industrialize Singapore?",
+        "opts": [
+          "Export-oriented industrialization",
+          "Import-substitution industrialization",
+          "Agrarian collectivization",
+          "Autarkic self-sufficiency"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What did Singapore's 1991 Shared Values white paper articulate?",
+        "opts": [
+          "National ideological principles favoring communitarianism over individualism",
+          "A blueprint for transitioning the republic into a constitutional monarchy",
+          "A new treaty framework governing relations with ASEAN neighbors",
+          "A doctrine committing the country to strict military non-alignment"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What Malay name, meaning \"Lion City,\" did Singapore retain from before Raffles' arrival in 1819?",
+        "opts": [
+          "Singapura",
+          "Temasek Baru",
+          "Nusantara",
+          "Malaka Kecil"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which Johor sultan signed the 1819 agreement permitting the British East India Company to establish a post in Singapore?",
+        "opts": [
+          "Sultan Hussein Shah",
+          "Sultan Iskandar Muda",
+          "Sultan Mahmud Shah II",
+          "Sultan Abu Bakar"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What was the Barisan Sosialis in Singaporean political history?",
+        "opts": [
+          "A left-wing party that split from the PAP in 1961",
+          "The original name adopted by the People's Action Party",
+          "A colonial-era administrative advisory body",
+          "A Malay royal consultative council"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What British defense strategy centered on Fortress Singapore, later exposed as inadequate in 1942?",
+        "opts": [
+          "The Singapore Strategy",
+          "The Jutland Doctrine",
+          "The Trafalgar Line",
+          "The Dreadnought Pact"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which Japanese general accepted the British surrender of Singapore in 1942?",
+        "opts": [
+          "Tomoyuki Yamashita",
+          "Hideki Tojo, Japan's wartime premier",
+          "Isoroku Yamamoto, a naval commander",
+          "Masaharu Homma, a commander in the Philippines"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which British general surrendered Singapore to Japan in 1942, in what Churchill called Britain's worst military disaster?",
+        "opts": [
+          "Arthur Percival",
+          "Bernard Montgomery",
+          "Archibald Wavell",
+          "William Slim"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What is the Group Representation Constituency system in Singaporean elections designed to help ensure?",
+        "opts": [
+          "Minority ethnic representation through team-based constituencies",
+          "Direct presidential appointment of all members of Parliament",
+          "Proportional representation based on each party's national vote share",
+          "Mandatory yearly rotation of the ruling party's leadership"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which 1991 constitutional amendment created Singapore's elected presidency with custodial powers over reserves?",
+        "opts": [
+          "The Constitution of the Republic of Singapore (Amendment) Act 1991",
+          "The Reserves Protection Act, passed decades earlier in 1965",
+          "The Presidential Council Act, an earlier statute passed in 1970",
+          "The Custodial Powers Act, an earlier statute passed in 1984"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What was the historical significance of the Padang precinct in colonial-era Singapore?",
+        "opts": [
+          "It was the ceremonial civic heart flanked by government buildings",
+          "It was the original site chosen for the Merlion statue in 1972",
+          "It marked the boundary line of the Japanese Occupation zone",
+          "It was the first industrial port ever built there by the Dutch"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which framework is often invoked to describe Singapore's blend of authoritarian efficiency and technocratic meritocracy?",
+        "opts": [
+          "\"Asian values\" communitarian pragmatism",
+          "Classical laissez-faire liberalism from Europe",
+          "Revolutionary Maoism as practiced in China",
+          "Anarcho-syndicalism rooted in worker cooperatives"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What was Utusan Melayu, influential in pre-independence Singapore and Malaya?",
+        "opts": [
+          "A Malay-language newspaper that shaped nationalist sentiment",
+          "The founding charter document originally adopted by the PAP",
+          "A colonial land registry office run by British officials",
+          "A British-run trade union federation for local dockworkers"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which 1961 by-election defeat is considered a turning point that spurred the PAP's split with its left-wing faction?",
+        "opts": [
+          "The Hong Lim by-election",
+          "The Anson by-election",
+          "The Bukit Merah by-election",
+          "The Tanjong Pagar by-election"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What was the \"Malayanization\" policy pursued in Singapore's late colonial civil service?",
+        "opts": [
+          "Replacing British colonial officers with local Malayan-born officials",
+          "Renaming all city streets to new, official Malay-language names",
+          "Converting all public schools to Malay-medium instruction only",
+          "Nationalizing all British-owned plantation estates by decree"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What was Konfrontasi, Indonesia's 1963-1966 policy toward the newly formed Malaysia, including Singapore?",
+        "opts": [
+          "An undeclared campaign of hostility involving cross-border raids",
+          "A trade pact promoting closer economic ties between neighbors",
+          "A joint military alliance formed against external threats",
+          "A cultural exchange program shared between the two nations"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What made MacDonald House in Singapore notable during Konfrontasi?",
+        "opts": [
+          "It was bombed by Indonesian saboteurs in 1965, killing three people",
+          "It served as Lee Kuan Yew's private residence for decades",
+          "It hosted the official signing of the 1965 separation agreement",
+          "It housed the sessions of Singapore's first Parliament"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What was significant about the State of Singapore's 1959 constitutional milestone under British oversight?",
+        "opts": [
+          "It granted internal self-government while Britain kept defense and foreign affairs",
+          "It granted Singapore complete and total independence from British rule entirely",
+          "It merged Singapore permanently into a political union together with Indonesia",
+          "It formally and permanently abolished the office of Prime Minister"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which economic sector did Singapore's Jurong industrial estate, developed from the 1960s, primarily aim to build up?",
+        "opts": [
+          "Manufacturing and heavy industry",
+          "Tourism and hospitality",
+          "Agriculture and fisheries",
+          "Financial services exclusively"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What role did the Bukit Chandu site play during the 1942 Battle of Singapore?",
+        "opts": [
+          "It was the site of a last stand by Malay Regiment soldiers",
+          "It was the location of the British surrender ceremony",
+          "It served as the wartime headquarters of Lee Kuan Yew",
+          "It was the landing point of the first Japanese troops"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which committee, chaired by Goh Keng Swee in the 1980s, reviewed and reformed Singapore's education system?",
+        "opts": [
+          "The Goh Report on education",
+          "The Rendel Commission",
+          "The Wee Commission",
+          "The Maria Hertogh Inquiry"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What was the significance of the 1950 Maria Hertogh riots in Singapore's colonial history?",
+        "opts": [
+          "They exposed deep religious and racial tensions over a custody dispute",
+          "They marked the very first general election ever held in Singapore",
+          "They led directly to the founding of the ruling PAP political party",
+          "They caused the permanent closure of the historic Raffles Hotel"
+        ],
+        "a": 0,
+        "tier": 5
+      }
+    ]
+  },
+  {
+    "id": "ai",
+    "name": "Artificial Intelligence",
+    "questions": [
+      {
+        "q": "What does \"AI\" stand for?",
+        "opts": [
+          "Artificial Intelligence",
+          "Automated Information",
+          "Advanced Internet",
+          "Applied Instruction"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is a chatbot?",
+        "opts": [
+          "A computer program designed to converse with humans",
+          "A robot built to vacuum and clean floors",
+          "A type of malicious computer virus",
+          "A character controlled by a player in a video game"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which company created ChatGPT?",
+        "opts": [
+          "OpenAI",
+          "Google",
+          "Microsoft",
+          "Apple"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is a \"robot\"?",
+        "opts": [
+          "A machine that can carry out actions automatically",
+          "A type of malicious computer virus that spreads itself",
+          "A satellite launched by a rocket into orbit around Earth",
+          "Another common name for a computer's display screen"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What does \"machine learning\" mean in simple terms?",
+        "opts": [
+          "Computers learning patterns from data instead of following fixed rules",
+          "Machines physically lifting weights in a gym to get stronger",
+          "Robots practicing over and over until they can walk on two legs",
+          "Teaching newly hired human employees how to properly operate machines"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which famous test asks whether a machine's conversation can be mistaken for a human's?",
+        "opts": [
+          "The Turing Test",
+          "The IQ Test",
+          "The Bar Exam",
+          "The Olympic Trials"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Who proposed an early test for machine intelligence and is often called a father of computer science?",
+        "opts": [
+          "Alan Turing",
+          "Bill Gates",
+          "Steve Jobs",
+          "Charles Babbage"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is a \"neural network\" loosely inspired by?",
+        "opts": [
+          "The structure of the human brain",
+          "The structure of a car engine's pistons",
+          "The structure of a honeybee's beehive",
+          "The structure of a spider's woven web"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What technology allows voice assistants like Siri or Alexa to understand speech?",
+        "opts": [
+          "AI-powered speech recognition",
+          "A human operator listening in real time",
+          "A simple lookup table of words",
+          "Morse code translation"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is \"facial recognition\" technology mainly used for?",
+        "opts": [
+          "Identifying or verifying a person from their face",
+          "Predicting tomorrow's weather forecast for a city",
+          "Translating spoken languages into text in real time",
+          "Diagnosing medical diseases from a sample of blood"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What kind of system powers recommendations on services like Netflix or Spotify?",
+        "opts": [
+          "Algorithms that learn from your past viewing or listening habits",
+          "A panel of paid human critics who review every single user",
+          "A purely random selection made with absolutely no underlying pattern",
+          "A fixed list of titles that is only updated once a year"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "A self-driving car is an example of what?",
+        "opts": [
+          "AI applied to autonomous vehicle navigation",
+          "A car equipped with only basic cruise control",
+          "A toy car steered by a remote control",
+          "A car that only travels along fixed rails"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "The word \"robot\" originally comes from a Czech word meaning what?",
+        "opts": [
+          "Forced labor",
+          "Metal man",
+          "Fast movement",
+          "Electric spark"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which everyday tool commonly uses AI to filter out unwanted messages?",
+        "opts": [
+          "Email spam filters",
+          "Smart video doorbells",
+          "Wi-Fi light switches",
+          "Weather-tracking umbrellas"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is \"computer vision\"?",
+        "opts": [
+          "Enabling computers to interpret and understand images or video",
+          "Enabling a computer to only function properly in complete darkness",
+          "Fitting robots with a pair of literal glass eyeballs",
+          "A type of high-resolution computer monitor used for gaming"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is \"generative AI\" mainly used for?",
+        "opts": [
+          "Creating new content like text or images",
+          "Only storing existing files on a hard drive",
+          "Only permanently deleting old, unused data",
+          "Only translating handwritten notes into text"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which popular AI tool generates pictures from written text prompts?",
+        "opts": [
+          "DALL-E",
+          "Microsoft Word",
+          "Adobe Acrobat",
+          "Windows Paint"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What does a \"smart\" thermostat use AI for?",
+        "opts": [
+          "Learning your habits to adjust the temperature automatically",
+          "Playing background music throughout every room of the house",
+          "Sending automated text messages to all of your contacts",
+          "Wirelessly charging your phone while you sleep overnight"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the main goal of artificial intelligence as a field of study?",
+        "opts": [
+          "Making computers perform tasks that normally require human intelligence",
+          "Making computers process instructions much faster than before",
+          "Making computer hardware physically smaller and lighter overall",
+          "Making computers cheaper for factories around the world to manufacture"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which of these is a widely used AI-powered translation tool?",
+        "opts": [
+          "Google Translate",
+          "Microsoft Paint",
+          "Adobe Photoshop",
+          "Windows Calculator"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is \"supervised learning\" in machine learning?",
+        "opts": [
+          "Training a model on labeled data with known correct answers",
+          "Training a model with no data at all",
+          "Training a model only through trial and error in games",
+          "Training a model by having humans compute every answer manually"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is \"unsupervised learning\"?",
+        "opts": [
+          "Finding patterns in data without labeled outcomes",
+          "Learning strictly from a teacher's direct feedback",
+          "Learning only from images",
+          "Learning only from robots"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is a \"dataset\" in machine learning?",
+        "opts": [
+          "A collection of data used to train or test a model",
+          "A single isolated data point with no context",
+          "A specialized type of computer processing chip",
+          "A programming language used to write software"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which programming language is most commonly associated with AI and machine learning development today?",
+        "opts": [
+          "Python",
+          "COBOL",
+          "Fortran",
+          "Pascal"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What does \"NLP\" stand for in the context of AI?",
+        "opts": [
+          "Natural Language Processing",
+          "New Learning Protocol",
+          "Neural Logic Programming",
+          "National Language Program"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is an \"algorithm\"?",
+        "opts": [
+          "A step-by-step set of instructions for solving a problem",
+          "A type of malicious computer virus that corrupts files",
+          "A well-known brand of computer processing chip",
+          "A specific language that programmers use to write software"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is \"reinforcement learning\"?",
+        "opts": [
+          "Training an agent through rewards and penalties for its actions",
+          "Training a model using only pre-labeled photographs",
+          "Training a model by having it copy human handwriting samples",
+          "Training a model using only past historical stock prices"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which board game saw an AI famously defeat a world champion, marking a milestone for AI?",
+        "opts": [
+          "Go, defeated by DeepMind's AlphaGo",
+          "Checkers, defeated by an unnamed program",
+          "Tic-tac-toe, defeated by a simple script",
+          "Dominoes, defeated by a hobbyist program"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is \"overfitting\" in machine learning?",
+        "opts": [
+          "When a model learns training data too closely and fails to generalize",
+          "When a model is far too simple to learn anything useful at all",
+          "When a dataset is too small for a program to load into memory",
+          "When a computer physically runs out of available storage memory"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What does \"GPU,\" a hardware component crucial for training AI models, stand for?",
+        "opts": [
+          "Graphics Processing Unit",
+          "General Purpose Utility",
+          "Global Processing Unit",
+          "Gigabyte Processing Unit"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is a chatbot's training data typically made of?",
+        "opts": [
+          "Large amounts of text from books, websites, and conversations",
+          "A single dictionary file listing common word definitions",
+          "Nothing but raw numbers and mathematical equations",
+          "Only photographs and images with no accompanying text at all"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is \"deep learning\"?",
+        "opts": [
+          "A subset of machine learning using multi-layered neural networks",
+          "A structured method for teaching new employees how to write code",
+          "A specific type of database storage system used mainly by banks",
+          "A slow and tedious form of manual data entry work done by hand"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which company developed the AlphaGo program?",
+        "opts": [
+          "DeepMind",
+          "OpenAI, maker of ChatGPT",
+          "IBM, maker of Watson",
+          "Meta, formerly Facebook"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is an AI \"model,\" in simple terms?",
+        "opts": [
+          "A trained system that makes predictions or decisions from data",
+          "The physical metal chassis and body of a household robot",
+          "A miniature figure produced by a home 3D printer overnight",
+          "A spreadsheet containing only raw, unprocessed numbers"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What commonly causes \"bias\" in AI systems?",
+        "opts": [
+          "Skewed or unrepresentative training data reflecting real-world prejudice",
+          "Having access to far too much raw computing power",
+          "Having too many separate programmers working on one project",
+          "Using an unusually fast internet connection during the training run"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is a \"token\" in the context of language models?",
+        "opts": [
+          "A basic unit of text, like a word or part of a word",
+          "A cryptocurrency coin used to pay for AI services",
+          "A physical security key",
+          "A type of computer chip"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What does \"AGI\" stand for?",
+        "opts": [
+          "Artificial General Intelligence",
+          "Automated Global Interface System",
+          "Advanced Graphics Interface Standard",
+          "Applied General Instruction Method"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which computer defeated world chess champion Garry Kasparov in 1997?",
+        "opts": [
+          "Deep Blue",
+          "Watson, IBM's later system",
+          "AlphaGo, DeepMind's Go player",
+          "DeepMind, a British AI lab"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What does \"training\" a model mean in machine learning?",
+        "opts": [
+          "Adjusting a model's internal parameters using data to improve performance",
+          "Physically assembling all of the mechanical hardware inside a robot",
+          "Writing the full user manuals that accompany a piece of software",
+          "Installing routine security updates on an office desktop computer"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What term describes an AI confidently producing false but plausible-sounding output?",
+        "opts": [
+          "A \"hallucination\"",
+          "A \"meltdown\"",
+          "A \"glitch storm\"",
+          "A \"syntax crash\""
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What architecture underlies most modern large language models like GPT?",
+        "opts": [
+          "The Transformer architecture",
+          "The Perceptron architecture alone",
+          "Recurrent Neural Networks exclusively",
+          "The Decision Tree architecture"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which researchers shared the 2018 Turing Award for foundational work in deep learning?",
+        "opts": [
+          "Yoshua Bengio, Geoffrey Hinton, and Yann LeCun",
+          "Alan Turing and John von Neumann, pioneers of computing",
+          "Elon Musk and Sam Altman, prominent tech entrepreneurs",
+          "Marvin Minsky and John McCarthy, early AI founders"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What 2017 paper introduced the Transformer architecture?",
+        "opts": [
+          "\"Attention Is All You Need\"",
+          "\"A Mathematical Theory of Communication\"",
+          "\"Computing Machinery and Intelligence\"",
+          "\"The Logic Theorist\""
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is the \"attention mechanism\" in Transformer models designed to do?",
+        "opts": [
+          "Let the model weigh how relevant input tokens are to each other",
+          "Let the model physically adjust the focus of a camera lens",
+          "Let the model write data to a hard disk more quickly",
+          "Let the model compress image files without losing quality"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What does \"CNN\" stand for in image-processing neural networks?",
+        "opts": [
+          "Convolutional Neural Network",
+          "Central Neural Node System",
+          "Combined Network Node Layer",
+          "Compact Node Network Model"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What was IBM's question-answering AI that won the game show Jeopardy! in 2011?",
+        "opts": [
+          "Watson",
+          "Deep Blue",
+          "Watson X",
+          "HAL"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What term describes an AI generating plausible but false information as if it were fact?",
+        "opts": [
+          "Hallucination",
+          "Fabrication error",
+          "Compression fault",
+          "Overflow bug"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is \"fine-tuning\" a large language model?",
+        "opts": [
+          "Further training a pre-trained model on a smaller, specific dataset",
+          "Adjusting the clock speed of a computer's central processor",
+          "Compressing an already trained model to save disk space",
+          "Manually rewriting a model's output text after it has been generated"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What does \"RLHF,\" a technique used to align chatbot behavior, stand for?",
+        "opts": [
+          "Reinforcement Learning from Human Feedback",
+          "Rapid Learning for Hybrid Framework Systems",
+          "Random Layer Heuristic Function Method",
+          "Recursive Language Handling Format Standard"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which company created the GPT series of language models?",
+        "opts": [
+          "OpenAI",
+          "Google",
+          "Meta",
+          "Amazon"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is a \"parameter\" in a neural network?",
+        "opts": [
+          "An internal weight the model learns and adjusts during training",
+          "A physical dial found on the front panel of a computer",
+          "A specific type of file format used only for input data",
+          "A standard unit used to measure household electricity consumption"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which 1960s program simulated a psychotherapist by rephrasing user statements as questions?",
+        "opts": [
+          "ELIZA",
+          "SHRDLU",
+          "Deep Blue",
+          "Watson"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is \"backpropagation\" used for in training neural networks?",
+        "opts": [
+          "Calculating gradients to update weights and minimize error",
+          "Sending processed data back to its original network source",
+          "Compressing large training files to save storage space",
+          "Encrypting sensitive data to keep a model secure"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What term refers to large AI systems trained on massive datasets to perform many different tasks, like GPT-4?",
+        "opts": [
+          "A \"foundation model\"",
+          "A \"microservice\" module",
+          "A \"firmware patch\" update",
+          "A \"legacy system\" component"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is the Turing Test, proposed in 1950, meant to evaluate?",
+        "opts": [
+          "Whether a machine's conversation is indistinguishable from a human's",
+          "Whether a machine can solve advanced calculus problems correctly",
+          "Whether a machine can consistently beat a human at chess",
+          "Whether a machine can recognize human faces with accuracy"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What does \"OCR,\" a technology often powered by AI, stand for?",
+        "opts": [
+          "Optical Character Recognition",
+          "Online Content Rating System",
+          "Open Cloud Repository Service",
+          "Operational Command Relay Protocol"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Before Transformers became dominant, which network type was particularly suited to sequential data like text or speech?",
+        "opts": [
+          "Recurrent Neural Networks",
+          "Convolutional Neural Networks alone",
+          "Decision trees alone",
+          "Support Vector Machines alone"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is a \"loss function\" used for when training a machine learning model?",
+        "opts": [
+          "Measuring how far predictions are from the correct answers",
+          "Measuring how much electricity a data center consumes",
+          "Measuring the physical file size of a training dataset",
+          "Measuring the rotational speed of a computer's cooling fan"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What does \"AI winter\" refer to in the history of the field?",
+        "opts": [
+          "A period of reduced funding and interest in AI research",
+          "A season when AI conferences are traditionally held",
+          "A cooling technique used in AI server rooms",
+          "A type of algorithm for weather prediction"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which self-driving car project, originally under Alphabet, later became the company Waymo?",
+        "opts": [
+          "Google's self-driving car project",
+          "Tesla's Autopilot driving division",
+          "Uber's ATG self-driving division",
+          "Apple's secretive Project Titan"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is the \"vanishing gradient problem\" that hampered early deep neural networks?",
+        "opts": [
+          "Gradients becoming too small during backpropagation, hindering early layers",
+          "Training data mysteriously disappearing from memory partway through training",
+          "A network losing its internet connection partway through a training run",
+          "A model's parameters gradually growing to become infinitely large"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which activation function, prized for its efficiency, largely replaced sigmoid and tanh in deep networks?",
+        "opts": [
+          "ReLU, the Rectified Linear Unit",
+          "Softmax, used mainly in output layers",
+          "Plain linear activation with no curve",
+          "The basic step function used in early perceptrons"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What does \"GAN\" stand for, describing a model pitting a generator against a discriminator?",
+        "opts": [
+          "Generative Adversarial Network",
+          "General Adaptive Node System",
+          "Gradient Amplified Network",
+          "Global Analysis Node System"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Who is credited as a co-inventor of Generative Adversarial Networks, proposed in 2014?",
+        "opts": [
+          "Ian Goodfellow",
+          "Geoffrey Hinton",
+          "Yann LeCun",
+          "Andrew Ng"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What does \"BERT,\" a notable Google language model, stand for?",
+        "opts": [
+          "Bidirectional Encoder Representations from Transformers",
+          "Basic Encoded Recurrent Text model architecture design",
+          "Binary Encoded Retrieval Technique used for web search",
+          "Balanced Efficient Recurrent Transformer network design"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What distinguishes a \"diffusion model,\" as used in Stable Diffusion, from a GAN?",
+        "opts": [
+          "It generates images by gradually denoising random noise over many steps",
+          "It generates images instantly from a single random vector, with no iteration",
+          "It only edits existing images and cannot create new ones",
+          "It relies entirely on hand-coded rules rather than learned weights"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is \"few-shot learning\" in the context of large language models?",
+        "opts": [
+          "Giving a model a small number of examples in the prompt to guide it",
+          "Training a model using only a single data point ever recorded",
+          "Running a fully trained model for a very short amount of time",
+          "Reducing a model's total parameter count to just a small handful"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is the \"exploration-exploitation tradeoff\" in reinforcement learning?",
+        "opts": [
+          "Balancing trying new actions against using known rewarding ones",
+          "Balancing available GPU memory against available CPU memory",
+          "Balancing the size of a dataset against the size of a model",
+          "Balancing total training time against total electricity cost"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which DeepMind system mastered chess and Go entirely through self-play, without human game data?",
+        "opts": [
+          "AlphaZero",
+          "Deep Blue",
+          "Stockfish",
+          "Watson"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What was the name of the 1966 program that could converse about a limited \"blocks world\" using natural language?",
+        "opts": [
+          "SHRDLU",
+          "ELIZA",
+          "Logo",
+          "PROLOG"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is \"tokenization\" in natural language processing?",
+        "opts": [
+          "Splitting text into smaller units for a model to process",
+          "Encrypting a block of text for secure network transmission",
+          "Translating a block of text between two languages",
+          "Compressing large text files to save storage space"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What does \"embedding\" mean when representing words in machine learning?",
+        "opts": [
+          "Representing words or items as dense numerical vectors capturing meaning",
+          "Physically soldering a small microchip onto a circuit board by hand",
+          "Encrypting a stored user password inside a secure company database",
+          "Inserting a hidden digital watermark into an image file"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which 1956 event is widely regarded as the founding conference of AI as an academic field?",
+        "opts": [
+          "The Dartmouth Summer Research Project on Artificial Intelligence",
+          "The First World Robotics Congress, which was held decades later",
+          "The MIT Cybernetics Symposium, a wholly separate gathering",
+          "The Stanford Computing Summit, which was founded much later on"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is \"transfer learning\"?",
+        "opts": [
+          "Applying knowledge from a model trained on one task to a related task",
+          "Physically moving a trained model's files between two servers",
+          "Transferring large files between two separate hard drives",
+          "Converting a model's code from one programming language to another"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What term describes the phenomenon where scaling up model size, data, and compute predictably improves performance?",
+        "opts": [
+          "Scaling laws",
+          "Moore's Law of AI",
+          "The Compute Paradox",
+          "The Diminishing Returns Theorem"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is a \"Markov decision process\" commonly used to formalize?",
+        "opts": [
+          "Sequential decision-making problems in reinforcement learning",
+          "Static image classification tasks used in computer vision systems",
+          "The tokenization procedures used inside modern language models",
+          "Standard protocols used to encrypt sensitive network data"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is \"prompt engineering\"?",
+        "opts": [
+          "Crafting inputs to a language model to elicit better outputs",
+          "Physically designing computer chips for AI",
+          "Writing a neural network's underlying code from scratch",
+          "Repairing server hardware used to run AI models"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What term refers to AI models that process and generate across multiple data types, such as text and images together?",
+        "opts": [
+          "Multimodal models",
+          "Unimodal systems",
+          "Singleton networks",
+          "Isolated pipelines"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is \"catastrophic forgetting\" in neural networks?",
+        "opts": [
+          "A model losing previously learned information when trained on new tasks",
+          "A physical server crashing unexpectedly partway through a training run",
+          "A training dataset becoming permanently corrupted for unknown reasons",
+          "A model's saved weights being deleted entirely by a computer virus"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What term describes small, targeted updates to a subset of a large model's parameters, such as LoRA?",
+        "opts": [
+          "Low-rank adaptation",
+          "Full model retraining",
+          "Gradient descent reset",
+          "Weight randomization"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What theorem states that a feedforward network with a single hidden layer can approximate any continuous function, given enough neurons?",
+        "opts": [
+          "The Universal Approximation Theorem",
+          "The No Free Lunch Theorem",
+          "The Church-Turing Thesis",
+          "The Curse of Dimensionality Principle"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What does the \"No Free Lunch\" theorem broadly state about optimization algorithms?",
+        "opts": [
+          "No single algorithm performs best across all possible problems on average",
+          "Every algorithm will eventually converge to the very same global optimum",
+          "Larger datasets will always guarantee better generalization performance",
+          "Deep networks will always outperform shallow ones on absolutely any task"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which regularization technique randomly disables neurons during training to reduce overfitting?",
+        "opts": [
+          "Dropout",
+          "Batch normalization",
+          "Gradient clipping",
+          "Weight decay alone"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What does \"batch normalization\" primarily do during neural network training?",
+        "opts": [
+          "Normalizes layer inputs to stabilize and speed up training",
+          "Randomly removes some neurons to help prevent overfitting",
+          "Compresses a finished model for mobile deployment",
+          "Encrypts gradients while they pass through backpropagation"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What is the \"curse of dimensionality\" in machine learning?",
+        "opts": [
+          "The exponential growth in data needed to cover a high-dimensional space",
+          "A bug that is specific to how Python handles floating point arithmetic",
+          "A phenomenon that occurs only within image classification tasks",
+          "A rule stating that every model must have fewer than ten features"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which adaptive optimization algorithm, extending stochastic gradient descent, is widely used to train deep networks?",
+        "opts": [
+          "Adam",
+          "Newton's Method",
+          "The Simplex Method",
+          "Dijkstra's Algorithm"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What does philosopher John Searle's \"Chinese Room\" thought experiment argue against?",
+        "opts": [
+          "The claim that symbol manipulation alone constitutes genuine understanding",
+          "The possibility that any computer program could ever pass the Turing Test",
+          "The general usefulness of neural networks for machine translation tasks",
+          "The overall feasibility of training large language models at scale"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What is \"mode collapse,\" a common failure in GAN training?",
+        "opts": [
+          "The generator producing a limited variety of outputs despite diverse inputs",
+          "The discriminator crashing partway through a run due to memory overflow",
+          "The training data becoming silently corrupted partway through a long run",
+          "The model's loss function becoming mathematically undefined during training"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What does \"KL divergence,\" used across probabilistic machine learning models, measure?",
+        "opts": [
+          "How one probability distribution differs from a reference distribution",
+          "The physical distance separating two data centers geographically",
+          "The processing speed difference between two competing GPUs",
+          "The compression ratio achieved on a stored dataset"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What describes a reward function that, when optimized, produces unintended behavior diverging from the designer's intent?",
+        "opts": [
+          "Reward hacking",
+          "Gradient explosion",
+          "Feature leakage",
+          "Data drift"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What is the \"AI alignment problem\" primarily concerned with?",
+        "opts": [
+          "Ensuring AI systems pursue goals that match human values and intentions",
+          "Ensuring AI hardware components are physically aligned during manufacturing",
+          "Ensuring datasets are alphabetically sorted before training",
+          "Ensuring code passes a linter before deployment"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which 2014 paper by Ian Goodfellow and colleagues introduced a foundational generative modeling framework?",
+        "opts": [
+          "\"Generative Adversarial Networks\"",
+          "\"ImageNet Classification with Deep Convolutional Neural Networks\"",
+          "\"Playing Atari with Deep Reinforcement Learning\"",
+          "\"Sequence to Sequence Learning with Neural Networks\""
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What is the \"credit assignment problem\" in reinforcement learning?",
+        "opts": [
+          "Determining which past actions contributed to a later received reward",
+          "Calculating a bank customer's personal financial credit score",
+          "Assigning available computational resources across multiple servers",
+          "Distributing a large training dataset across several machines"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which technique, used to stabilize very deep networks, adds shortcut connections that skip one or more layers?",
+        "opts": [
+          "Residual connections, as in ResNet architectures",
+          "Dropout layers randomly placed between hidden units",
+          "Batch normalization applied to every layer's inputs",
+          "Max pooling applied uniformly across feature maps"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What is \"double descent,\" an empirical phenomenon that contradicts classical bias-variance intuition?",
+        "opts": [
+          "Test error can decrease, increase, then decrease again as capacity grows",
+          "Training loss always increases in a straight line as model size grows",
+          "Models always overfit as soon as parameters exceed the dataset size",
+          "Gradient descent always converges exactly twice as fast on larger models"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What was the significance of the 2012 \"AlexNet\" result at the ImageNet competition?",
+        "opts": [
+          "It showed deep convolutional networks dramatically beating prior methods",
+          "It was the first chatbot ever to pass the Turing Test",
+          "It was the paper that first introduced the Transformer architecture",
+          "It marked the first use of reinforcement learning to play games"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What does \"interpretability\" research in AI aim to achieve?",
+        "opts": [
+          "Understanding and explaining how a model reaches its internal decisions",
+          "Making a model run faster on limited, low-power mobile hardware",
+          "Making a model's original training data publicly available online",
+          "Making a model compatible with many more programming languages"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What is a \"sparse autoencoder\" commonly used for in language model interpretability research?",
+        "opts": [
+          "Decomposing internal activations into more interpretable features",
+          "Compressing a trained model's file size for mobile deployment",
+          "Encrypting a model's stored weights for secure long-term storage",
+          "Generating synthetic images for use in training data"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What mathematical rule underlies backpropagation's computation of gradients through a network?",
+        "opts": [
+          "The chain rule of calculus",
+          "Bayesian inference over probabilities",
+          "Linear programming optimization",
+          "Foundational set theory axioms"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What is \"emergent behavior\" in the context of scaling large language models?",
+        "opts": [
+          "Capabilities that appear unpredictably at larger scale but not at smaller scale",
+          "Behavior that is explicitly programmed into every model from the very start",
+          "A software bug that causes a model to output random characters",
+          "A safety feature specifically added to filter out harmful outputs"
+        ],
+        "a": 0,
+        "tier": 5
+      }
+    ]
   }
 ];
