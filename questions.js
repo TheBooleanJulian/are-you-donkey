@@ -23224,5 +23224,2217 @@ const TOPICS = [
         "tier": 5
       }
     ]
+  },
+  {
+    "id": "automotive",
+    "name": "Automotive",
+    "questions": [
+      {
+        "q": "Which car company produces the Mustang?",
+        "opts": [
+          "Ford",
+          "Chevrolet",
+          "Dodge",
+          "Toyota"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What part of a car do you turn to change direction?",
+        "opts": [
+          "The steering wheel",
+          "The gear selector lever",
+          "The clutch pedal",
+          "The parking brake lever"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the common term for a car's rear storage compartment?",
+        "opts": [
+          "The trunk",
+          "The bonnet",
+          "The dashboard",
+          "The chassis"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which company makes the Volkswagen Beetle?",
+        "opts": [
+          "Volkswagen",
+          "Audi, based in Ingolstadt",
+          "BMW, based in Munich",
+          "Porsche, based in Stuttgart"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What do you call the front cover over a car's engine?",
+        "opts": [
+          "The hood",
+          "The trunk",
+          "The fender",
+          "The bumper"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which of these is a common type of car fuel?",
+        "opts": [
+          "Diesel",
+          "Helium",
+          "Nitrogen",
+          "Argon"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What shape are car tires?",
+        "opts": [
+          "Round",
+          "Square",
+          "Triangular",
+          "Oval"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which pedal do you press to slow down a car?",
+        "opts": [
+          "The brake pedal",
+          "The clutch pedal",
+          "The accelerator",
+          "The parking pedal"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which company makes the Camry?",
+        "opts": [
+          "Toyota",
+          "Honda",
+          "Nissan",
+          "Mazda"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What do headlights primarily help a driver do at night?",
+        "opts": [
+          "See the road ahead",
+          "Cool the engine",
+          "Charge the battery",
+          "Measure speed"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which company produces the Civic?",
+        "opts": [
+          "Honda",
+          "Toyota",
+          "Ford",
+          "Kia"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the name for a car with a roof that can be lowered or removed?",
+        "opts": [
+          "A convertible",
+          "A sedan, with a fixed metal roof",
+          "A hatchback, with a rear liftgate",
+          "A minivan, built for passenger hauling"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which fluid keeps a car engine from overheating?",
+        "opts": [
+          "Coolant",
+          "Brake fluid",
+          "Wiper fluid",
+          "Transmission fluid"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which device in a car tells the driver how fast they are going?",
+        "opts": [
+          "The speedometer",
+          "The odometer",
+          "The tachometer",
+          "The altimeter"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which company makes the F-150 pickup truck?",
+        "opts": [
+          "Ford",
+          "Chevrolet",
+          "Ram",
+          "GMC"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What part of the car do seatbelts anchor into for safety?",
+        "opts": [
+          "The frame",
+          "The dashboard",
+          "The mirror",
+          "The bumper"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which of these car brands originates from Italy?",
+        "opts": [
+          "Ferrari",
+          "BMW, a German automaker",
+          "Toyota, a Japanese automaker",
+          "Volvo, a Swedish automaker"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is a car with four doors and a separate trunk usually called?",
+        "opts": [
+          "A sedan",
+          "A coupe",
+          "A hatchback",
+          "A pickup"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which company makes the Model 3?",
+        "opts": [
+          "Tesla",
+          "Rivian",
+          "Lucid",
+          "Polestar"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What part of the car actually rotates to make it move?",
+        "opts": [
+          "The wheels",
+          "The doors",
+          "The seats",
+          "The mirrors"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which German group owns the luxury brand Audi?",
+        "opts": [
+          "Volkswagen Group",
+          "Daimler AG, which owns Mercedes-Benz",
+          "BMW Group, based in Munich",
+          "Fiat Chrysler, formed via merger"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What does the abbreviation 'SUV' stand for?",
+        "opts": [
+          "Sport Utility Vehicle",
+          "Super Urban Van",
+          "Standard Utility Vehicle",
+          "Sport Use Van"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which company produces the Camaro, a longtime Mustang rival?",
+        "opts": [
+          "Chevrolet",
+          "Ford, Chevrolet's crosstown rival",
+          "Dodge, maker of the Challenger",
+          "Pontiac, discontinued in 2010"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is it called when engine cylinders are arranged in a V shape?",
+        "opts": [
+          "A V engine",
+          "An inline engine",
+          "A flat engine",
+          "A rotary engine"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which company makes the Prius hybrid?",
+        "opts": [
+          "Toyota",
+          "Honda",
+          "Hyundai",
+          "Kia"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "In the US, car fuel efficiency is most commonly measured in what unit?",
+        "opts": [
+          "Miles per gallon",
+          "Miles per hour",
+          "Gallons per mile",
+          "Kilometers per liter"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which company owns the Jeep brand?",
+        "opts": [
+          "Stellantis",
+          "Ford",
+          "General Motors",
+          "Toyota"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which suspension part absorbs bumps in the road?",
+        "opts": [
+          "The shock absorber",
+          "The radiator",
+          "The alternator",
+          "The exhaust manifold"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which car maker produces the Corvette?",
+        "opts": [
+          "Chevrolet",
+          "Pontiac, known for the GTO",
+          "Buick, GM's near-luxury brand",
+          "Cadillac, GM's luxury flagship brand"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What does ABS stand for in a car's braking system?",
+        "opts": [
+          "Anti-lock Braking System",
+          "Automatic Brake Sensor",
+          "Advanced Body Structure",
+          "Automatic Balance System"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which Japanese company makes the Skyline GT-R?",
+        "opts": [
+          "Nissan",
+          "Toyota",
+          "Mazda",
+          "Subaru"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is a 'hatchback'?",
+        "opts": [
+          "A car with a rear door that swings upward",
+          "A car with two side doors and no rear hatch",
+          "A truck with an open cargo bed at the rear",
+          "A car with a retractable folding roof panel"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which company makes the Wrangler?",
+        "opts": [
+          "Jeep",
+          "Land Rover",
+          "Toyota",
+          "Ford"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What does the term 'horsepower' measure in a vehicle?",
+        "opts": [
+          "Engine power output",
+          "Fuel tank capacity",
+          "Vehicle weight",
+          "Tire pressure"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which company produces the Golf hatchback?",
+        "opts": [
+          "Volkswagen",
+          "Opel, once owned by General Motors",
+          "Renault, a major French automaker",
+          "Peugeot, part of the Stellantis group"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is the purpose of a car's catalytic converter?",
+        "opts": [
+          "Reducing harmful exhaust emissions",
+          "Cooling the engine block during operation",
+          "Storing electrical charge for later use",
+          "Filtering incoming air before combustion"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which company makes the Impreza and Outback?",
+        "opts": [
+          "Subaru",
+          "Mitsubishi",
+          "Suzuki",
+          "Isuzu"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which type of transmission shifts gears without driver input?",
+        "opts": [
+          "An automatic transmission",
+          "A manual transmission",
+          "A sequential transmission",
+          "A direct-drive transmission"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which company produces the Range Rover?",
+        "opts": [
+          "Land Rover",
+          "Jaguar",
+          "Bentley",
+          "Aston Martin"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What term describes the distance between a car's front and rear axles?",
+        "opts": [
+          "Wheelbase",
+          "Track width",
+          "Ground clearance",
+          "Turning radius"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "In what year did Ford introduce the Model T?",
+        "opts": [
+          "1908",
+          "1898",
+          "1920",
+          "1932"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which automaker is best known for mass-producing cars with the Wankel rotary engine?",
+        "opts": [
+          "Mazda",
+          "Nissan",
+          "Toyota",
+          "Honda"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What does 'AWD' stand for?",
+        "opts": [
+          "All-Wheel Drive",
+          "Automatic Wheel Drive",
+          "Advanced Wheel Dynamics",
+          "Axle-Weighted Drive"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which company pioneered the first mass-production moving assembly line for cars?",
+        "opts": [
+          "Ford",
+          "General Motors",
+          "Chrysler",
+          "Renault"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What was Ferdinand Porsche's early hybrid vehicle from around 1900 called?",
+        "opts": [
+          "The Lohner-Porsche",
+          "The Porsche 356",
+          "The Volkswagen Beetle",
+          "The Auto Union Type C"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which racing series is often called the 'pinnacle' of open-wheel motorsport?",
+        "opts": [
+          "Formula One",
+          "IndyCar, popular mainly in North America",
+          "Formula E, the all-electric series",
+          "NASCAR, known for oval-track racing"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which car became the first Japanese entry to win the 24 Hours of Le Mans overall, in 1991?",
+        "opts": [
+          "The Mazda 787B",
+          "The Toyota TS050",
+          "The Nissan R390",
+          "The Honda NSX"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which engineer is credited with the modern four-stroke internal combustion cycle?",
+        "opts": [
+          "Nikolaus Otto",
+          "Karl Benz",
+          "Rudolf Diesel",
+          "Gottlieb Daimler"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What does the term 'turbo lag' refer to?",
+        "opts": [
+          "The delay before a turbocharger produces boost",
+          "The time needed to shift gears manually in traffic",
+          "The delay before the ABS system engages fully",
+          "The wear rate of a turbocharger's internal bearings"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which company built the DeLorean DMC-12?",
+        "opts": [
+          "DeLorean Motor Company",
+          "Lotus Cars, which engineered its chassis",
+          "Aston Martin, a British sports car maker",
+          "Bricklin, a similar gullwing car maker"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What was Henry Ford's famous manufacturing innovation called?",
+        "opts": [
+          "The moving assembly line",
+          "The just-in-time system",
+          "The lean production model",
+          "The Kanban method"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which country is the Koenigsegg supercar brand from?",
+        "opts": [
+          "Sweden",
+          "Netherlands",
+          "Switzerland",
+          "Norway"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What endurance race is held annually at the Circuit de la Sarthe in France?",
+        "opts": [
+          "The 24 Hours of Le Mans",
+          "The Daytona 500",
+          "The Indianapolis 500",
+          "The Nurburgring 24 Hours"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which company first offered the airbag as standard equipment on a production car?",
+        "opts": [
+          "Mercedes-Benz",
+          "Volvo, known for safety innovation",
+          "Ford, the American mass producer",
+          "Chrysler, maker of the minivan"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is a 'differential' used for in a car's drivetrain?",
+        "opts": [
+          "Allowing wheels to rotate at different speeds",
+          "Storing excess engine torque for later use",
+          "Cooling the transmission fluid during towing",
+          "Balancing tire pressure across all four wheels"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which American company produced the first Corvette, in 1953?",
+        "opts": [
+          "Chevrolet",
+          "Ford",
+          "Studebaker",
+          "Packard"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What does the motorsport term 'rally' typically refer to?",
+        "opts": [
+          "Racing on closed public roads against the clock",
+          "Racing exclusively on banked oval tracks",
+          "Drag racing in a straight line over a quarter mile",
+          "Endurance racing held on a single closed circuit"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which company developed the Prius, the first mass-market hybrid gasoline-electric car?",
+        "opts": [
+          "Toyota",
+          "Honda",
+          "General Motors",
+          "Ford"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What does 'OEM' stand for in the auto industry?",
+        "opts": [
+          "Original Equipment Manufacturer",
+          "Overseas Export Model, a shipping designation",
+          "Official Engine Marking, a certification term",
+          "Optimized Engine Module, an ECU tuning term"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which Italian design house is most associated with styling classic Ferrari bodywork?",
+        "opts": [
+          "Pininfarina",
+          "Zagato",
+          "Bertone",
+          "Italdesign"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which engineer designed the original Volkswagen Beetle?",
+        "opts": [
+          "Ferdinand Porsche",
+          "Bela Barenyi, the crumple zone inventor",
+          "Wilhelm Maybach, Daimler's chief engineer",
+          "Ettore Bugatti, the luxury car founder"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What device allows a car with an automatic transmission to idle smoothly while in gear?",
+        "opts": [
+          "The torque converter",
+          "The clutch plate, used in manual gearboxes",
+          "The flywheel, which stores rotational energy",
+          "The differential, which splits power to the wheels"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which 1962 car is often cited as the first turbocharged production automobile?",
+        "opts": [
+          "The Oldsmobile Jetfire",
+          "The Chevrolet Corvette",
+          "The Buick Riviera",
+          "The Pontiac GTO"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What material are brake rotors most commonly made from in production cars?",
+        "opts": [
+          "Cast iron",
+          "Aluminum",
+          "Carbon fiber",
+          "Titanium"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is the common name for Volkswagen Group's dual-clutch automatic transmission?",
+        "opts": [
+          "DSG",
+          "Tiptronic",
+          "Powershift",
+          "SMG"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which suspension design uses two control arms to guide wheel movement independently?",
+        "opts": [
+          "A double wishbone setup",
+          "A MacPherson strut, a simpler single-arm design",
+          "A live axle, where both wheels share one housing",
+          "A torsion beam, common on budget hatchbacks"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is the term for a turbocharged engine's delayed response before boost builds?",
+        "opts": [
+          "Turbo lag",
+          "Engine knock",
+          "Vapor lock",
+          "Detonation"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which company's in-house division designed the Bugatti Veyron's W16 engine?",
+        "opts": [
+          "Bugatti",
+          "Cosworth",
+          "AMG",
+          "Ilmor"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What does a limited-slip differential primarily improve?",
+        "opts": [
+          "Traction by limiting wheel speed difference",
+          "Fuel economy during steady highway cruising",
+          "Braking distance on a wet road surface",
+          "Steering response at low parking speeds"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which motorsport discipline is the Dakar Rally classified as?",
+        "opts": [
+          "A cross-country rally raid",
+          "Circuit racing on a closed paved track",
+          "Drag racing over a straight quarter mile",
+          "Time attack racing against a single clock"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is a key advantage of the flat/boxer engine layout used by Porsche and Subaru?",
+        "opts": [
+          "A lower center of gravity",
+          "Higher top-end horsepower",
+          "Reduced manufacturing cost",
+          "Simplified exhaust routing"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which automaker's engineer, Bela Barenyi, is credited with pioneering the crumple zone?",
+        "opts": [
+          "Mercedes-Benz",
+          "Volvo, another safety-focused Swedish maker",
+          "Saab, known for its aircraft heritage",
+          "Volkswagen, the Beetle's original maker"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What does 'camber' refer to in wheel alignment?",
+        "opts": [
+          "The vertical tilt of a wheel viewed from the front",
+          "The forward-backward tilt of the steering axis",
+          "The horizontal angle from straight ahead",
+          "The height difference between axles"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which Dutch company is credited with pioneering the modern belt-driven CVT?",
+        "opts": [
+          "Van Doorne's Transmissie",
+          "Getrag, a German gearbox specialist",
+          "ZF Friedrichshafen, a major transmission supplier",
+          "Aisin, a Japanese Toyota-affiliated supplier"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is the purpose of a wastegate on a turbocharged engine?",
+        "opts": [
+          "Regulating exhaust flow to control boost pressure",
+          "Cooling the turbocharger's spinning bearings",
+          "Filtering soot particulates from the exhaust stream",
+          "Storing excess oil pressure in a reservoir"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which team dominated Formula One during Michael Schumacher's mid-2000s era?",
+        "opts": [
+          "Ferrari",
+          "McLaren",
+          "Williams",
+          "Renault"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What is 'unsprung mass' in vehicle dynamics?",
+        "opts": [
+          "Weight not supported by the suspension springs",
+          "The total weight of the vehicle's entire body",
+          "The combined weight of the engine and transmission",
+          "The weight added by all passengers and cargo"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which company's 1922 Lambda is often credited as the first mass-produced unibody car?",
+        "opts": [
+          "Lancia",
+          "Citroen",
+          "Fiat",
+          "Alfa Romeo"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What does 'torque steer' describe in front-wheel-drive performance cars?",
+        "opts": [
+          "Pull from uneven power delivery to the front wheels",
+          "Loss of steering feel at sustained high speed",
+          "Vibration felt through the wheel from worn tires",
+          "Delayed response caused by electric power steering"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which company produces the Nurburgring-tuned RS line of performance cars?",
+        "opts": [
+          "Audi",
+          "BMW",
+          "Mercedes-Benz",
+          "Volkswagen"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Roughly how many liters was the Bugatti Veyron's W16 engine displacement?",
+        "opts": [
+          "8.0",
+          "6.3",
+          "7.3",
+          "9.0"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which engineer designed the Cosworth DFV engine that powered numerous F1 champions?",
+        "opts": [
+          "Keith Duckworth",
+          "Colin Chapman, Lotus's founder",
+          "Gordon Murray, the McLaren F1 designer",
+          "Adrian Newey, the Red Bull aerodynamicist"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which suspension system did Citroen pioneer using pressurized fluid spheres?",
+        "opts": [
+          "Hydropneumatic suspension",
+          "Hydragas suspension, used by British Leyland",
+          "Active Body Control, a Mercedes hydraulic system",
+          "Magnetic Ride Control, a GM electromagnetic system"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which company's Group B rally car, the 205 T16, dominated rallying before the category was banned?",
+        "opts": [
+          "Peugeot",
+          "Audi, maker of the rival Quattro",
+          "Lancia, maker of the Delta S4",
+          "Ford, maker of the RS200"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Who designed the original Lamborghini Miura, often called the first supercar?",
+        "opts": [
+          "Marcello Gandini",
+          "Giorgetto Giugiaro",
+          "Leonardo Fioravanti",
+          "Franco Scaglione"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What is it called when a car's front tires lose grip before the rears in a corner?",
+        "opts": [
+          "Understeer",
+          "Oversteer",
+          "Bump steer",
+          "Snap oversteer"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which pre-war Grand Prix cars were nicknamed the 'Silver Arrows'?",
+        "opts": [
+          "Mercedes-Benz and Auto Union racers",
+          "Bugatti and Alfa Romeo's pre-war racers",
+          "Maserati and Talbot-Lago's grand prix cars",
+          "Delahaye and Delage's French racing cars"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What method did Colin Chapman use to reduce weight in the Lotus Elise's chassis?",
+        "opts": [
+          "Bonded aluminum extrusions",
+          "Carbon fiber monocoque panels",
+          "Magnesium alloy castings",
+          "Riveted steel space frames"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which Mercedes-Benz engineer is credited with patenting the crumple zone in 1952?",
+        "opts": [
+          "Bela Barenyi",
+          "Rudolf Uhlenhaut",
+          "Karl Wilfert",
+          "Hans Scherenberg"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which Wankel-powered NSU model suffered notorious apex seal failures?",
+        "opts": [
+          "The NSU Ro80",
+          "The NSU Prinz",
+          "The NSU TT",
+          "The NSU Sport Prinz"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which car, driven by Andy Green in 1997, first broke the sound barrier on land?",
+        "opts": [
+          "Thrust SSC",
+          "Thrust2",
+          "Blue Flame",
+          "Spirit of America"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What Lotus-developed system actively levels the car body under cornering loads?",
+        "opts": [
+          "Active Ride suspension",
+          "Hydropneumatic suspension",
+          "Adaptive Air suspension",
+          "Magnetic Ride Control"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which F1 designer pioneered the 'ground effect' aerodynamic concept in the late 1970s?",
+        "opts": [
+          "Colin Chapman",
+          "Adrian Newey",
+          "Gordon Murray",
+          "Patrick Head"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What is the name for slowing a vehicle using engine compression rather than the brakes?",
+        "opts": [
+          "Engine braking",
+          "Trail braking",
+          "Left-foot braking",
+          "Threshold braking"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Who designed the aerodynamic 'boat-tail' Buick Riviera of the late 1960s?",
+        "opts": [
+          "Bill Mitchell",
+          "Harley Earl",
+          "Chuck Jordan",
+          "Larry Shinoda"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which small British marque produces the Atom, known for its exposed exoskeleton chassis?",
+        "opts": [
+          "Ariel Motor Company",
+          "Caterham Cars",
+          "Radical Sportscars",
+          "Westfield Sportscars"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What aerodynamic principle, banned in F1 in the early 1980s, used sliding skirts to seal underbody airflow?",
+        "opts": [
+          "Ground effect",
+          "Drag reduction system",
+          "Diffuser stall",
+          "Venturi tunnel resonance"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which Italian design house penned the original Ferrari Daytona's bodywork?",
+        "opts": [
+          "Pininfarina",
+          "Bertone, designer of the Lamborghini Countach",
+          "Zagato, known for its aluminum coachwork",
+          "Ghia, later absorbed into Ford"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which Ford program, launched after a failed Ferrari buyout, aimed to beat Ferrari at Le Mans?",
+        "opts": [
+          "The GT40 program",
+          "The Total Performance program",
+          "The Cobra program",
+          "The Boss 429 program"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Who founded Scuderia Ferrari as a racing team in 1929, years before Ferrari road cars existed?",
+        "opts": [
+          "Enzo Ferrari",
+          "Alberto Ascari",
+          "Battista Pininfarina",
+          "Vittorio Jano"
+        ],
+        "a": 0,
+        "tier": 5
+      }
+    ]
+  },
+  {
+    "id": "vocaloid",
+    "name": "Vocaloid",
+    "questions": [
+      {
+        "q": "What is the name of the famous Vocaloid character with turquoise twintails?",
+        "opts": [
+          "Hatsune Miku",
+          "Kagamine Rin",
+          "Megurine Luka",
+          "Kaito"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which company created the Vocaloid voicebank Hatsune Miku?",
+        "opts": [
+          "Crypton Future Media",
+          "Yamaha Corporation, the engine's maker",
+          "Sega, publisher of Project DIVA",
+          "AH-Software, maker of Yuzuki Yukari"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is Vocaloid, fundamentally?",
+        "opts": [
+          "A singing voice synthesizer software",
+          "A video game console made by Sega",
+          "A social media platform for musicians",
+          "A music streaming subscription service"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What color is most associated with Hatsune Miku?",
+        "opts": [
+          "Turquoise",
+          "Pink, like Megurine Luka's hair",
+          "Yellow, like Kagamine Rin's bow",
+          "Purple, like Gackpoid's ponytail"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which twin Vocaloid characters share a design, one in yellow and one in orange?",
+        "opts": [
+          "Kagamine Rin and Len",
+          "Miku and Luka, Crypton's other duo",
+          "Meiko and Kaito, the earliest two Vocaloids",
+          "GUMI and IA, both independently produced"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which male Vocaloid is known for wearing a blue scarf?",
+        "opts": [
+          "Kaito",
+          "Len",
+          "Gakupo",
+          "Piko"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What does the '01' in Hatsune Miku's design refer to?",
+        "opts": [
+          "Her model number as Crypton's first character",
+          "Her official age in years, per her profile",
+          "The release month printed on her packaging",
+          "Her total number of released songs to date"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which company developed the original Vocaloid engine software?",
+        "opts": [
+          "Yamaha Corporation",
+          "Crypton Future Media",
+          "Sony",
+          "Nintendo"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which pink-haired Vocaloid is known for her low, sultry singing voice?",
+        "opts": [
+          "Megurine Luka",
+          "Hatsune Miku",
+          "IA",
+          "Meiko"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "In what country was Vocaloid technology originally developed?",
+        "opts": [
+          "Japan",
+          "United States",
+          "United Kingdom",
+          "South Korea"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which red-haired Vocaloid was one of the earliest Japanese voicebanks, releasing before Miku?",
+        "opts": [
+          "Meiko",
+          "Luka, released several years later",
+          "Rin, one of the Kagamine twins",
+          "Miku, the most famous Vocaloid"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What describes live shows where Hatsune Miku appears performing as a projected animated figure?",
+        "opts": [
+          "Vocaloid holographic concerts",
+          "Silent discos with synced headphones",
+          "Radio broadcasts with no visuals at all",
+          "Virtual reality games played at home"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is a composer who writes and releases Vocaloid songs commonly called?",
+        "opts": [
+          "A Vocaloid producer",
+          "A Vocaloid engineer",
+          "A Vocaloid arranger",
+          "A Vocaloid manager"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which Vocaloid character is themed around a green onion, or 'negi'?",
+        "opts": [
+          "Hatsune Miku",
+          "Kagamine Len",
+          "GUMI",
+          "Kaito"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the Vocaloid known by the mononym 'GUMI' officially named?",
+        "opts": [
+          "Megpoid",
+          "Megurine",
+          "Gumina",
+          "Gackpoid"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which video game series prominently features rhythm gameplay set to Vocaloid songs?",
+        "opts": [
+          "Hatsune Miku: Project DIVA",
+          "Guitar Hero, the plastic guitar series",
+          "Just Dance, the motion-controlled series",
+          "Dance Dance Revolution, the arcade classic"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What term describes the outfit variations given to Vocaloid characters in games?",
+        "opts": [
+          "Modules",
+          "Skins",
+          "Avatars",
+          "Overlays"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "The word 'Vocaloid' is a portmanteau of 'vocal' and what other word?",
+        "opts": [
+          "Android",
+          "Asteroid",
+          "Void",
+          "Humanoid"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which blue-haired male Vocaloid was one of the first two Japanese voicebanks released?",
+        "opts": [
+          "Kaito",
+          "Meiko",
+          "Len",
+          "Gackpoid"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "What is the name of Crypton's annual Hatsune Miku concert tour series?",
+        "opts": [
+          "Miku Expo",
+          "Vocaloid Fest",
+          "Diva Live",
+          "Voice Con"
+        ],
+        "a": 0,
+        "tier": 1
+      },
+      {
+        "q": "Which software company owns the trademark for the term 'Vocaloid' itself?",
+        "opts": [
+          "Yamaha Corporation",
+          "Crypton Future Media",
+          "Sega",
+          "Google"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which song, produced by livetune, is widely credited with popularizing Hatsune Miku overseas?",
+        "opts": [
+          "World is Mine",
+          "Melt",
+          "Senbonzakura",
+          "Two-Faced Lovers"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which producer created the viral song 'Senbonzakura'?",
+        "opts": [
+          "Kurousa-P",
+          "ryo (supercell)",
+          "DECO*27",
+          "wowaka"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What does 'UTAU' refer to in relation to Vocaloid?",
+        "opts": [
+          "A free alternative voice synthesizer software",
+          "An official Vocaloid engine version update",
+          "A record label that releases Vocaloid albums",
+          "A type of officially licensed Vocaloid concert"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which cheerful Vocaloid character was developed by AH-Software (AHS)?",
+        "opts": [
+          "Yuzuki Yukari",
+          "Hatsune Miku",
+          "Megurine Luka",
+          "IA"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which Vocaloid, whose name stands for 'Internet Angel,' was produced by 1st PLACE?",
+        "opts": [
+          "IA",
+          "GUMI",
+          "CUL",
+          "Lily"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which producer is known for the song 'Rolling Girl'?",
+        "opts": [
+          "wowaka",
+          "DECO*27",
+          "Kikuo",
+          "Mitchie M"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "On Nico Nico Douga, what is it called when a Vocaloid song becomes hugely popular and earns a special badge?",
+        "opts": [
+          "Hall of Legend status",
+          "Platinum Hit status",
+          "Diamond Track status",
+          "Featured Song status"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which jazzy-voiced Vocaloid with orange twintails was released by Internet Co., Ltd.?",
+        "opts": [
+          "Lily",
+          "Miku",
+          "Rin",
+          "Gumi"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What was the name of the first English-language Vocaloid released by Crypton Future Media?",
+        "opts": [
+          "Sweet Ann",
+          "Big Al, a deep-voiced male voicebank",
+          "Prima, an operatic soprano voicebank",
+          "Tonio, an Italian-language voicebank"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which producer created the widely covered song 'Melt'?",
+        "opts": [
+          "ryo (supercell)",
+          "wowaka, known for rapid vocal delivery",
+          "DECO*27, known for obsessive love songs",
+          "Kikuo, known for surreal horror themes"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which video platform was central to the early growth of Japan's Vocaloid fan community?",
+        "opts": [
+          "Nico Nico Douga",
+          "YouTube, the global video platform",
+          "Twitch, mainly used for live streaming",
+          "Bilibili, popular mainly in China"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which Korean Vocaloid, released by SBS Artech, has a hanbok-inspired design?",
+        "opts": [
+          "SeeU",
+          "IA",
+          "CUL",
+          "Fukase"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which producer created the song 'Just Be Friends'?",
+        "opts": [
+          "Dixie Flatline",
+          "wowaka, creator of Rolling Girl",
+          "DECO*27, creator of Ghost Rule",
+          "Kikuo, creator of Mushroom Song"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is a fully produced Vocaloid music video with an original story commonly called?",
+        "opts": [
+          "A Vocaloid PV",
+          "A Vocaloid OVA",
+          "A Vocaloid drama CD",
+          "A Vocaloid light novel"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What does the 'V1', 'V2', 'V3' labeling on Vocaloid products refer to?",
+        "opts": [
+          "The version of the Vocaloid engine used",
+          "The specific year the character was released",
+          "The character's default voice pitch setting",
+          "The total number of songs the character has"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which pink-haired Vocaloid, released by Crypton after Miku, offers both Japanese and English voicebanks?",
+        "opts": [
+          "Megurine Luka",
+          "Kagamine Rin",
+          "GUMI",
+          "IA"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "Which producer created the eerie hit 'Deep Sea Girl'?",
+        "opts": [
+          "Kanaria",
+          "wowaka",
+          "DECO*27",
+          "Mitchie M"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What is the Vocaloid editor feature called that lets users manually adjust each note's pitch and timing?",
+        "opts": [
+          "The piano roll editor",
+          "The mixer console",
+          "The waveform inspector",
+          "The lyric synchronizer"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What term refers to fan-made illustrations depicting Vocaloid characters, a major part of the fandom's output?",
+        "opts": [
+          "Fan art",
+          "Doujinshi exclusively",
+          "Cosplay renders",
+          "Concept sheets"
+        ],
+        "a": 0,
+        "tier": 2
+      },
+      {
+        "q": "What year was the original Hatsune Miku Vocaloid2 voicebank released?",
+        "opts": [
+          "2007",
+          "2004",
+          "2010",
+          "2001"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which voice actress provided the vocal samples for Hatsune Miku?",
+        "opts": [
+          "Saki Fujita",
+          "Yu Asakawa",
+          "Asami Shimoda",
+          "Rina Hidaka"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which voice actress provided the sample voice for Kagamine Rin and Len?",
+        "opts": [
+          "Asami Shimoda",
+          "Saki Fujita",
+          "Yu Asakawa",
+          "Megumi Nakajima"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which voice actress lent her voice to Megurine Luka?",
+        "opts": [
+          "Yu Asakawa",
+          "Saki Fujita",
+          "Asami Shimoda",
+          "Aki Misato"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which Vocaloid engine generation introduced Hatsune Miku V4X's more natural vocals?",
+        "opts": [
+          "Vocaloid4",
+          "Vocaloid2",
+          "Vocaloid3",
+          "Vocaloid5"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which Finnish folk song cover became one of the earliest viral Hatsune Miku videos in 2007?",
+        "opts": [
+          "Ievan Polkka",
+          "Senbonzakura",
+          "World is Mine",
+          "Just Be Friends"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which platform, run by Crypton, serves as a hub for sharing Vocaloid-related fan content?",
+        "opts": [
+          "Piapro",
+          "Yamaha Music Cloud",
+          "Sega Fan Portal",
+          "Dwango Studio"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which producer created 'Tell Your World,' used in a 2012 Google Chrome commercial?",
+        "opts": [
+          "livetune (kz)",
+          "wowaka, known for World's End Dancehall",
+          "DECO*27, known for Ghost Rule",
+          "Kikuo, known for Mushroom Song"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "How does Hatsune Miku typically 'perform' at her live concerts alongside a real backing band?",
+        "opts": [
+          "Via a rear-projection screen showing an animated figure",
+          "Via a CGI motion-capture puppet worn by a performer",
+          "Via an augmented reality headset for the audience",
+          "Via laser projection mapping onto smoke"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which singer provided the sample voice for the Vocaloid GUMI?",
+        "opts": [
+          "Megumi Nakajima",
+          "Saki Fujita, Hatsune Miku's voice provider",
+          "Asami Shimoda, the voice behind Luka",
+          "Nana Mizuki, a famous anime singer"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What year did Sega release the first 'Hatsune Miku: Project DIVA' rhythm game?",
+        "opts": [
+          "2009",
+          "2007",
+          "2011",
+          "2005"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which producer created 'Rolling Girl,' a song noted for themes of anxiety and self-doubt?",
+        "opts": [
+          "wowaka",
+          "DECO*27",
+          "Kikuo",
+          "Mitchie M"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is it called when a Vocaloid song passes one million views on Nico Nico Douga, marked with a special tag?",
+        "opts": [
+          "Reaching 'Hall of Legend' status",
+          "Reaching official Platinum status",
+          "Reaching a Gold record certification",
+          "Reaching Triple Crown ranking status"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which free 3D animation software, made by an independent creator, is widely used to animate Vocaloid music videos?",
+        "opts": [
+          "MikuMikuDance",
+          "Vocaloid Editor",
+          "Piapro Studio",
+          "UTAU"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Who originally created the 3D animation software MikuMikuDance (MMD)?",
+        "opts": [
+          "An independent creator known as Yu Higuchi",
+          "Crypton Future Media, the Miku voicebank publisher",
+          "Sega, the Project DIVA game developer",
+          "Yamaha, the Vocaloid engine's maker"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is Crypton's official composing software for their Vocaloids, succeeding older Vocaloid2 tools?",
+        "opts": [
+          "Piapro Studio",
+          "Synth1",
+          "Cubase Vocaloid Edition",
+          "VOCALOID Keyboard"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which producer created the popular song 'Ghost Rule'?",
+        "opts": [
+          "DECO*27",
+          "wowaka",
+          "Kikuo",
+          "Mitchie M"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Why is March 9th significant to the Vocaloid fandom in Japan?",
+        "opts": [
+          "Its digits can be read as a pun on 'Miku'",
+          "It marks Miku's official release date",
+          "It is the anniversary of her first concert",
+          "It marks Crypton Future Media's founding"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which Vocaloid, released in 2013, was voiced by a member of the band Sekai no Owari?",
+        "opts": [
+          "Fukase",
+          "Gackpoid",
+          "VY1",
+          "Zola Project"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "What is a human singer's cover version of a Vocaloid song commonly called in the fandom?",
+        "opts": [
+          "An utattemita",
+          "A karaokemita",
+          "A cover PV",
+          "A remix track"
+        ],
+        "a": 0,
+        "tier": 3
+      },
+      {
+        "q": "Which Vocaloid engine version, released in 2014, added cross-synthesis and improved vibrato for Miku V4X?",
+        "opts": [
+          "Vocaloid4",
+          "Vocaloid3",
+          "Vocaloid2",
+          "Vocaloid5"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which two Vocaloids were released together by Zero-G in 2004 as the first commercial voicebanks?",
+        "opts": [
+          "Leon and Lola",
+          "Sweet Ann and Big Al",
+          "Miriam and Prima",
+          "Tonio and Big Al"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which company's 'Character Vocal Series' numbering labels Miku as CV01?",
+        "opts": [
+          "Crypton Future Media",
+          "Yamaha, the engine's original developer",
+          "AH-Software, known for Yuzuki Yukari",
+          "Internet Co., known for the Vocaloid Lily"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What was Yamaha's original 2003 singing synthesis engine called, before individual character voicebanks launched?",
+        "opts": [
+          "Vocaloid",
+          "Vocaloid2",
+          "Piapro Engine",
+          "Synth Voice 1"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which Barcelona university's research group contributed foundational singing synthesis work later used in Vocaloid?",
+        "opts": [
+          "Universitat Pompeu Fabra",
+          "MIT Media Lab",
+          "Stanford CCRMA",
+          "Tokyo Institute of Technology"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which Korean broadcasting company originally developed the Vocaloid SeeU?",
+        "opts": [
+          "SBS Artech",
+          "Crypton Future Media",
+          "AH-Software",
+          "1st PLACE"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which producer, known as 'Mitchie M,' created the viral 'Packaged' PV using MikuMikuDance choreography?",
+        "opts": [
+          "Mitchie M",
+          "livetune, producer of World is Mine",
+          "DECO*27, producer of Ghost Rule",
+          "Kikuo, producer of Mushroom Song"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What was the subtitle of the first official Hatsune Miku concert, held in Japan in 2009?",
+        "opts": [
+          "Miku no Hi Kanshasai",
+          "Miku Expo Live, a later touring show",
+          "39's Giving Day, a fan-made naming pun",
+          "Snow Miku Festival, held each winter"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which bright green Vocaloid, from the Vocaloid Character Design Project, is themed around a bold rock aesthetic?",
+        "opts": [
+          "Galaco",
+          "GUMI",
+          "CUL",
+          "Gackpoid"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What synthesis method did Vocaloid originally use, built from recorded phoneme samples?",
+        "opts": [
+          "Concatenative synthesis",
+          "Formant synthesis",
+          "Additive synthesis",
+          "Physical modeling synthesis"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which producer created 'Envy Catwalk,' known for its jazzy, upbeat style?",
+        "opts": [
+          "Mitchie M",
+          "DECO*27, known for dramatic love songs",
+          "wowaka, known for frantic vocal rhythms",
+          "Kikuo, known for unsettling imagery"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What concert series, first held in 2014, brought Hatsune Miku's live shows to North America?",
+        "opts": [
+          "Miku Expo",
+          "Miku no Hi Live",
+          "Snow Miku Live",
+          "Voice Fest"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What term describes letting one Vocaloid's voicebank sing convincingly using another's registered timbre?",
+        "opts": [
+          "Cross-synthesis",
+          "Voicebank morphing",
+          "Vocal cloning",
+          "Timbre transposition"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which producer released the widely covered song 'Suki Kirai' (Like Hate)?",
+        "opts": [
+          "Junky",
+          "DECO*27",
+          "wowaka",
+          "Kikuo"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What plugin format lets Vocaloid voicebanks be used inside standard DAWs like Cubase?",
+        "opts": [
+          "VSTi instrument plugins",
+          "Vocaloid Editor for Cubase",
+          "ReWire integration",
+          "MIDI 2.0 extension"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which university's speech research directly informed Yamaha's development of the first Vocaloid engine?",
+        "opts": [
+          "Universitat Pompeu Fabra",
+          "University of Tokyo",
+          "Kyoto University",
+          "Carnegie Mellon University"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which was the first major Chinese-language Vocaloid, released by Shanghai Henian in 2012?",
+        "opts": [
+          "Luo Tianyi",
+          "Yuezheng Ling",
+          "Xin Hua",
+          "Mo Qingxian"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which producer, known as 'Kikuo,' is recognized for surreal, unsettling songs like 'Mushroom Song'?",
+        "opts": [
+          "Kikuo",
+          "wowaka",
+          "DECO*27",
+          "Mitchie M"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What term refers to official derivative content approved under Crypton's Piapro Character License?",
+        "opts": [
+          "PCL-licensed content",
+          "Creative Commons Vocaloid content",
+          "Doujin-approved content",
+          "Fan-certified content"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "Which Vocaloid, released by Internet Co. in 2011, has a jazz-lounge singer aesthetic and a later English voicebank?",
+        "opts": [
+          "Lily",
+          "Miki",
+          "CUL",
+          "Rana"
+        ],
+        "a": 0,
+        "tier": 4
+      },
+      {
+        "q": "What speech synthesis method, based on recorded diphone samples, formed the basis of the original 2003 Vocaloid engine?",
+        "opts": [
+          "Diphone concatenative synthesis",
+          "Hidden Markov model synthesis",
+          "Formant-based additive synthesis",
+          "Neural vocoder synthesis"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which researcher at Yamaha led development of the original Vocaloid engine technology?",
+        "opts": [
+          "Hideki Kenmochi",
+          "Kazuho Kaida",
+          "Wataru Sasaki",
+          "Toshiyuki Niino"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "In what year did Yamaha first publicly demonstrate the Vocaloid singing synthesis technology?",
+        "opts": [
+          "2003",
+          "2000",
+          "2006",
+          "1998"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What is the name of the AI-driven successor engine Yamaha has previewed to modernize Vocaloid's synthesis?",
+        "opts": [
+          "VOCALOID:AI",
+          "Synthesizer V",
+          "NEUTRINO",
+          "Sinsy"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which free software project, first released in 2008, offered a DIY alternative to Vocaloid using user-recorded samples?",
+        "opts": [
+          "UTAU",
+          "CeVIO",
+          "NEUTRINO",
+          "Sinsy"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which rival singing synthesis engine, from AH-Software and Techno-Speech, blends spoken and sung vocal modes?",
+        "opts": [
+          "CeVIO",
+          "UTAU",
+          "Synthesizer V",
+          "Piapro Studio"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which producer group's self-titled 2009 debut album, featuring Miku vocals, notably charted top ten on Oricon?",
+        "opts": [
+          "Supercell",
+          "Livetune",
+          "EXIT TUNES",
+          "1000mai"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which deep-learning singing synthesis engine, from Dreamtonics, first released in 2018?",
+        "opts": [
+          "Synthesizer V",
+          "NEUTRINO, a free neural singing engine",
+          "CeVIO AI, AH-Software's synthesis engine",
+          "VOCALOID:AI, Yamaha's research project"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which Vocaloid product uses the 'NT' branding for a newer neural-network-based synthesis mode?",
+        "opts": [
+          "Crypton's Hatsune Miku NT",
+          "Yamaha's Vocaloid NT engine",
+          "AH-Software's Yukari NT",
+          "Internet Co.'s Lily NT"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What Japanese term, literally meaning 'sung it myself,' describes fan-made human vocal covers of Vocaloid songs?",
+        "opts": [
+          "Utattemita",
+          "Odottemita",
+          "Ensousite mita",
+          "Yattemita"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What is the name for Crypton's 2007 framework licensing Vocaloid characters for derivative fan works?",
+        "opts": [
+          "The Piapro Character License",
+          "The Creative Commons Zero License",
+          "The Open Vocaloid License",
+          "The Fair Use Derivative License"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which research institute developed 'Sinsy,' an academic HMM-based singing synthesis system distinct from Vocaloid?",
+        "opts": [
+          "Nagoya Institute of Technology",
+          "University of Tokyo",
+          "Kyoto University",
+          "Nara Institute of Science and Technology"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which Vocaloid engine version introduced 'Voice Color Control' for blending timbre between voicebanks?",
+        "opts": [
+          "Vocaloid5",
+          "Vocaloid4",
+          "Vocaloid3",
+          "Vocaloid2"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What Vocaloid editor parameter, abbreviated BRE, controls a note's breathiness or huskiness?",
+        "opts": [
+          "The Breathiness parameter",
+          "The Gender factor parameter",
+          "The Clearness parameter",
+          "The Opening parameter"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What Vocaloid editor parameter, abbreviated CLE, adjusts a vocal tone's perceived brightness?",
+        "opts": [
+          "The Clearness parameter",
+          "The Breathiness parameter",
+          "The Gender factor parameter",
+          "The Dynamics parameter"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "Which company originally released the Chinese Vocaloid Luo Tianyi before her branding shifted to VSinger?",
+        "opts": [
+          "Shanghai Henian",
+          "Crypton Future Media",
+          "Yamaha China",
+          "Bilibili"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What was the name of AH-Software's software toolkit behind CeVIO's talk-and-sing hybrid engine?",
+        "opts": [
+          "CeVIO Creative Studio",
+          "Piapro Studio, Crypton's own editor",
+          "Vocaloid Editor, Yamaha's official tool",
+          "UTAU Synthesizer, the free fan-made tool"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What Japanese term describes hand-adjusting a Vocaloid track's pitch bends and timing to sound more human?",
+        "opts": [
+          "Chokyo (tuning)",
+          "Vocaloid mastering",
+          "Vocaloid mixing",
+          "Vocaloid quantizing"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What Japanese tag marks a Vocaloid song that has surpassed ten million views on Nico Nico Douga?",
+        "opts": [
+          "Den-setsu iri (Hall of Legend)",
+          "Chouzetsu tag, reserved for staff picks",
+          "Saikyou label, used for contest winners",
+          "Kessaku mark, given to archived classics"
+        ],
+        "a": 0,
+        "tier": 5
+      },
+      {
+        "q": "What is the name of Crypton's annual winter festival in Sapporo celebrating a snow-costumed Hatsune Miku?",
+        "opts": [
+          "Snow Miku Festival",
+          "Miku no Hi Kanshasai",
+          "Miku Expo Winter",
+          "39's Snow Live"
+        ],
+        "a": 0,
+        "tier": 5
+      }
+    ]
   }
 ];
