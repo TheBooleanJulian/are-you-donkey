@@ -4,7 +4,7 @@
 
 **A single-file Dunning-Kruger quizlet that plots your confidence vs. your actual score — so you can see exactly where you land.**
 
-![Version](https://img.shields.io/badge/version-3.5.0-00D4C8)
+![Version](https://img.shields.io/badge/version-3.6.0-00D4C8)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![License](https://img.shields.io/badge/license-AGPLv3%20%2F%20Commercial-00D4C8.svg)
@@ -57,7 +57,7 @@ npx serve .
 ```
 are-you-donkey/
 |-- index.html                              # Entire app: markup, inline CSS, inline JS
-|-- questions.js                            # Question bank — 1,400 questions across 14 topics
+|-- questions.js                            # Question bank — 2,300 questions across 23 topics
 |-- scripts/check-answer-length.js          # Lints questions.js for the "longest answer wins" tell
 |-- .github/workflows/question-bank-lint.yml # Runs the linter above on every push/PR that touches questions.js
 |-- LICENSE
@@ -100,6 +100,7 @@ Static site deployed on Zeabur — connect the repo in the Zeabur dashboard and 
 
 Summarised from commit history and versioning notes, most recent first.
 
+- **v3.6.0** — Topic selection now sorts alphabetically at render time regardless of insertion order in `questions.js`; slightly larger font sizes on mobile (question text, answer options, and other reading-flow text) for better readability on small screens
 - **v3.5.0** — Added 2 new topics — Automotive and Vocaloid — bringing the total to 23 topics and 2,300 questions; verified 0/2,300 flagged against the answer-length ratio
 - **v3.4.0** — Added 7 new topics — Singapore, Artificial Intelligence, Design, Anime, Aviation, Psychology, and Military History — bringing the total to 21 topics and 2,100 questions; every new question was written to satisfy the answer-length ratio from the start (verified 0/2,100 flagged) and topic grid widened from 2 to 3 columns to fit the larger topic count
 - **v3.3.0** — Finished the answer-length cleanup: the remaining 1,090 questions where the correct answer was more than 1.1x longer than the longest wrong option were fixed (correct answer tightened or a wrong option naturally elaborated, question by question). Added `scripts/check-answer-length.js`, a linter enforcing that ratio, and a GitHub Actions workflow that runs it on every push/PR touching `questions.js` so future question additions can't reintroduce the "longest answer wins" tell.
