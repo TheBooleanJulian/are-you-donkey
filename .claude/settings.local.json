@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sort -u -t: -k3)",
+      "Bash(python3 -c ' *)",
+      "Bash(awk 'NR==344,NR==15843 && /^  \\\\{$/ {print NR}' index.html)",
+      "Bash(awk 'NR>=344 && NR<=15843 && /^  \\\\{$/ {print NR}' index.html)",
+      "Bash(awk 'NR>=344 && NR<=15843 && /^  \\\\},?$/ {print NR}' index.html)",
+      "Bash(python3)",
+      "Bash(node -e ' *)",
+      "Bash(node --check /tmp/extracted.js)",
+      "Bash(mkdir -p /c/Users/julia/AppData/Local/Temp/claude/extract)",
+      "Bash(node --check extracted.js)",
+      "Bash(rm extracted.js)",
+      "Bash(git init *)",
+      "Read(//c/Users/julia/AppData/Local/Temp/claude/**)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git remote *)",
+      "Bash(git branch *)",
+      "Bash(git push *)",
+      "Bash(node --check questions.js)"
+    ]
+  }
+}
