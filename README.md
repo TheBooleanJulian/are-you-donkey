@@ -7,7 +7,7 @@
 ![Version](https://img.shields.io/badge/version-3.6.0-00D4C8)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![License](https://img.shields.io/badge/license-AGPLv3%20%2F%20Commercial-00D4C8.svg)
+![License](https://img.shields.io/badge/license-AGPLv3%20%2B%20Commercial-00D4C8.svg)
 
 </div>
 
@@ -27,6 +27,13 @@ Are You Donkey? quizzes you on a topic of your choice, but makes you self-rate y
 - **Confetti burst** on results
 - **Export results as PNG** to share
 - Zero dependencies, zero build step — open `index.html` in a browser and go
+
+## Screenshots
+
+![Are You Donkey? logo](assets/are-you-donkey-logo.png)
+
+![Internet Meme Culture topic icon](assets/are-you-donkey-internet-meme-culture.png)
+![Photography topic icon](assets/are-you-donkey-photography.png)
 
 ## Tech Stack
 
