@@ -6,3 +6,6 @@ node_modules/
 dk-mirror.html
 mirror-curve-v2.0.0.zip
 .vscode/
+
+# Local tool state, never commit
+.claude/
